@@ -15,7 +15,7 @@ class VehicleNumberLoader:
     def __init__(self):
         pass
 
-    def load(self, only_missing=True, from_file=os.path.abspath(os.path.join('.', 'data', 'vehicle', 'missing.txt'))):
+    def load(self, only_missing=True, from_file=os.path.abspath(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'data', 'vehicle', 'missing.txt'))):
         """
             Load the missing vehicle numbers and return a set that contains all vehicles that need to be captured.
         :param cmd_str:

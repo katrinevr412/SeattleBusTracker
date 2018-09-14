@@ -1,4 +1,5 @@
 import re
+import os
 
 
 class TrackerConfig:
@@ -12,7 +13,7 @@ class TrackerConfig:
     def __init__(self):
         self.__load_real_default()
         try:
-            with open('./config', 'r') as config:
+            with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'config'), 'r') as config:
                 self.__read_config(config.readlines())
         except:
             # in case the config file is missing, fall back to "real" default values

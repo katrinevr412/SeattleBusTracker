@@ -12,7 +12,7 @@ class LocalRouteInfoClient(KCMBaseClient):
         in_out_bound_route_ids = self._plug_in_in_out_bound(route_ids)
         result = {}
         for route_id_ in in_out_bound_route_ids:
-            with open(os.path.join('.', 'data', 'routes', str(route_id_) + '.txt'), 'r') as cache_file:
+            with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'routes', str(route_id_) + '.txt'), 'r') as cache_file:
                 response_data = json.load(fp=cache_file)
             result[route_id_] = response_data
         return self._process_route_response(result)

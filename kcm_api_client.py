@@ -25,7 +25,7 @@ class KingCountyMetroRealTimeAPIClient(KCMBaseClient):
             response_data = self.__call(request_data)
             result[route_id_] = response_data
             if cache:
-                caching_dir = os.path.abspath(os.path.join('.', 'data', 'routes'))
+                caching_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'routes'))
                 if not os.path.exists(caching_dir):
                     os.makedirs(caching_dir)
                 with open(os.path.join(caching_dir, str(route_id_) + '.txt'), 'w') as cache_file:
