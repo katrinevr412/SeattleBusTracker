@@ -1,10 +1,14 @@
-from stop import Stop
-from pattern import Pattern
-from route import Route
-from constants import Constants
+from rubbishy_kcm_vehicle_tracker.components.stop import Stop
+from rubbishy_kcm_vehicle_tracker.components.pattern import Pattern
+from rubbishy_kcm_vehicle_tracker.components.route import Route
+from rubbishy_kcm_vehicle_tracker.cache.route_info_cache import RouteInfoCache
+from rubbishy_kcm_vehicle_tracker.utils.utils import Utils
 
 
 class KCMBaseClient:
+
+    def __init__(self):
+        self.cache_client = RouteInfoCache()
 
     def _process_route_response(self, result):
         res = {}
@@ -17,16 +21,10 @@ class KCMBaseClient:
                      [Pattern.deserialize_from_json_obj(pattern) for pattern in patterns])
         return res
 
-    def __get_start_in_out_bound_suffix(self, route_id):
-        for suffix in Constants.IN_OUT_BOUND_SUFFIX_MAPPING:
-            if int(route_id) in Constants.IN_OUT_BOUND_SUFFIX_MAPPING[suffix]:
-                return suffix, suffix + 1
-        return Constants.DEFAULT_INBOUND_LINEID_SUFFIX, Constants.DEFAULT_OUTBOUND_LINEID_SUFFIX
-
     def _plug_in_in_out_bound(self, route_ids):
         result = []
         for route_id in route_ids:
-            inbound_suffix, outbound_suffix = self.__get_start_in_out_bound_suffix(route_id)
+            inbound_suffix, outbound_suffix = Utils.get_start_in_out_bound_suffix(route_id)
             result.append(str(route_id) + str(inbound_suffix))
             result.append(str(route_id) + str(outbound_suffix))
         return result

@@ -1,4 +1,4 @@
-from vector_utils import VectorUtils
+from rubbishy_kcm_vehicle_tracker.utils.vector_utils import VectorUtils
 import math
 
 

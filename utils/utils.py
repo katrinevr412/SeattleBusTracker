@@ -1,6 +1,6 @@
 import datetime
 import pytz
-from constants import Constants
+from rubbishy_kcm_vehicle_tracker.constants import Constants
 
 
 class Utils:
@@ -42,3 +42,10 @@ class Utils:
         return "KingCountyMetro" \
             if len(str(vehicle_id)) == 4 and not str(vehicle_id).startswith('9') \
             else "SoundTransit"
+
+    @staticmethod
+    def get_start_in_out_bound_suffix(route_id):
+        for suffix in Constants.IN_OUT_BOUND_SUFFIX_MAPPING:
+            if int(route_id) in Constants.IN_OUT_BOUND_SUFFIX_MAPPING[suffix]:
+                return suffix, suffix + 1
+        return Constants.DEFAULT_INBOUND_LINEID_SUFFIX, Constants.DEFAULT_OUTBOUND_LINEID_SUFFIX

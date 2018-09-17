@@ -1,15 +1,30 @@
 import requests
 import json
-import os
-from vehicle import Vehicle
+from rubbishy_kcm_vehicle_tracker.components.vehicle import Vehicle
 from kcm_base_client import KCMBaseClient
-from constants import Constants
+from rubbishy_kcm_vehicle_tracker.constants import Constants
 
 
 class KingCountyMetroRealTimeAPIClient(KCMBaseClient):
 
     def __init__(self):
+        KCMBaseClient.__init__(self)
         self.endpoint = 'http://tripplanner.kingcounty.gov/RealTimeManager'
+
+    def get_raw_route_info_response(self, route_ids):
+        in_out_bound_route_ids = self._plug_in_in_out_bound(route_ids)
+        result = {}
+        for route_id_ in in_out_bound_route_ids:
+            request_data = {
+                "version": "1.1",
+                "method": "GetLineTraceAndStops",
+                "params": {
+                    "LineDirId": int(route_id_)
+                }
+            }
+            response_data = self.__call(request_data)
+            result[route_id_] = response_data
+        return result
 
     def get_route_info(self, route_ids, cache=True):
         in_out_bound_route_ids = self._plug_in_in_out_bound(route_ids)
@@ -25,11 +40,7 @@ class KingCountyMetroRealTimeAPIClient(KCMBaseClient):
             response_data = self.__call(request_data)
             result[route_id_] = response_data
             if cache:
-                caching_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'routes'))
-                if not os.path.exists(caching_dir):
-                    os.makedirs(caching_dir)
-                with open(os.path.join(caching_dir, str(route_id_) + '.txt'), 'w') as cache_file:
-                    json.dump(response_data, fp=cache_file)
+                self.cache_client.write(route_id_, response_data)
         return self._process_route_response(result)
 
     def get_vehicle_info_on_routes(self, route_ids):

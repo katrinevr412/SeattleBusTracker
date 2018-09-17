@@ -15,7 +15,7 @@ class VehicleNumberLoader:
     def __init__(self):
         pass
 
-    def load(self, only_missing=True, from_file=os.path.abspath(os.path.join(os.path.abspath(os.path.dirname(__file__)), 'data', 'vehicle', 'missing.txt'))):
+    def load(self, missing_only=True, from_file=os.path.abspath(os.path.join('.', 'data', 'vehicle', 'missing.txt'))):
         """
             Load the missing vehicle numbers and return a set that contains all vehicles that need to be captured.
         :param cmd_str:
@@ -25,10 +25,10 @@ class VehicleNumberLoader:
         tracking_vehicles = set()
         with open(from_file, 'r') as missing_file:
             for line in missing_file.readlines():
-                tracking_vehicles = tracking_vehicles.union(self.__process_file_line(line, only_missing=only_missing))
+                tracking_vehicles = tracking_vehicles.union(self.__process_file_line(line, missing_only=missing_only))
         return tracking_vehicles
 
-    def __process_file_line(self, line, only_missing=True):
+    def __process_file_line(self, line, missing_only=True):
         line = line.strip()
         if not line or line.startswith('#'):
             return set()
@@ -52,6 +52,6 @@ class VehicleNumberLoader:
                 res.union([series + ('0' if suffix < 10 else '') + str(suffix) for suffix in range(
                     int(missing[:2]), int(missing[3:]) + 1
                 )])
-            elif not only_missing and self.IMPROVEMENT_PATTERN.match(missing):
+            elif not missing_only and self.IMPROVEMENT_PATTERN.match(missing):
                 res.add(series + missing[1:3])
         return res

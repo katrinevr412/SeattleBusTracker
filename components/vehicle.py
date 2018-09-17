@@ -1,6 +1,6 @@
 from position import Position
 from stop import Stop
-from utils import Utils
+from rubbishy_kcm_vehicle_tracker.utils.utils import Utils
 
 
 class Vehicle:
@@ -29,6 +29,6 @@ class Vehicle:
 
     def __str__(self):
         return "%s bus No. %s on route %s between stops %s [%.2f miles] and %s [%.2f miles]" % \
-                (Utils.get_running_agency(self.id), self.id, self.line_name,
-                 self.adjacent_stops[0], self.adjacent_stops[0].distance_in_mile(self.position),
-                 self.adjacent_stops[1], self.adjacent_stops[1].distance_in_mile(self.position))
+               (Utils.get_running_agency(self.id), self.id, self.line_name,
+                self.adjacent_stops[0], self.adjacent_stops[0].distance_in_mile(self.position),
+                self.adjacent_stops[1], self.adjacent_stops[1].distance_in_mile(self.position))

@@ -1,6 +1,6 @@
 from position import Position
 from math import pi as PI
-from vector_utils import VectorUtils
+from rubbishy_kcm_vehicle_tracker.utils.vector_utils import VectorUtils
 
 
 class Pattern:
