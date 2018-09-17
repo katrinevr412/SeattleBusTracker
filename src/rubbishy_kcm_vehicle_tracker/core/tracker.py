@@ -46,7 +46,7 @@ class Tracker:
         self.__get_route_info_from_route_id(tracking_routes)
 
         # update vehicle for all routes in tracking_vehicle_routes
-        grouped_tracking_vehicle_routes = self.__regroup(tracking_vehicle_routes)
+        grouped_tracking_vehicle_routes = Utils.regroup(tracking_vehicle_routes)
         result_vehicles = filter(
             lambda avehicle: str(avehicle.id) in tracking_vehicle_set,
             self.__get_vehicle_from_route_id_with_in_out_bound(grouped_tracking_vehicle_routes)
@@ -56,7 +56,7 @@ class Tracker:
 
     def track_by_route(self, routes):
         self.__get_route_info_from_route_id(routes)
-        grouped_routes = self.__regroup(routes)
+        grouped_routes = Utils.regroup(routes)
         vehicles = self.__get_vehicle_from_route_id_with_in_out_bound(grouped_routes)
         for result in self.__get_vehicle_stop_info_from_vehicle(vehicles):
             print result + '\n'
@@ -102,16 +102,3 @@ class Tracker:
             lambda vehicle: Utils.get_running_agency(vehicle.id) != 'Unknown',
             vehicles
         )
-
-    def __regroup(self, tracking_routes, size=Constants.MAXIMUM_LINE_QUERY):
-        grouped_routes = []
-        temp_routes = []
-        for i in range(len(tracking_routes)):
-            if i % size == 0:
-                if temp_routes:
-                    grouped_routes.append(temp_routes)
-                    temp_routes = []
-            temp_routes.append(tracking_routes[i])
-        if temp_routes:
-            grouped_routes.append(temp_routes)
-        return grouped_routes

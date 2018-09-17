@@ -6,6 +6,7 @@ sys.path.insert(0, root_package_path)
 from core.tracker import Tracker
 from cache.cache_checker import CacheChecker
 from cache.cache_loader import CacheLoader
+from data_collection.data_collector import DataCollector
 
 
 def main():
@@ -36,6 +37,9 @@ def main():
     cache_reload_parser.add_argument('-no-parallel', '--parallel', action='store_false', default=True,
                                      help='Whether to enable parallel execution for API calls.')
 
+    data_collection_parser = subparsers.add_parser('data-collect')
+    data_merge_parser = subparsers.add_parser('data-merge')
+
     args = parser.parse_args()
     if args.operation == 'track':
         handle_track(args)
@@ -43,6 +47,10 @@ def main():
         handle_cache_check(args)
     elif args.operation == 'cache-reload':
         handle_cache_reload(args)
+    elif args.operation == 'data-collect':
+        handle_data_collect(args)
+    elif args.operation == 'data-merge':
+        handle_data_merge(args)
 
 
 def handle_track(args):
@@ -64,6 +72,16 @@ def handle_cache_check(args):
 
 def handle_cache_reload(args):
     CacheLoader().load(parallel=args.parallel)
+
+
+def handle_data_collect(args):
+    data_collector = DataCollector()
+    data_collector.collect()
+
+
+def handle_data_merge(args):
+    data_collector = DataCollector()
+    data_collector.merge()
 
 
 if __name__ == '__main__':

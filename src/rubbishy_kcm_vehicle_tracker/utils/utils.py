@@ -1,5 +1,6 @@
 import datetime
 import pytz
+import os
 from rubbishy_kcm_vehicle_tracker.constants import Constants
 
 
@@ -49,3 +50,22 @@ class Utils:
             if int(route_id) in Constants.IN_OUT_BOUND_SUFFIX_MAPPING[suffix]:
                 return suffix, suffix + 1
         return Constants.DEFAULT_INBOUND_LINEID_SUFFIX, Constants.DEFAULT_OUTBOUND_LINEID_SUFFIX
+
+    @staticmethod
+    def regroup(tracking_routes, size=Constants.MAXIMUM_LINE_QUERY):
+        grouped_routes = []
+        temp_routes = []
+        for i in range(len(tracking_routes)):
+            if i % size == 0:
+                if temp_routes:
+                    grouped_routes.append(temp_routes)
+                    temp_routes = []
+            temp_routes.append(tracking_routes[i])
+        if temp_routes:
+            grouped_routes.append(temp_routes)
+        return grouped_routes
+
+    @staticmethod
+    def make_dir_if_not_exists(dir_path):
+        if not os.path.exists(dir_path):
+            os.makedirs(dir_path)

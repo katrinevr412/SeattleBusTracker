@@ -27,6 +27,9 @@ class Vehicle:
     def get_vehicle_running_info(self, route):
         self.adjacent_stops = route.get_adjacent_stops(self.position)
 
+    def get_route_number(self):
+        return str(self.line_id)[:-1]
+
     def __str__(self):
         return "%s bus No. %s on route %s between stops %s [%.2f miles] and %s [%.2f miles]" % \
                (Utils.get_running_agency(self.id), self.id, self.line_name,

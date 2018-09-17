@@ -1,13 +1,13 @@
 import os
 import json
+from rubbishy_kcm_vehicle_tracker.utils.utils import Utils
 
 
 class RouteInfoCache:
 
     def __init__(self):
         self.caching_dir = os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'routes'))
-        if not os.path.exists(self.caching_dir):
-            os.makedirs(self.caching_dir)
+        Utils.make_dir_if_not_exists(self.caching_dir)
 
     def write(self, route_id, json_obj):
         with open(self.__get_cache_file_path(route_id), 'w') as _cache:
