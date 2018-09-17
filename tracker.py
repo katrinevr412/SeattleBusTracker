@@ -29,7 +29,7 @@ class Tracker:
         self.route_set = set()
         self.in_out_bound_route_dict = {}
 
-    def track(self, cmd_str=''):
+    def track_missing_vehicle(self, cmd_str=''):
         if cmd_str.strip():
             # if inputted a command str, overwrite it
             self.config.cmd_str = cmd_str.strip()
@@ -37,17 +37,10 @@ class Tracker:
         tracking_vehicle_routes = Utils.get_query_route_ids(cmd_str)
         tracking_routes = filter(lambda route_id: route_id not in self.route_set, tracking_vehicle_routes)
         result_vehicles = []
-        if not self.config.enable_parallel:
-            for route_id in tracking_routes:
-                _, route_info = load_route_info(route_id, self)
-                self.in_out_bound_route_dict.update(route_info)
-                self.route_set.add(route_id)
-        else:
-            prc_pool = Pool(len(tracking_routes))
-            results = prc_pool.imap_unordered(partial(load_route_info, tracker=self), tracking_routes)
-            for route_id, route_info in results:
-                self.in_out_bound_route_dict.update(route_info)
-                self.route_set.add(route_id)
+        for route_id in tracking_routes:
+            _, route_info = load_route_info(route_id, self)
+            self.in_out_bound_route_dict.update(route_info)
+            self.route_set.add(route_id)
 
         # update vehicle for all routes in tracking_vehicle_routes
         grouped_tracking_vehicle_routes = self.__regroup(tracking_vehicle_routes)
@@ -55,19 +48,29 @@ class Tracker:
         for route_ids in grouped_tracking_vehicle_routes:
             vehicles = self.vehicle_info_client.get_vehicle_info_on_routes(route_ids)
             result_vehicles += filter(lambda vehicle: str(vehicle.id) in tracking_vehicle_set, vehicles)
-        if not self.config.enable_parallel:
-            for vehicle in result_vehicles:
-                vehicle.get_vehicle_running_info(self.in_out_bound_route_dict[str(vehicle.line_id)])
-                output_results.append("%s" % vehicle)
-        else:
-            prc_pool = Pool(len(result_vehicles))
-            results = prc_pool.imap_unordered(partial(retrieve_vehicle_running_info, route_dict=self.in_out_bound_route_dict), result_vehicles)
-            for vehicle in results:
-                output_results.append("%s" % vehicle)
+        self.__get_and_print_vehicle_info(result_vehicles)
 
+    def track_by_route(self, routes):
+        self.in_out_bound_route_dict = self.route_info_client.get_route_info(routes,
+                                                           cache=self.config.cache,
+                                                           refresh_cache=self.config.refresh_cache
+                                                           )
+        result_vehicles = []
+        for route_ids in self.__regroup(routes):
+            result_vehicles += filter(
+                lambda vehicle: Utils.get_running_agency(vehicle.id) != 'Unknown',
+                self.vehicle_info_client.get_vehicle_info_on_routes(route_ids)
+            )
+        self.__get_and_print_vehicle_info(result_vehicles)
+
+    def __get_and_print_vehicle_info(self, vehicles):
+        output_results = []
+        for vehicle in vehicles:
+            vehicle.get_vehicle_running_info(self.in_out_bound_route_dict[str(vehicle.line_id)])
+            output_results.append("%s" % vehicle)
         sorted_results = sorted(output_results)
         for result in sorted_results:
-            print result
+            print result + "\n"
 
     def __regroup(self, tracking_routes, size=Constants.MAXIMUM_LINE_QUERY):
         grouped_routes = []

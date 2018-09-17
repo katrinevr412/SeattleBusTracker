@@ -37,6 +37,8 @@ class Utils:
     @staticmethod
     def get_running_agency(vehicle_id):
         # TODO: add Pierce Transit and Community Transit into this logic
+        if len(str(vehicle_id)) < 4:
+            return 'Unknown'
         return "KingCountyMetro" \
             if len(str(vehicle_id)) == 4 and not str(vehicle_id).startswith('9') \
             else "SoundTransit"

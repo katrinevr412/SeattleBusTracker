@@ -28,5 +28,7 @@ class Vehicle:
         self.adjacent_stops = route.get_adjacent_stops(self.position)
 
     def __str__(self):
-        return "%s bus No. %s on route %s between stops %s and %s" % \
-                (Utils.get_running_agency(self.id), self.id, self.line_name, self.adjacent_stops[0], self.adjacent_stops[1])
+        return "%s bus No. %s on route %s between stops %s [%.2f miles] and %s [%.2f miles]" % \
+                (Utils.get_running_agency(self.id), self.id, self.line_name,
+                 self.adjacent_stops[0], self.adjacent_stops[0].distance_in_mile(self.position),
+                 self.adjacent_stops[1], self.adjacent_stops[1].distance_in_mile(self.position))
