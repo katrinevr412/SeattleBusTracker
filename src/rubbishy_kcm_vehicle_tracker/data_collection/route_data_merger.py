@@ -1,5 +1,6 @@
 from data_merger import DataMerger
 from formatters import Formatters
+from rubbishy_kcm_vehicle_tracker.common.project_path import ProjectPathConfig
 import os
 
 
@@ -7,14 +8,14 @@ class RouteDataMerger(DataMerger):
 
     def __init__(self):
         from_dir = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            ProjectPathConfig.SOURCE_ROOT_PATH,
             'data',
             'runtime',
             'temp',
             'route'
         )
         to_dir = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            ProjectPathConfig.SOURCE_ROOT_PATH,
             'data',
             'runtime',
             'route'

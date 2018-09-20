@@ -1,4 +1,5 @@
 from data_writer import DataWriter
+from rubbishy_kcm_vehicle_tracker.common.project_path import ProjectPathConfig
 import os
 
 
@@ -6,7 +7,7 @@ class RouteDataWriter(DataWriter):
 
     def __init__(self):
         self.working_directory = os.path.join(
-            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            ProjectPathConfig.SOURCE_ROOT_PATH,
             'data',
             'runtime',
             'temp',
@@ -15,4 +16,4 @@ class RouteDataWriter(DataWriter):
         DataWriter.__init__(self, self.working_directory)
 
     def write_route(self, vehicle):
-        self.write(str(vehicle.get_route_number()) + '.txt', str(vehicle.id))
+        self.write(str(vehicle.get_route_number()) + '.txt', str(vehicle.get_id()))

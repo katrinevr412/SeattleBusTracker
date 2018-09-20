@@ -1,7 +1,7 @@
 import os
 import pytz
 from datetime import datetime
-from rubbishy_kcm_vehicle_tracker.utils.utils import Utils
+from rubbishy_kcm_vehicle_tracker.common.utils.common_utils import CommonUtils
 
 
 class DataMerger:
@@ -16,8 +16,8 @@ class DataMerger:
         self.date_formatter = date_formatter
         self.file_formatter = file_formatter
         self.clean_source = clean_source_after_complete
-        Utils.make_dir_if_not_exists(from_dir)
-        Utils.make_dir_if_not_exists(to_dir)
+        CommonUtils.make_dir_if_not_exists(from_dir)
+        CommonUtils.make_dir_if_not_exists(to_dir)
 
     def merge(self):
         filenames = filter(lambda path: os.path.isfile(os.path.join(self.from_dir, path)), os.listdir(self.from_dir))
