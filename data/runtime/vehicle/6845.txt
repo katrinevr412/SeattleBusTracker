@@ -1,0 +1,7 @@
+2018-09-17 Mon	301 301   AURORA VILLAGE EXPRESS
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	312 312   BOTHELL EXPRESS
+2018-09-19 Wed	77 77   DOWNTOWN SEATTLE EXPRESS	74 74   DOWNTOWN SEATTLE	41 41   DOWNTOWN SEATTLE	312 312   BOTHELL EXPRESS
+2018-09-20 Thu	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-21 Fri	312 312 - Downtown Seattle	308 308 - Horizon View	77 77 - North City Maple Leaf
+2018-09-24 Mon	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-09-25 Tue	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

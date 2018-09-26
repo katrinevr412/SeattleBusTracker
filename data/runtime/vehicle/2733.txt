@@ -1,0 +1,7 @@
+2018-09-17 Mon	301 301   AURORA VILLAGE EXPRESS
+2018-09-18 Tue	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	65 65   JACKSON PARK	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE
+2018-09-19 Wed	41 41   DOWNTOWN SEATTLE	372 372   UNIVERSITY DISTRICT EXPRESS	316 316   MERIDIAN PARK
+2018-09-20 Thu	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	316 316 - Meridian Park Green Lake
+2018-09-21 Fri	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City
+2018-09-24 Mon	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
+2018-09-25 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate

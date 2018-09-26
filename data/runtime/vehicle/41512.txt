@@ -1,0 +1,4 @@
+2018-09-20 Thu	596 596 - Sounder Connector-Bonney
+2018-09-21 Fri	580 580 - Puyallup Station	590 590 - Tac Dome
+2018-09-24 Mon	596 596 - Sounder Connector-Sumner Stat	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way
+2018-09-25 Tue	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way

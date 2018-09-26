@@ -1,0 +1,7 @@
+2018-09-17 Mon	77 77   NORTH CITY EXPRESS
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
+2018-09-19 Wed	308 308   DOWNTOWN SEATTLE	74 74   DOWNTOWN SEATTLE	312 312   BOTHELL EXPRESS	316 316   MERIDIAN PARK	312 312   BOTHELL EXPRESS	316 316   MERIDIAN PARK
+2018-09-20 Thu	301 301   DOWNTOWN SEATTLE	316 316   DOWNTOWN SEATTLE	77 77   NORTH CITY EXPRESS	77 77 - North City Maple Leaf	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-21 Fri	312 312 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-09-24 Mon	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City	31 31   UNIVERSITY DISTRICT	75 75 - Northgate Lake City	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont
+2018-09-25 Tue	304 304 - Downtown Seattle	31 31 - University District Fremont	75 75 - Northgate Lake City	355 355 - Shoreline CC

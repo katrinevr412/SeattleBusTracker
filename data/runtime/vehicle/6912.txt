@@ -1,0 +1,7 @@
+2018-09-17 Mon	150 150   KENT	150 150   DOWNTOWN SEATTLE	193 193   FEDERAL WAY EXPRESS
+2018-09-18 Tue	192 192   SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE
+2018-09-19 Wed	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE
+2018-09-20 Thu	102 102   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-09-21 Fri	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-09-24 Mon	342 342 - Renton Bellevue	167 167 - University District Via SR-520	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-25 Tue	41 41 - Downtown Seattle	74 74 - Sand Point Ravenna

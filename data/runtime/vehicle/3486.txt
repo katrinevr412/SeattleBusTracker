@@ -1,0 +1,7 @@
+2018-09-17 Mon	244 244   KENMORE	243 243   OVERLAKE TRANSIT CENTER EXPRESS
+2018-09-18 Tue	114 114   DOWNTOWN SEATTLE	277 277   JUANITA	244 244   KENMORE
+2018-09-19 Wed	243 243   KENMORE P&R EXPRESS	244 244   OVERLAKE TRANSIT CENTER	244 244   KENMORE	243 243   OVERLAKE TRANSIT CENTER EXPRESS
+2018-09-20 Thu	226 226   BELLEVUE TRANSIT CENTER	241 241   EASTGATE P&R	226 226   BELLEVUE TRANSIT CENTER	241 241   EASTGATE P&R	241 241   BELLEVUE TRANSIT CENTER	226 226   EASTGATE P&R	277 277 - Juanita Houghton P&R
+2018-09-21 Fri	114 114 - Downtown Seattle	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-09-24 Mon	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland
+2018-09-25 Tue	245 245   FACTORIA	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads

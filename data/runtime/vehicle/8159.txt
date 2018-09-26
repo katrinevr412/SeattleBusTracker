@@ -1,0 +1,7 @@
+2018-09-17 Mon	311 311   WOODINVILLE
+2018-09-18 Tue	216 216   BEAR CREEK P&R
+2018-09-19 Wed	212 212   DOWNTOWN SEATTLE	268 268   BEAR CREEK P&R
+2018-09-20 Thu	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-09-21 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	311 311 - Woodinville Via SR-520
+2018-09-24 Mon	212 212 - Eastgate P&R
+2018-09-25 Tue	219 219 - Downtown Seattle Eastgate	545 545 - Redmond

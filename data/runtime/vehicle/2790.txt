@@ -1,0 +1,7 @@
+2018-09-17 Mon	21 21   ARBOR HEIGHTS EXPRESS
+2018-09-18 Tue	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK
+2018-09-19 Wed	355 355   DOWNTOWN SEATTLE EXPRESS	21 21   ARBOR HEIGHTS EXPRESS	15 15   BLUE RIDGE EXPRESS
+2018-09-20 Thu	18 18   DOWNTOWN SEATTLE EXPRESS	17 17   DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood	5 5 - Stadium Station Downtown Seattle
+2018-09-21 Fri	5 5 - Stadium Station Downtown Seattle	674 674 - Downtown Seattle Uptown	17 17 - Sunset Hill
+2018-09-24 Mon	114 114 - Renton Highlands
+2018-09-25 Tue	21 21 - Downtown Seattle Via 35th Ave SW	5 5   SHORELINE	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	15 15 - Blue Ridge

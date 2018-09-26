@@ -1,0 +1,6 @@
+2018-09-17 Mon	28 28   BROADVIEW EXPRESS
+2018-09-18 Tue	37 37   DOWNTOWN SEATTLE EXPRESS	45 45   LOYAL HEIGHTS	29 29   BALLARD
+2018-09-20 Thu	27 27 - Colman Park Yesler	63 63 - Northgate East Green Lake
+2018-09-21 Fri	28 28 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-24 Mon	122 122 - Highline College Via SR-509
+2018-09-25 Tue	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	121 121 - Burien Transit Center Via SR-509

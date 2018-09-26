@@ -1,0 +1,7 @@
+2018-09-17 Mon	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON
+2018-09-18 Tue	237 237   BELLEVUE	271 271   UNIVERSITY DISTRICT	114 114   RENTON HIGHLANDS
+2018-09-19 Wed	114 114   DOWNTOWN SEATTLE	244 244   KENMORE	243 243   OVERLAKE TRANSIT CENTER EXPRESS
+2018-09-20 Thu	241 241   EASTGATE P&R	226 226   BELLEVUE TRANSIT CENTER	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria
+2018-09-21 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-09-24 Mon	271 271 - University District	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-09-25 Tue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center

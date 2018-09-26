@@ -1,0 +1,7 @@
+2018-09-17 Mon	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	41 41   NORTHGATE	77 77   NORTH CITY EXPRESS
+2018-09-19 Wed	41 41   DOWNTOWN SEATTLE	301 301   DOWNTOWN SEATTLE EXPRESS	41 41   NORTHGATE
+2018-09-20 Thu	74 74   DOWNTOWN SEATTLE	312 312   KENMORE EXPRESS	312 312 - Kenmore	74 74 - Sand Point Ravenna
+2018-09-21 Fri	342 342 - Renton Bellevue	167 167 - University District Via SR-520	312 312 - Bothell
+2018-09-24 Mon	41 41 - Downtown Seattle	41 41 - Lake City Northgate	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-25 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore

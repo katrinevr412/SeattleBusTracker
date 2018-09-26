@@ -1,0 +1,4 @@
+2018-09-21 Fri	P63 63 - Downtown Tacoma	P102 102 - Gig Harbor - Express-Purdy
+2018-09-22 Sat	P28 28 - S 12th St
+2018-09-24 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-09-25 Tue	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy

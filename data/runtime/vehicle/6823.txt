@@ -1,0 +1,5 @@
+2018-09-19 Wed	312 312   BOTHELL EXPRESS
+2018-09-20 Thu	304 304   DOWNTOWN SEATTLE	312 312   BOTHELL EXPRESS	312 312 - Bothell
+2018-09-21 Fri	301 301 - Downtown Seattle - Express	316 316 - Meridian Park Green Lake
+2018-09-24 Mon	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna
+2018-09-25 Tue	342 342 - Renton Bellevue	167 167 - University District Via SR-520	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

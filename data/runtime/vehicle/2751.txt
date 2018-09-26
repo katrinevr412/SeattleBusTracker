@@ -1,0 +1,7 @@
+2018-09-17 Mon	301 301   AURORA VILLAGE EXPRESS
+2018-09-18 Tue	41 41   DOWNTOWN SEATTLE	77 77   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	316 316   DOWNTOWN SEATTLE	301 301   DOWNTOWN SEATTLE EXPRESS	74 74   SAND POINT
+2018-09-20 Thu	41 41   DOWNTOWN SEATTLE	301 301   DOWNTOWN SEATTLE EXPRESS	316 316 - Meridian Park Green Lake
+2018-09-21 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-24 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-25 Tue	372 372 - University District Lake City	304 304 - Richmond Beach

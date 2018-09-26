@@ -1,0 +1,4 @@
+2018-09-17 Mon	128 128   SOUTHCENTER
+2018-09-19 Wed	113 113   DOWNTOWN SEATTLE	125 125   DOWNTOWN SEATTLE	60 60   BROADWAY	60 60   WESTWOOD VILLAGE	60 60   BROADWAY	60 60   WESTWOOD VILLAGE
+2018-09-20 Thu	355 355   DOWNTOWN SEATTLE EXPRESS
+2018-09-25 Tue	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill

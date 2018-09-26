@@ -1,0 +1,6 @@
+2018-09-17 Mon	197 197   TWIN LAKES P&R
+2018-09-18 Tue	143 143   DOWNTOWN SEATTLE EXPRESS	192 192   STAR LAKE	179 179   TWIN LAKES P&R
+2018-09-20 Thu	111 111   DOWNTOWN SEATTLE	177 177   FEDERAL WAY	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-09-21 Fri	177 177 - Downtown Seattle Via I-5	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-24 Mon	197 197 - University District Federal Way Transit Center	952 952 - Kennydale Via I-405
+2018-09-25 Tue	111 111   DOWNTOWN SEATTLE	159 159 - Timberlane Kent Station

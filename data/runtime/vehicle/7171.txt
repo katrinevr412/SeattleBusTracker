@@ -1,0 +1,6 @@
+2018-09-17 Mon	190 190   REDONDO HEIGHTS P&R
+2018-09-18 Tue	116 116   DOWNTOWN SEATTLE EXPRESS	192 192   STAR LAKE
+2018-09-19 Wed	180 180   BURIEN TRANSIT CENTER	182 182   NE TACOMA	182 182   FEDERAL WAY TRANSIT CENTER	187 187   TWIN LAKES	187 187   FEDERAL WAY TRANSIT CENTER	182 182   NE TACOMA	182 182   FEDERAL WAY TRANSIT CENTER	187 187   FEDERAL WAY TRANSIT CENTER
+2018-09-21 Fri	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-09-24 Mon	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	153 153   RENTON	153 153 - Kent	183 183 - Kent	153 153 - Renton	190 190 - Redondo Heights P&R Star Lake P&R	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	183 183 - Federal Way Transit Center
+2018-09-25 Tue	116 116 - Downtown Seattle	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center

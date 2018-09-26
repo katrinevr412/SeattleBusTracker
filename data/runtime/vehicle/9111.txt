@@ -1,0 +1,4 @@
+2018-09-20 Thu	596 596 - Sounder Connector-Bonney
+2018-09-21 Fri	566 566 - Kent Station
+2018-09-24 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-09-25 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont

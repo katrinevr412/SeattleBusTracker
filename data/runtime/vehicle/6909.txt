@@ -1,0 +1,7 @@
+2018-09-17 Mon	41 41   NORTHGATE	312 312   KENMORE EXPRESS
+2018-09-18 Tue	316 316   DOWNTOWN SEATTLE	74 74   SAND POINT	308 308   HORIZON VIEW
+2018-09-19 Wed	312 312   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE	301 301   DOWNTOWN SEATTLE EXPRESS	41 41   NORTHGATE
+2018-09-20 Thu	373 373   UNIVERSITY DISTRICT EXPRESS	73 73   JACKSON PARK	373 373   UNIVERSITY DISTRICT EXPRESS	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	373 373   AURORA VILLAGE EXPRESS	73 73   UNIVERSITY DISTRICT	73 73 - University District Maple Leaf	373 373 - Aurora Village Jackson Park
+2018-09-21 Fri	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
+2018-09-24 Mon	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-25 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

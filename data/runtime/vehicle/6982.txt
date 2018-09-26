@@ -1,0 +1,6 @@
+2018-09-18 Tue	158 158   DOWNTOWN SEATTLE	190 190   DOWNTOWN SEATTLE	150 150   KENT
+2018-09-19 Wed	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	101 101   S RENTON P&R	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE
+2018-09-20 Thu	179 179   DOWNTOWN SEATTLE	150 150   DOWNTOWN SEATTLE	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-21 Fri	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
+2018-09-24 Mon	179 179 - Downtown Seattle Federal Way Transit Center	192 192 - Seattle Military Road	150 150 - Kent Southcenter
+2018-09-25 Tue	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	143 143 - Black Diamond Renton - Express

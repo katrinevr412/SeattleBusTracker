@@ -1,0 +1,4 @@
+2018-09-17 Mon	60 60   WESTWOOD VILLAGE
+2018-09-18 Tue	355 355   DOWNTOWN SEATTLE EXPRESS
+2018-09-24 Mon	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center
+2018-09-25 Tue	71 71 - University District Ravenna	71 71   WEDGWOOD	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna

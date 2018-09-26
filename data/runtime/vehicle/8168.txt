@@ -1,0 +1,7 @@
+2018-09-17 Mon	217 217   DOWNTOWN SEATTLE	212 212   EASTGATE P&R
+2018-09-18 Tue	218 218   ISSAQUAH HIGHLANDS	212 212   EASTGATE P&R
+2018-09-19 Wed	212 212   DOWNTOWN SEATTLE	212 212   EASTGATE P&R
+2018-09-20 Thu	218 218   DOWNTOWN SEATTLE	252 252   DOWNTOWN SEATTLE	218 218   ISSAQUAH HIGHLANDS	311 311 - Woodinville Via SR-520
+2018-09-21 Fri	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	889 889 - Bridle Trails Sammamish HS	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-09-24 Mon	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2018-09-25 Tue	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	212 212 - Eastgate P&R

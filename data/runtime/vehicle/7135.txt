@@ -1,0 +1,7 @@
+2018-09-17 Mon	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE
+2018-09-18 Tue	62 62   DOWNTOWN SEATTLE	121 121   DOWNTOWN SEATTLE	121 121   BURIEN TRANSIT CENTER	19 19   WEST MAGNOLIA	24 24   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION
+2018-09-19 Wed	37 37   DOWNTOWN SEATTLE EXPRESS	28 28   DOWNTOWN SEATTLE EXPRESS	63 63   NORTHGATE EXPRESS
+2018-09-20 Thu	63 63   FIRST HILL EXPRESS	123 123   GREGORY HEIGHTS	121 121   DOWNTOWN SEATTLE	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-09-21 Fri	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	19 19 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown
+2018-09-24 Mon	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont
+2018-09-25 Tue	62 62 - Downtown Seattle Fremont	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	308 308 - Horizon View

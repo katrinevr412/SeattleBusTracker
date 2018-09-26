@@ -1,0 +1,7 @@
+2018-09-17 Mon	214 214   ISSAQUAH TRANSIT CENTER
+2018-09-18 Tue	57 57   DOWNTOWN SEATTLE	21 21   DOWNTOWN SEATTLE EXPRESS	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-19 Wed	674 RAPIDRIDE D LINE TO DOWNTOWN SEATTLE	21 21   ARBOR HEIGHTS EXPRESS	15 15   BLUE RIDGE EXPRESS
+2018-09-20 Thu	355 355   DOWNTOWN SEATTLE EXPRESS	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40 - Northgate Fremont
+2018-09-21 Fri	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St
+2018-09-24 Mon	77 77 - North City Maple Leaf
+2018-09-25 Tue	21 21 - Downtown Seattle - Express	18 18 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only

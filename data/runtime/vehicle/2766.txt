@@ -1,0 +1,7 @@
+2018-09-17 Mon	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-18 Tue	15 15   DOWNTOWN SEATTLE EXPRESS	40 40   NORTHGATE
+2018-09-19 Wed	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	21 21   ARBOR HEIGHTS EXPRESS
+2018-09-20 Thu	40 40   DOWNTOWN SEATTLE	214 214 - Issaquah Transit Center Transit Center Only	214 214 - Issaquah
+2018-09-21 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-24 Mon	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-25 Tue	987 987 - Haller Lake Special	77 77 - North City Maple Leaf

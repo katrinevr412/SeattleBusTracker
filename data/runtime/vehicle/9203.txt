@@ -1,0 +1,4 @@
+2018-09-20 Thu	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-09-21 Fri	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
+2018-09-24 Mon	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-09-25 Tue	580 580 - Puyallup Station	592 592 - Lakewood/Dupont

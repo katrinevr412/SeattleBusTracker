@@ -1,0 +1,7 @@
+2018-09-17 Mon	312 312   KENMORE EXPRESS
+2018-09-18 Tue	74 74   DOWNTOWN SEATTLE	41 41   DOWNTOWN SEATTLE	316 316   MERIDIAN PARK
+2018-09-19 Wed	304 304   DOWNTOWN SEATTLE	74 74   DOWNTOWN SEATTLE	309 309   KENMORE P&R EXPRESS
+2018-09-20 Thu	316 316   DOWNTOWN SEATTLE	316 316 - Meridian Park Green Lake
+2018-09-21 Fri	31 31 - University District Fremont	75 75 - Northgate Lake City	41 41 - Downtown Seattle	74 74 - Sand Point Ravenna
+2018-09-24 Mon	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-25 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	312 312 - Bothell

@@ -1,0 +1,7 @@
+2018-09-17 Mon	178 178   S FEDERAL WAY
+2018-09-18 Tue	193 193   FIRST HILL EXPRESS	178 178   S FEDERAL WAY
+2018-09-19 Wed	178 178   DOWNTOWN SEATTLE	197 197   TWIN LAKES P&R
+2018-09-20 Thu	178 178   DOWNTOWN SEATTLE	193 193   FEDERAL WAY EXPRESS	193 193 - Federal Way Express
+2018-09-21 Fri	190 190 - Downtown Seattle Star Lake P&R	952 952 - Kennydale Via I-405
+2018-09-24 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-09-25 Tue	197 197 - University District Federal Way Transit Center	197 197 - Twin Lakes P&R Federal Way Transit Center

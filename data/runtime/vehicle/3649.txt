@@ -1,0 +1,7 @@
+2018-09-17 Mon	9 9   BROADWAY EXPRESS	9 9   RAINIER BEACH STATION EXPRESS
+2018-09-18 Tue	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	48 48   MOUNT BAKER TRANSIT CENTER	64 64   JACKSON PARK EXPRESS
+2018-09-19 Wed	9 9   BROADWAY EXPRESS	9 9   RAINIER BEACH STATION EXPRESS	9 9   BROADWAY EXPRESS	19 19   WEST MAGNOLIA
+2018-09-20 Thu	28 28   DOWNTOWN SEATTLE EXPRESS	121 121   DOWNTOWN SEATTLE	121 121   HIGHLINE COLLEGE	121 121 - Highline College Via SR-509
+2018-09-21 Fri	121 121 - Downtown Seattle Via SR-509	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-24 Mon	63 63 - Northgate East Green Lake
+2018-09-25 Tue	28 28 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	64 64 - Jackson Park Wedgwood

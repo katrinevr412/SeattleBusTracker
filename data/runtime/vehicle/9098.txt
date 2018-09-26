@@ -1,0 +1,4 @@
+2018-09-20 Thu	590 590 - Commerce - Tac Dome
+2018-09-21 Fri	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-09-24 Mon	590 590 - Seattle	566 566 - Auburn Stn Via Renton
+2018-09-25 Tue	577 577 - Seattle	580 580 - Lakewood

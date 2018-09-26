@@ -1,0 +1,6 @@
+2018-09-17 Mon	303 303   SHORELINE P&R EXPRESS
+2018-09-18 Tue	303 303   FIRST HILL EXPRESS	303 303   SHORELINE P&R EXPRESS
+2018-09-19 Wed	124 124   DOWNTOWN SEATTLE	24 24   WEST MAGNOLIA	19 19   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE	24 24   WEST MAGNOLIA	124 124   DOWNTOWN SEATTLE	24 24   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE
+2018-09-20 Thu	28 28 - Broadview
+2018-09-21 Fri	132 132 - Downtown Seattle South Park	28 28 - Downtown Seattle	131 131 - Burien Transit Center Highland Park	131 131 - Downtown Seattle Highland Park	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park	131 131 - Downtown Seattle Highland Park	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park	131 131 - Downtown Seattle Highland Park	26 26 - Northgate Transit Center East Green Lake
+2018-09-24 Mon	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District

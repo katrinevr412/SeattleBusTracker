@@ -1,0 +1,7 @@
+2018-09-17 Mon	216 216   BEAR CREEK P&R
+2018-09-18 Tue	212 212   DOWNTOWN SEATTLE	216 216   BEAR CREEK P&R	219 219   REDMOND
+2018-09-19 Wed	212 212   EASTGATE P&R
+2018-09-20 Thu	311 311 - Woodinville Via SR-520
+2018-09-21 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria
+2018-09-24 Mon	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-09-25 Tue	252 252   DOWNTOWN SEATTLE	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520

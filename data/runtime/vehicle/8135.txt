@@ -1,0 +1,7 @@
+2018-09-17 Mon	143 143   BLACK DIAMOND EXPRESS
+2018-09-18 Tue	177 177   DOWNTOWN SEATTLE	193 193   FEDERAL WAY EXPRESS
+2018-09-19 Wed	111 111   DOWNTOWN SEATTLE	159 159   TIMBERLANE
+2018-09-20 Thu	143 143   BLACK DIAMOND	143 143   DOWNTOWN SEATTLE EXPRESS	111 111 - Lake Kathleen Via I-90
+2018-09-21 Fri	952 952 - Everett Special	143 143 - Black Diamond Renton - Express
+2018-09-24 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-09-25 Tue	157 157 - Downtown Seattle East Hill	197 197 - University District Federal Way Transit Center	190 190 - Redondo Heights P&R Star Lake P&R

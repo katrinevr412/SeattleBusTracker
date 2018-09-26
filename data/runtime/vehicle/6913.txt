@@ -1,0 +1,8 @@
+2018-09-17 Mon	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT
+2018-09-18 Tue	190 190   DOWNTOWN SEATTLE	102 102   FAIRWOOD
+2018-09-19 Wed	150 150   DOWNTOWN SEATTLE	197 197   UNIVERSITY DISTRICT	179 179   TWIN LAKES P&R
+2018-09-20 Thu	150 150   DOWNTOWN SEATTLE	197 197   UNIVERSITY DISTRICT	190 190   REDONDO HEIGHTS P&R	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-09-21 Fri	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-09-23 Sun	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-24 Mon	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
+2018-09-25 Tue	41 41 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	74 74 - Sand Point Ravenna

@@ -1,0 +1,6 @@
+2018-09-17 Mon	57 57   ALASKA JUNCTION	21 21   ARBOR HEIGHTS EXPRESS
+2018-09-18 Tue	214 214   DOWNTOWN SEATTLE	15 15   DOWNTOWN SEATTLE EXPRESS	17 17   SUNSET HILL EXPRESS	55 55   ADMIRAL DISTRICT	15 15   BLUE RIDGE EXPRESS
+2018-09-20 Thu	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-21 Fri	214 214 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-24 Mon	57 57 - Alaska Junction Via SR-99
+2018-09-25 Tue	214 214   DOWNTOWN SEATTLE	214 214 - Issaquah Transit Center Transit Center Only

@@ -1,0 +1,5 @@
+2018-09-20 Thu	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2018-09-21 Fri	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	592 592 - Lakewood/Dupont
+2018-09-22 Sat	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-09-24 Mon	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood-Dupont	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-09-25 Tue	595 595 - Seattle - Narrows	590 590 - Commerce - Tac Dome

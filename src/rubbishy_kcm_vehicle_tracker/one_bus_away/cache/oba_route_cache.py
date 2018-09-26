@@ -9,8 +9,7 @@ class OBARouteCache:
 
     def __init__(self):
         self.cache_path = os.path.join(
-            ProjectPathConfig.SOURCE_ROOT_PATH,
-            'data',
+            ProjectPathConfig.DATA_ROOT_PATH,
             'cache',
             'oba_api',
             'routes'

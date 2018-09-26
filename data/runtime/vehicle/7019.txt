@@ -1,0 +1,7 @@
+2018-09-17 Mon	123 123   GREGORY HEIGHTS	121 121   DOWNTOWN SEATTLE
+2018-09-18 Tue	121 121   DOWNTOWN SEATTLE	121 121   BURIEN TRANSIT CENTER	64 64   JACKSON PARK EXPRESS
+2018-09-19 Wed	45 45   UNIVERSITY DISTRICT	45 45   LOYAL HEIGHTS	45 45   UNIVERSITY DISTRICT	45 45   LOYAL HEIGHTS	45 45   UNIVERSITY DISTRICT	45 45   LOYAL HEIGHTS
+2018-09-20 Thu	63 63   FIRST HILL EXPRESS	63 63 - Northgate East Green Lake
+2018-09-21 Fri	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	62 62 - Sand Point East Green Lake
+2018-09-24 Mon	62 62 - Sand Point East Green Lake
+2018-09-25 Tue	62 62 - Downtown Seattle Fremont	62 62   SAND POINT	62 62 - Downtown Seattle Fremont	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center

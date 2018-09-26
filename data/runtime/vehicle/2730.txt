@@ -1,0 +1,7 @@
+2018-09-17 Mon	312 312   BOTHELL EXPRESS
+2018-09-18 Tue	41 41   DOWNTOWN SEATTLE	301 301   DOWNTOWN SEATTLE EXPRESS	316 316   MERIDIAN PARK
+2018-09-19 Wed	41 41   DOWNTOWN SEATTLE	301 301   AURORA VILLAGE EXPRESS
+2018-09-20 Thu	301 301   DOWNTOWN SEATTLE EXPRESS	373 373   UNIVERSITY DISTRICT EXPRESS	301 301   AURORA VILLAGE EXPRESS	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-21 Fri	74 74 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-09-24 Mon	372 372 - University District Lake City	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	316 316 - Meridian Park Green Lake
+2018-09-25 Tue	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park

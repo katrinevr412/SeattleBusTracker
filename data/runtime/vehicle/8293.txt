@@ -1,0 +1,6 @@
+2018-09-18 Tue	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-19 Wed	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-20 Thu	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	55 55 - Admiral District Alaska Junction
+2018-09-21 Fri	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction
+2018-09-24 Mon	55 55 - Admiral District Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-25 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard

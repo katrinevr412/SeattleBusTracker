@@ -1,0 +1,3 @@
+2018-09-20 Thu	566 566 - Kent Station
+2018-09-21 Fri	592 592 - Seattle -  Express	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-09-25 Tue	580 580 - Puyallup Station	580 580 - Lakewood	578 578 - Seattle via Federal way	567 567 - overlake Tc via bellevue	592 592 - Lakewood/Dupont

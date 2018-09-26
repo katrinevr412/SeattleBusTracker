@@ -1,0 +1,7 @@
+2018-09-17 Mon	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER
+2018-09-18 Tue	120 120   DOWNTOWN SEATTLE	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   DOWNTOWN SEATTLE	675 RAPIDRIDE E LINE TO AURORA VILLAGE TRANSIT CENTER
+2018-09-19 Wed	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER
+2018-09-20 Thu	70 70   DOWNTOWN SEATTLE	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120 - Burien Transit Center Westwood Village
+2018-09-21 Fri	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	70 70 - Downtown Seattle Fairview	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-09-24 Mon	120 120   BURIEN TRANSIT CENTER	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-09-25 Tue	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	70 70 - Downtown Seattle Fairview	675 675 - Aurora Village Transit Center

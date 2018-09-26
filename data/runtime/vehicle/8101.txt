@@ -1,0 +1,6 @@
+2018-09-18 Tue	178 178   DOWNTOWN SEATTLE	177 177   FEDERAL WAY	178 178   S FEDERAL WAY
+2018-09-19 Wed	197 197   TWIN LAKES P&R
+2018-09-20 Thu	193 193   FIRST HILL EXPRESS	197 197   TWIN LAKES P&R	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-21 Fri	157 157 - Downtown Seattle East Hill	193 193 - Federal Way Express
+2018-09-24 Mon	193 193 - First Hill Express	193 193 - Federal Way Express
+2018-09-25 Tue	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center

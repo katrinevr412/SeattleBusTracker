@@ -1,0 +1,7 @@
+2018-09-17 Mon	111 111   LAKE KATHLEEN
+2018-09-18 Tue	158 158   DOWNTOWN SEATTLE	190 190   REDONDO HEIGHTS P&R	180 180   SE AUBURN
+2018-09-19 Wed	197 197   UNIVERSITY DISTRICT	193 193   FEDERAL WAY EXPRESS
+2018-09-20 Thu	178 178   DOWNTOWN SEATTLE	143 143 - Black Diamond Renton - Express
+2018-09-21 Fri	143 143 - Black Diamond	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-24 Mon	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-25 Tue	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	952 952 - Auburn Special

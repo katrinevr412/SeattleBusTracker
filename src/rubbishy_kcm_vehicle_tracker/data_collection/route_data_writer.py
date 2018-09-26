@@ -7,8 +7,7 @@ class RouteDataWriter(DataWriter):
 
     def __init__(self):
         self.working_directory = os.path.join(
-            ProjectPathConfig.SOURCE_ROOT_PATH,
-            'data',
+            ProjectPathConfig.DATA_ROOT_PATH,
             'runtime',
             'temp',
             'route'

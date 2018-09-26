@@ -1,0 +1,4 @@
+2018-09-20 Thu	580 580 - Puyallup Station	580 580 - Lakewood
+2018-09-21 Fri	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-09-24 Mon	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way
+2018-09-25 Tue	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport

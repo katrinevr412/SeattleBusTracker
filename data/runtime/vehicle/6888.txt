@@ -1,0 +1,7 @@
+2018-09-17 Mon	31 31   CENTRAL MAGNOLIA	31 31   UNIVERSITY DISTRICT	75 75   NORTHGATE	75 75   UNIVERSITY DISTRICT	31 31   CENTRAL MAGNOLIA	31 31   UNIVERSITY DISTRICT	75 75   NORTHGATE
+2018-09-18 Tue	74 74   DOWNTOWN SEATTLE	316 316   DOWNTOWN SEATTLE	41 41   NORTHGATE
+2018-09-19 Wed	41 41   DOWNTOWN SEATTLE	41 41   NORTHGATE	316 316   MERIDIAN PARK
+2018-09-20 Thu	309 309   FIRST HILL EXPRESS	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-21 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-24 Mon	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only	316 316 - Meridian Park Green Lake
+2018-09-25 Tue	74 74 - Downtown Seattle	316 316 - Meridian Park Green Lake

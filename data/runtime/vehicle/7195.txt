@@ -1,0 +1,7 @@
+2018-09-17 Mon	181 181   GREEN RIVER COLL	181 181   TWIN LAKES P&R	181 181   GREEN RIVER COLL	181 181   TWIN LAKES P&R
+2018-09-18 Tue	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON
+2018-09-19 Wed	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON
+2018-09-20 Thu	190 190   DOWNTOWN SEATTLE	190 190 - Redondo Heights P&R Star Lake P&R
+2018-09-21 Fri	116 116 - Downtown Seattle	107 107 - Renton Transit Center Rainier Beach Station	107 107 - Beacon Hill Station Rainier Beach Station	107 107 - Renton Transit Center Rainier Beach Station
+2018-09-24 Mon	180 180 - Burien Transit Center Seattle Tacoma International Airport	180 180 - SE Auburn Kent Station	180 180 - Burien Transit Center Seattle Tacoma International Airport	180 180 - SE Auburn Kent Station	180 180 - Burien Transit Center Seattle Tacoma International Airport	180 180 - SE Auburn Kent Station	180 180 - Burien Transit Center Seattle Tacoma International Airport	180 180 - SE Auburn Kent Station
+2018-09-25 Tue	105 105 - Renton Renton Tech Coll

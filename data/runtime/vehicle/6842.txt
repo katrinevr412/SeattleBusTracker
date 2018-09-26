@@ -1,0 +1,7 @@
+2018-09-17 Mon	312 312   BOTHELL EXPRESS
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	41 41   NORTHGATE	312 312   KENMORE EXPRESS
+2018-09-19 Wed	77 77   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE EXPRESS	301 301   DOWNTOWN SEATTLE	301 301   AURORA VILLAGE EXPRESS
+2018-09-20 Thu	312 312   DOWNTOWN SEATTLE EXPRESS	316 316 - Meridian Park Green Lake
+2018-09-21 Fri	308 308 - Downtown Seattle Via I-5	74 74 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express
+2018-09-24 Mon	355 355 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-25 Tue	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont

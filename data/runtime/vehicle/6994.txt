@@ -1,0 +1,3 @@
+2018-09-21 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	212 212 - Eastgate P&R	257 257 - Kingsgate
+2018-09-24 Mon	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-09-25 Tue	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond

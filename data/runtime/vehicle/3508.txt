@@ -1,0 +1,7 @@
+2018-09-17 Mon	114 114   RENTON HIGHLANDS
+2018-09-18 Tue	277 277   UNIVERSITY DISTRICT	244 244   OVERLAKE TRANSIT CENTER	114 114   RENTON HIGHLANDS
+2018-09-19 Wed	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE	244 244   KENMORE	243 243   OVERLAKE TRANSIT CENTER EXPRESS
+2018-09-20 Thu	232 232   BELLEVUE	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-09-21 Fri	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	114 114 - Renton Highlands
+2018-09-24 Mon	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	237 237   WOODINVILLE
+2018-09-25 Tue	243 243 - Kenmore P&R	244 244   OVERLAKE TRANSIT CENTER	232 232 - Duvall Redmond	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond

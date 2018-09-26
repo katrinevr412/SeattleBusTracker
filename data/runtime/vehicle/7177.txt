@@ -1,0 +1,6 @@
+2018-09-17 Mon	153 153   KENT	183 183   FEDERAL WAY TRANSIT CENTER
+2018-09-18 Tue	186 186   AUBURN	179 179   DOWNTOWN SEATTLE	177 177   FEDERAL WAY
+2018-09-19 Wed	116 116   DOWNTOWN SEATTLE EXPRESS	116 116   FAUNTLEROY EXPRESS
+2018-09-20 Thu	116 116   DOWNTOWN SEATTLE EXPRESS	116 116 - Fauntleroy
+2018-09-24 Mon	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183   FEDERAL WAY TRANSIT CENTER	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent	153 153 - Renton	153 153 - Kent	183 183 - Federal Way Transit Center	183 183 - Kent
+2018-09-25 Tue	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station	164 164 - Green River Coll	164 164 - Kent Station

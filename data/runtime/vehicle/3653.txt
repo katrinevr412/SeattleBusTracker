@@ -1,0 +1,4 @@
+2018-09-20 Thu	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	167 167 - S Renton P&R Via I-405
+2018-09-21 Fri	37 37 - Alaska Junction Alki
+2018-09-24 Mon	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-09-25 Tue	28 28 - Downtown Seattle	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509

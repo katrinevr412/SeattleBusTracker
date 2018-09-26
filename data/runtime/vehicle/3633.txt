@@ -1,0 +1,7 @@
+2018-09-17 Mon	27 27   COLMAN PARK	63 63   NORTHGATE EXPRESS
+2018-09-18 Tue	28 28   DOWNTOWN SEATTLE EXPRESS	37 37   ALASKA JUNCTION	28 28   BROADVIEW EXPRESS
+2018-09-19 Wed	121 121   DOWNTOWN SEATTLE	63 63   NORTHGATE EXPRESS
+2018-09-20 Thu	37 37   DOWNTOWN SEATTLE EXPRESS	28 28   DOWNTOWN SEATTLE EXPRESS	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-09-21 Fri	37 37 - Downtown Seattle Alki - Express	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-09-24 Mon	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-25 Tue	19 19 - Downtown Seattle	63 63 - First Hill South Lake Union	19 19 - West Magnolia	122 122 - Highline College Via SR-509

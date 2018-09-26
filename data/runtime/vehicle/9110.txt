@@ -1,0 +1,4 @@
+2018-09-20 Thu	590 590 - Seattle - Tac Dome	590 590 - Tac Dome	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-09-21 Fri	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	590 590 - Tac Dome
+2018-09-24 Mon	592 592 - Seattle -  Express	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-09-25 Tue	566 566 - Kent Station

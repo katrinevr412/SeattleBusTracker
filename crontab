@@ -1,0 +1,5 @@
+# add the following two lines to your crontab.
+# make sure that the path points to the cli.py in your workspace,
+# and the python executable is of version at least 2.7.
+*/1 * * * * /apollo/env/SDETools/python2.7/bin/python2.7 /workplace/yufayang/RubbishyKCMVehicleTracker/src/RubbishyKCMVehicleTracker/src/rubbishy_kcm_vehicle_tracker/cli.py data-collect >/dev/null 2>&1
+10 4 * * * /apollo/env/SDETools/python2.7/bin/python2.7 /workplace/yufayang/RubbishyKCMVehicleTracker/src/RubbishyKCMVehicleTracker/src/rubbishy_kcm_vehicle_tracker/cli.py data-merge >/dev/null 2>&1

@@ -1,0 +1,8 @@
+2018-09-17 Mon	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	124 124   TUKWILA LINK STATION
+2018-09-18 Tue	18 18   NORTH BEACH EXPRESS
+2018-09-19 Wed	673 RAPIDRIDE C LINE TO SOUTH LAKE UNION	355 355   SHORELINE CC EXPRESS
+2018-09-20 Thu	21 21   DOWNTOWN SEATTLE EXPRESS	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-09-21 Fri	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	124 124 - Downtown Seattle Georgetown	124 124 - Tukwila Link Station Georgetown
+2018-09-22 Sat	124 124 - Tukwila Link Station Georgetown
+2018-09-24 Mon	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-09-25 Tue	17 17 - Downtown Seattle	114 114 - Renton Highlands

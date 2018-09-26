@@ -1,0 +1,7 @@
+2018-09-17 Mon	15 15   BLUE RIDGE EXPRESS
+2018-09-18 Tue	214 214   DOWNTOWN SEATTLE	18 18   DOWNTOWN SEATTLE EXPRESS
+2018-09-19 Wed	15 15   BLUE RIDGE EXPRESS
+2018-09-20 Thu	15 15   DOWNTOWN SEATTLE EXPRESS	994 994 - Downtown Seattle Special	40 40 - Northgate Fremont
+2018-09-21 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	55 55 - Admiral District Alaska Junction	40 40 - Northgate Fremont
+2018-09-24 Mon	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-25 Tue	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express	17 17 - Sunset Hill

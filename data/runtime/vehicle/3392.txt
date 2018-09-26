@@ -1,0 +1,7 @@
+2018-09-17 Mon	271 271   EASTGATE P&R
+2018-09-18 Tue	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R
+2018-09-19 Wed	114 114   RENTON HIGHLANDS
+2018-09-20 Thu	114 114 - Renton Highlands
+2018-09-21 Fri	114 114 - Downtown Seattle	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-09-24 Mon	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria
+2018-09-25 Tue	889 889 - International School Sammamish HS	277 277 - Juanita Houghton P&R

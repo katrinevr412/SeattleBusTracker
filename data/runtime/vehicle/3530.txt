@@ -1,0 +1,6 @@
+2018-09-18 Tue	114 114   DOWNTOWN SEATTLE	271 271   EASTGATE
+2018-09-19 Wed	232 232   DUVALL	232 232   BELLEVUE	232 232   DUVALL
+2018-09-20 Thu	114 114   DOWNTOWN SEATTLE	342 342   SHORELINE P&R	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-09-21 Fri	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	221 221 - Eastgate P&R	221 221 - Education Hill
+2018-09-24 Mon	232 232 - Bellevue Redmond	232 232 - Redmond	342 342 - Shoreline P&R Bellevue
+2018-09-25 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	245 245 - Kirkland Crossroads

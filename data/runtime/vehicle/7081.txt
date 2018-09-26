@@ -1,0 +1,7 @@
+2018-09-17 Mon	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE
+2018-09-18 Tue	11 11   STADIUM STATION	673 RAPIDRIDE C LINE TO WEST SEATTLE
+2018-09-19 Wed	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION	106 106   RENTON	60 60   WESTWOOD VILLAGE	60 60   BROADWAY
+2018-09-20 Thu	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill
+2018-09-21 Fri	113 113 - Downtown Seattle White Center	995 995 - Laurelhurst Special	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna
+2018-09-24 Mon	114 114 - Renton Highlands
+2018-09-25 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont

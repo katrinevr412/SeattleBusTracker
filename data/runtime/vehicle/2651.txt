@@ -1,0 +1,7 @@
+2018-09-17 Mon	214 214   ISSAQUAH TRANSIT CENTER
+2018-09-18 Tue	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-19 Wed	56 56   DOWNTOWN SEATTLE	57 57   DOWNTOWN SEATTLE	355 355   SHORELINE CC EXPRESS
+2018-09-20 Thu	5 5   DOWNTOWN SEATTLE	21 21   WESTWOOD VILLAGE	40 40 - Northgate Fremont
+2018-09-21 Fri	988 988 - Haller Lake Special	355 355 - Shoreline CC	56 56 - Alki Via SR-99
+2018-09-24 Mon	214 214 - Issaquah Transit Center Transit Center Only
+2018-09-25 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood

@@ -1,0 +1,7 @@
+2018-09-17 Mon	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER
+2018-09-18 Tue	271 271   ISSAQUAH TRANSIT CENTER	271 271   UNIVERSITY DISTRICT
+2018-09-19 Wed	232 232   BELLEVUE	232 232   REDMOND	277 277   JUANITA	244 244   KENMORE
+2018-09-20 Thu	277 277   UNIVERSITY DISTRICT	277 277   JUANITA	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-09-21 Fri	891 891 - Mercer Island HS	232 232 - Duvall Redmond	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-09-24 Mon	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-09-25 Tue	886 886 - International School Bellevue HS	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue

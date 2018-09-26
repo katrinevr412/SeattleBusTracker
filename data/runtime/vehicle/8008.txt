@@ -1,0 +1,6 @@
+2018-09-17 Mon	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER
+2018-09-18 Tue	121 121   DOWNTOWN SEATTLE	121 121   BURIEN TRANSIT CENTER	123 123   DOWNTOWN SEATTLE
+2018-09-19 Wed	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER
+2018-09-20 Thu	131 131   DOWNTOWN SEATTLE	28 28   CARKEEK PARK EXPRESS	28 28   DOWNTOWN SEATTLE EXPRESS	45 45   UNIVERSITY DISTRICT	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
+2018-09-21 Fri	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
+2018-09-25 Tue	122 122 - Downtown Seattle Via SR-509	19 19 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown

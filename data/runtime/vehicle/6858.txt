@@ -1,0 +1,9 @@
+2018-09-17 Mon	178 178   S FEDERAL WAY	177 177   FEDERAL WAY
+2018-09-18 Tue	102 102   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	193 193   FEDERAL WAY EXPRESS
+2018-09-19 Wed	159 159   DOWNTOWN SEATTLE	101 101   S RENTON P&R
+2018-09-20 Thu	158 158   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-09-21 Fri	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-22 Sat	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-23 Sun	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	180 180 - Seattle Tacoma International Airport Kent Station
+2018-09-24 Mon	192 192 - Seattle Military Road	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-25 Tue	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R

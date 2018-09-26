@@ -1,0 +1,9 @@
+2018-09-17 Mon	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R
+2018-09-18 Tue	158 158   DOWNTOWN SEATTLE
+2018-09-19 Wed	179 179   DOWNTOWN SEATTLE	158 158   KENT
+2018-09-20 Thu	192 192   SEATTLE	177 177   DOWNTOWN SEATTLE	159 159   TIMBERLANE	159 159 - Timberlane Kent Station
+2018-09-21 Fri	158 158 - Downtown Seattle Via I-5	190 190 - Downtown Seattle Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-09-22 Sat	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-23 Sun	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-24 Mon	150 150 - Downtown Seattle Southcenter	102 102 - S Renton P&R	158 158 - Kent Via I-5
+2018-09-25 Tue	150 150 - Downtown Seattle Southcenter	101 101   S RENTON P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter

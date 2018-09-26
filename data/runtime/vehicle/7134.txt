@@ -1,0 +1,4 @@
+2018-09-20 Thu	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle
+2018-09-21 Fri	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia
+2018-09-24 Mon	62 62 - Sand Point East Green Lake
+2018-09-25 Tue	62 62 - Downtown Seattle Fremont	63 63 - Northgate East Green Lake

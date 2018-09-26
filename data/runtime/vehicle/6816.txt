@@ -1,0 +1,8 @@
+2018-09-17 Mon	150 150   KENT	150 150   DOWNTOWN SEATTLE
+2018-09-18 Tue	158 158   DOWNTOWN SEATTLE	178 178   S FEDERAL WAY	177 177   FEDERAL WAY
+2018-09-19 Wed	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	101 101   S RENTON P&R
+2018-09-20 Thu	179 179   DOWNTOWN SEATTLE	157 157   LAKE MERIDIAN	157 157 - Lake Meridian East Hill	48 48 - Mount Baker Transit Center Central District
+2018-09-21 Fri	179 179 - Downtown Seattle Federal Way Transit Center	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
+2018-09-22 Sat	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-09-24 Mon	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101   S RENTON P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
+2018-09-25 Tue	102 102 - Downtown Seattle S Renton P&R	102 102 - S Renton P&R	158 158 - Kent Via I-5

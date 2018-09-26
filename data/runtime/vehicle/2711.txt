@@ -1,0 +1,7 @@
+2018-09-17 Mon	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-18 Tue	214 214   DOWNTOWN SEATTLE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE
+2018-09-19 Wed	56 56   DOWNTOWN SEATTLE	55 55   DOWNTOWN SEATTLE	106 106   RENTON	40 40   NORTHGATE
+2018-09-20 Thu	56 56   DOWNTOWN SEATTLE	55 55   DOWNTOWN SEATTLE	15 15   DOWNTOWN SEATTLE EXPRESS	355 355   SHORELINE CC EXPRESS	355 355 - Shoreline CC
+2018-09-21 Fri	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
+2018-09-24 Mon	43 43 - NE 45th St and Brooklyn Ave NE	120 120 - Burien Transit Center Westwood Village
+2018-09-25 Tue	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village

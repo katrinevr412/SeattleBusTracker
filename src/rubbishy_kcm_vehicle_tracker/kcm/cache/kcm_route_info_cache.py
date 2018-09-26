@@ -7,7 +7,7 @@ from rubbishy_kcm_vehicle_tracker.common.project_path import ProjectPathConfig
 class KCMRouteInfoCache:
 
     def __init__(self):
-        self.caching_dir = os.path.abspath(os.path.join(ProjectPathConfig.SOURCE_ROOT_PATH, 'data', 'cache', 'kcm_api', 'routes'))
+        self.caching_dir = os.path.abspath(os.path.join(ProjectPathConfig.DATA_ROOT_PATH, 'cache', 'kcm_api', 'routes'))
         CommonUtils.make_dir_if_not_exists(self.caching_dir)
 
     def write(self, route_id, json_obj):

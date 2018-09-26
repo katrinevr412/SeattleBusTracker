@@ -1,0 +1,7 @@
+2018-09-17 Mon	257 257   KINGSGATE
+2018-09-18 Tue	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	212 212   EASTGATE P&R
+2018-09-19 Wed	268 268   DOWNTOWN SEATTLE	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE
+2018-09-20 Thu	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-09-21 Fri	268 268 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-09-24 Mon	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	257 257 - Kingsgate	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-09-25 Tue	986 986 - Haller Lake Special	218 218 - Issaquah Highlands

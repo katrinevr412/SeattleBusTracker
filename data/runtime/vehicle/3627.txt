@@ -1,0 +1,5 @@
+2018-09-17 Mon	19 19   WEST MAGNOLIA
+2018-09-18 Tue	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	48 48   MOUNT BAKER TRANSIT CENTER	48 48   UNIVERSITY DISTRICT	24 24   MAGNOLIA	62 62   SAND POINT
+2018-09-19 Wed	28 28   DOWNTOWN SEATTLE EXPRESS	132 132   BURIEN TRANSIT CENTER	132 132   DOWNTOWN SEATTLE	167 167   S RENTON P&R
+2018-09-24 Mon	27 27 - Colman Park Yesler	63 63 - Northgate East Green Lake
+2018-09-25 Tue	26 26 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	27 27   DOWNTOWN SEATTLE	33 33 - E Magnolia

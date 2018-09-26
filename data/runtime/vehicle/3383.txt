@@ -1,0 +1,7 @@
+2018-09-17 Mon	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R
+2018-09-18 Tue	232 232   BELLEVUE	114 114   RENTON HIGHLANDS
+2018-09-19 Wed	277 277   UNIVERSITY DISTRICT	114 114   RENTON HIGHLANDS
+2018-09-20 Thu	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
+2018-09-21 Fri	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	269 269 - Issaquah Transit Center
+2018-09-24 Mon	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-09-25 Tue	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241   BELLEVUE TRANSIT CENTER	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	226 226 - Eastgate P&R Crossroads

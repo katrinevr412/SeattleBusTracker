@@ -1,0 +1,7 @@
+2018-09-17 Mon	124 124   DOWNTOWN SEATTLE	33 33   E MAGNOLIA
+2018-09-18 Tue	19 19   DOWNTOWN SEATTLE	63 63   FIRST HILL EXPRESS	167 167   S RENTON P&R	132 132   DOWNTOWN SEATTLE
+2018-09-19 Wed	24 24   DOWNTOWN SEATTLE	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT
+2018-09-20 Thu	24 24   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE	62 62 - Sand Point East Green Lake
+2018-09-21 Fri	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509
+2018-09-24 Mon	60 60   WESTWOOD VILLAGE	60 60   BROADWAY	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill
+2018-09-25 Tue	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill

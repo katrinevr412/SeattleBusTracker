@@ -1,0 +1,7 @@
+2018-09-17 Mon	277 277   JUANITA
+2018-09-18 Tue	114 114   DOWNTOWN SEATTLE	269 269   ISSAQUAH TRANSIT CENTER
+2018-09-19 Wed	277 277   UNIVERSITY DISTRICT	271 271   ISSAQUAH TRANSIT CENTER	221 221   EASTGATE P&R	221 221   EDUCATION HILL
+2018-09-20 Thu	271 271   ISSAQUAH TRANSIT CENTER	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-09-21 Fri	232 232 - Bellevue Redmond	232 232 - Redmond	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-09-24 Mon	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-09-25 Tue	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center

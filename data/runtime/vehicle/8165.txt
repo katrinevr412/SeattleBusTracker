@@ -1,0 +1,6 @@
+2018-09-17 Mon	219 219   REDMOND
+2018-09-18 Tue	252 252   DOWNTOWN SEATTLE	212 212   DOWNTOWN SEATTLE	246 246   EASTGATE P&R	311 311   WOODINVILLE
+2018-09-19 Wed	212 212   DOWNTOWN SEATTLE	311 311   WOODINVILLE
+2018-09-20 Thu	257 257   DOWNTOWN SEATTLE	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2018-09-21 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520
+2018-09-25 Tue	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R

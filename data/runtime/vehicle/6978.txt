@@ -1,0 +1,7 @@
+2018-09-17 Mon	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE
+2018-09-18 Tue	212 212   DOWNTOWN SEATTLE	545 545   DOWNTOWN SEATTLE EXPRESS	522 522   BOTHELL EXPRESS
+2018-09-19 Wed	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R	255 255   DOWNTOWN SEATTLE
+2018-09-20 Thu	252 252   DOWNTOWN SEATTLE	255 255   KIRKLAND TRANSIT CENTER	311 311   WOODINVILLE	311 311 - Woodinville Via SR-520
+2018-09-21 Fri	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
+2018-09-24 Mon	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-09-25 Tue	219 219 - Downtown Seattle Eastgate	255 255 - Totem Lake Transit Center Kirkland

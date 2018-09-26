@@ -1,0 +1,7 @@
+2018-09-17 Mon	212 212   DOWNTOWN SEATTLE	212 212   EASTGATE P&R
+2018-09-18 Tue	212 212   DOWNTOWN SEATTLE	212 212   EASTGATE P&R	257 257   KINGSGATE
+2018-09-19 Wed	212 212   EASTGATE P&R	268 268   BEAR CREEK P&R
+2018-09-20 Thu	257 257   DOWNTOWN SEATTLE	218 218   ISSAQUAH HIGHLANDS	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-09-21 Fri	218 218 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-09-24 Mon	824 824 - Newcastle Newport HS	311 311 - Woodinville Via SR-520
+2018-09-25 Tue	212 212 - Downtown Seattle	212 212   EASTGATE	212 212 - Downtown Seattle	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R

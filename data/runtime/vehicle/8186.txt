@@ -1,0 +1,7 @@
+2018-09-17 Mon	311 311   WOODINVILLE
+2018-09-18 Tue	257 257   DOWNTOWN SEATTLE	311 311   DOWNTOWN SEATTLE	311 311   WOODINVILLE
+2018-09-19 Wed	219 219   DOWNTOWN SEATTLE	216 216   DOWNTOWN SEATTLE	216 216   BEAR CREEK P&R	219 219   REDMOND
+2018-09-20 Thu	219 219   DOWNTOWN SEATTLE	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-09-21 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-09-24 Mon	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-09-25 Tue	522 522 - Downtown Seattle	545 545 - Redmond	212 212 - Eastgate P&R

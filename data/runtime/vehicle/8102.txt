@@ -1,0 +1,7 @@
+2018-09-17 Mon	111 111   LAKE KATHLEEN
+2018-09-18 Tue	179 179   DOWNTOWN SEATTLE	143 143   BLACK DIAMOND EXPRESS	143 143   RENTON
+2018-09-19 Wed	178 178   DOWNTOWN SEATTLE
+2018-09-20 Thu	143 143   DOWNTOWN SEATTLE EXPRESS	192 192   STAR LAKE	192 192 - Star Lake Military Road	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-09-21 Fri	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
+2018-09-24 Mon	157 157 - Downtown Seattle East Hill	159 159 - Timberlane Kent Station
+2018-09-25 Tue	111 111 - Downtown Seattle	159 159 - Timberlane Kent Station

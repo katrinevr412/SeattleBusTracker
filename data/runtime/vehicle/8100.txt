@@ -1,0 +1,6 @@
+2018-09-18 Tue	143 143   DOWNTOWN SEATTLE EXPRESS
+2018-09-19 Wed	111 111   DOWNTOWN SEATTLE	111 111   LAKE KATHLEEN
+2018-09-20 Thu	178 178   DOWNTOWN SEATTLE	193 193   FEDERAL WAY EXPRESS	193 193 - Federal Way Express
+2018-09-21 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	178 178 - S Federal Way Federal Way Park and Ride
+2018-09-24 Mon	111 111 - Downtown Seattle	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-25 Tue	192 192 - Seattle Military Road	178 178 - S Federal Way Federal Way Park and Ride

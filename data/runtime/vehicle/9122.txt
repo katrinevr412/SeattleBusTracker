@@ -1,0 +1,4 @@
+2018-09-20 Thu	580 580 - Puyallup Station	580 580 - Lakewood	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-09-21 Fri	590 590 - Seattle	594 594 - Lakewood -  Tacoma	596 596 - Sounder Connector-Bonney
+2018-09-24 Mon	567 567 - overlake Tc via bellevue	596 596 - Sounder Connector-Bonney
+2018-09-25 Tue	592 592 - Seattle -  Express	590 590 - Commerce - Tac Dome

@@ -1,0 +1,7 @@
+2018-09-17 Mon	75 75   NORTHGATE	74 74   SAND POINT
+2018-09-18 Tue	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
+2018-09-19 Wed	312 312   DOWNTOWN SEATTLE EXPRESS
+2018-09-20 Thu	312 312   DOWNTOWN SEATTLE EXPRESS
+2018-09-21 Fri	309 309 - First Hill Express	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-24 Mon	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-25 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore

@@ -1,0 +1,7 @@
+2018-09-17 Mon	56 56   ALKI
+2018-09-18 Tue	15 15   BLUE RIDGE EXPRESS	55 55   ADMIRAL DISTRICT
+2018-09-19 Wed	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   DOWNTOWN SEATTLE	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	18 18   DOWNTOWN SEATTLE EXPRESS	40 40   NORTHGATE
+2018-09-20 Thu	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St
+2018-09-21 Fri	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-09-24 Mon	15 15 - Blue Ridge
+2018-09-25 Tue	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	15 15 - Blue Ridge	21 21 - Arbor Heights - Express

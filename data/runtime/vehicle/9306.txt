@@ -1,0 +1,4 @@
+2018-09-20 Thu	595 595 - Gig Harbor -  Narrows
+2018-09-21 Fri	595 595 - Seattle - Narrows	595 595 - Gig Harbor -  Narrows
+2018-09-24 Mon	590 590 - Seattle	595 595 - Gig Harbor -  Narrows
+2018-09-25 Tue	586 586 - U District -  Express	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	577 577 - Federal Way TC	590 590 - Tac Dome

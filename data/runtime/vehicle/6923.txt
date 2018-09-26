@@ -1,0 +1,7 @@
+2018-09-17 Mon	102 102   S RENTON P&R	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	180 180   SE AUBURN	180 180   SEATTLE TACOMA INTERNATIONAL AIRPORT
+2018-09-18 Tue	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150   DOWNTOWN SEATTLE	150 150   KENT
+2018-09-20 Thu	102 102   FAIRWOOD	102 102 - Fairwood S Renton P&R
+2018-09-21 Fri	150 150 - Downtown Seattle Southcenter	197 197 - University District Federal Way Transit Center
+2018-09-22 Sat	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-09-24 Mon	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-09-25 Tue	158 158 - Downtown Seattle Via I-5	179 179 - Twin Lakes P&R Federal Way Transit Center

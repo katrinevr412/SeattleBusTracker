@@ -1,0 +1,7 @@
+2018-09-17 Mon	9 9   RAINIER BEACH STATION EXPRESS	9 9   BROADWAY EXPRESS	9 9   RAINIER BEACH STATION EXPRESS
+2018-09-18 Tue	63 63   FIRST HILL EXPRESS	123 123   GREGORY HEIGHTS	121 121   DOWNTOWN SEATTLE
+2018-09-19 Wed	19 19   DOWNTOWN SEATTLE	63 63   FIRST HILL EXPRESS	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER	8 8   SEATTLE CENTER	8 8   MOUNT BAKER TRANSIT CENTER
+2018-09-20 Thu	62 62   DOWNTOWN SEATTLE	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509
+2018-09-21 Fri	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Downtown Seattle Via SR-509	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont
+2018-09-24 Mon	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-09-25 Tue	45 45   UNIVERSITY DISTRICT	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509

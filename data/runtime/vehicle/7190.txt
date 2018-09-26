@@ -1,0 +1,6 @@
+2018-09-17 Mon	168 168   MAPLE VALLEY
+2018-09-18 Tue	186 186   ENUMCLAW	186 186   AUBURN	186 186   ENUMCLAW	186 186   AUBURN
+2018-09-19 Wed	186 186   AUBURN	179 179   DOWNTOWN SEATTLE	180 180   BURIEN TRANSIT CENTER	180 180   SE AUBURN	180 180   BURIEN TRANSIT CENTER	180 180   SE AUBURN	180 180   BURIEN TRANSIT CENTER
+2018-09-20 Thu	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169   KENT	169 169   RENTON	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road
+2018-09-21 Fri	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road
+2018-09-24 Mon	166 166 - Kent Highline College	166 166 - Burien Transit Center Highline College	166 166 - Kent Highline College

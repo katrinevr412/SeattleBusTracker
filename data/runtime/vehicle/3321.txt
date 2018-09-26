@@ -1,0 +1,7 @@
+2018-09-17 Mon	232 232   BELLEVUE	232 232   DUVALL
+2018-09-18 Tue	271 271   EASTGATE	271 271   UNIVERSITY DISTRICT	271 271   ISSAQUAH
+2018-09-19 Wed	237 237   WOODINVILLE	238 238   KIRKLAND	236 236   WOODINVILLE
+2018-09-20 Thu	237 237   BELLEVUE	271 271   UNIVERSITY DISTRICT	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-09-21 Fri	894 894 - Mercer Island HS Island Crest Way
+2018-09-24 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	277 277 - Juanita Houghton P&R
+2018-09-25 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond

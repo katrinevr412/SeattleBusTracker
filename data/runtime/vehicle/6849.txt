@@ -1,0 +1,7 @@
+2018-09-17 Mon	372 372   KENMORE P&R EXPRESS
+2018-09-18 Tue	77 77   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	74 74   DOWNTOWN SEATTLE	301 301   AURORA VILLAGE EXPRESS	301 301   DOWNTOWN SEATTLE	74 74   SAND POINT
+2018-09-20 Thu	301 301   DOWNTOWN SEATTLE EXPRESS	75 75   UNIVERSITY DISTRICT	32 32   SEATTLE CENTER	32 32   UNIVERSITY DISTRICT	75 75   NORTHGATE	75 75   UNIVERSITY DISTRICT	32 32   SEATTLE CENTER	32 32   UNIVERSITY DISTRICT	75 75   NORTHGATE	75 75   UNIVERSITY DISTRICT	31 31   CENTRAL MAGNOLIA	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City
+2018-09-21 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna	41 41 - Northgate Northeast 125th Only
+2018-09-24 Mon	74 74 - Downtown Seattle	74 74 - Sand Point Ravenna
+2018-09-25 Tue	41 41 - Downtown Seattle Northgate	74 74 - Sand Point Ravenna

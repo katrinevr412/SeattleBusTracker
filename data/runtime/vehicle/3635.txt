@@ -1,0 +1,5 @@
+2018-09-17 Mon	122 122   HIGHLINE COLLEGE
+2018-09-19 Wed	63 63   NORTHGATE EXPRESS
+2018-09-20 Thu	24 24   DOWNTOWN SEATTLE	121 121   HIGHLINE COLLEGE	121 121 - Burien Transit Center Via SR-509
+2018-09-24 Mon	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-25 Tue	9 9 - Broadway Express	19 19 - West Magnolia

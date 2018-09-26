@@ -1,0 +1,5 @@
+2018-09-17 Mon	75 75   UNIVERSITY DISTRICT	32 32   SEATTLE CENTER
+2018-09-20 Thu	347 347   NORTHGATE	346 346   AURORA VILLAGE	346 346   NORTHGATE	347 347   MOUNTLAKE TERRACE	347 347   NORTHGATE	346 346   AURORA VILLAGE	346 346   NORTHGATE	347 347   MOUNTLAKE TERRACE
+2018-09-21 Fri	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City
+2018-09-24 Mon	37 37 - Alaska Junction Alki	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler
+2018-09-25 Tue	24 24 - Downtown Seattle	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District

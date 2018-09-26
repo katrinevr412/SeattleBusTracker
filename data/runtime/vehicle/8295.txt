@@ -1,0 +1,7 @@
+2018-09-17 Mon	111 111   LAKE KATHLEEN
+2018-09-18 Tue	197 197   UNIVERSITY DISTRICT	116 116   FAUNTLEROY EXPRESS
+2018-09-19 Wed	179 179   DOWNTOWN SEATTLE	192 192   STAR LAKE	143 143   BLACK DIAMOND EXPRESS
+2018-09-20 Thu	177 177   DOWNTOWN SEATTLE
+2018-09-21 Fri	111 111 - Downtown Seattle	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-09-24 Mon	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-25 Tue	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont

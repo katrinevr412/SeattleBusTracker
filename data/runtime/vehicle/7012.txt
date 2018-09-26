@@ -1,0 +1,7 @@
+2018-09-17 Mon	33 33   E MAGNOLIA	124 124   TUKWILA LINK STATION	33 33   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION
+2018-09-18 Tue	24 24   DOWNTOWN SEATTLE	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE	62 62   SAND POINT	62 62   DOWNTOWN SEATTLE
+2018-09-19 Wed	9 9   BROADWAY EXPRESS	9 9   RAINIER BEACH STATION EXPRESS	9 9   BROADWAY EXPRESS	29 29   BALLARD
+2018-09-20 Thu	37 37   DOWNTOWN SEATTLE EXPRESS	28 28   DOWNTOWN SEATTLE EXPRESS	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont
+2018-09-21 Fri	62 62 - Downtown Seattle Fremont	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-09-24 Mon	29 29 - Ballard Queen Anne
+2018-09-25 Tue	63 63 - First Hill South Lake Union	64 64 - Jackson Park Wedgwood	48 48 - Mount Baker Transit Center Central District

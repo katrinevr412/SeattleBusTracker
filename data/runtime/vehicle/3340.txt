@@ -1,0 +1,7 @@
+2018-09-17 Mon	232 232   DUVALL
+2018-09-18 Tue	342 342   BELLEVUE	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R	271 271   UNIVERSITY DISTRICT	271 271   ISSAQUAH TRANSIT CENTER	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R
+2018-09-19 Wed	271 271   UNIVERSITY DISTRICT	271 271   ISSAQUAH TRANSIT CENTER	271 271   UNIVERSITY DISTRICT
+2018-09-20 Thu	114 114   DOWNTOWN SEATTLE	221 221 - Eastgate P&R	221 221 - Education Hill
+2018-09-21 Fri	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	114 114 - Renton Highlands
+2018-09-24 Mon	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-09-25 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake

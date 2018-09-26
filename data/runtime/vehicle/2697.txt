@@ -1,0 +1,7 @@
+2018-09-17 Mon	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	301 301   DOWNTOWN SEATTLE EXPRESS	308 308   HORIZON VIEW	77 77   NORTH CITY EXPRESS
+2018-09-20 Thu	312 312   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE	301 301   DOWNTOWN SEATTLE EXPRESS	312 312 - Bothell
+2018-09-21 Fri	304 304 - Richmond Beach
+2018-09-24 Mon	312 312 - Downtown Seattle	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf
+2018-09-25 Tue	41 41   DOWNTOWN SEATTLE	661 661 - Interstate 5 and Northeast 145th Street	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	316 316 - Meridian Park Green Lake

@@ -31,15 +31,19 @@ class DataCollector:
     def __setstate__(self, state):
         self.__init__()
 
-    def collect(self, use_api=GlobalConstants.KCM_API):
+    def collect(self, use_api=GlobalConstants.KCM_API, route_not_needed=[]):
         if use_api == GlobalConstants.KCM_API:
             vehicles = self.__get_kcm_vehicles()
         else:
             vehicles = self.__get_oba_vehicles()
 
+        collected_routes = set()
         for vehicle in filter(lambda vehicle: len(str(vehicle.id)) >= 4, vehicles):
-            self.route_data_writer.write_route(vehicle)
-            self.vehicle_data_writer.write_vehicle(vehicle)
+            if vehicle.get_route_number() not in route_not_needed:
+                collected_routes.add(vehicle.get_route_number())
+                self.route_data_writer.write_route(vehicle)
+                self.vehicle_data_writer.write_vehicle(vehicle)
+        return collected_routes
 
     def merge(self):
         """
@@ -53,6 +57,8 @@ class DataCollector:
     def __get_kcm_vehicles(self):
         regrouped_routes = KCMUtils.regroup(KCMConstants.ALL_LINES)
         vehicles = []
+        if not regrouped_routes:
+            return vehicles
         pool = Pool(len(regrouped_routes))
         results = pool.imap_unordered(
             partial(get_vehicle_from_routes, data_collector=self),

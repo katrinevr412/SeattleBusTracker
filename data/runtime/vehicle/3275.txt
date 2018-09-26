@@ -1,0 +1,7 @@
+2018-09-17 Mon	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R
+2018-09-18 Tue	114 114   DOWNTOWN SEATTLE	342 342   SHORELINE P&R
+2018-09-19 Wed	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	114 114   RENTON HIGHLANDS
+2018-09-20 Thu	114 114   RENTON HIGHLANDS	114 114 - Renton Highlands
+2018-09-21 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-09-24 Mon	886 886 - International School Bellevue HS	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-09-25 Tue	277 277   UNIVERSITY DISTRICT	271 271 - University District Bellevue	271 271 - Issaquah Bellevue

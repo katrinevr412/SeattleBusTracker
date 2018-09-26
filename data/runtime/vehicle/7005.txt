@@ -1,0 +1,6 @@
+2018-09-17 Mon	106 106   RENTON	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION
+2018-09-18 Tue	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION	106 106   RENTON	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION	106 106   RENTON	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION	106 106   RENTON	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION	106 106   RENTON	106 106   INTERNATIONAL DISTRICT CHINATOWN STATION
+2018-09-19 Wed	56 56   DOWNTOWN SEATTLE	125 125   DOWNTOWN SEATTLE
+2018-09-20 Thu	995 995 - Laurelhurst Special	71 71 - University District Ravenna	71 71 - Wedgwood Ravenna
+2018-09-21 Fri	355 355 - Downtown Seattle	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center
+2018-09-25 Tue	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill

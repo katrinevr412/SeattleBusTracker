@@ -1,0 +1,7 @@
+2018-09-17 Mon	114 114   RENTON HIGHLANDS
+2018-09-18 Tue	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON	114 114   RENTON HIGHLANDS
+2018-09-19 Wed	277 277   UNIVERSITY DISTRICT	244 244   OVERLAKE TRANSIT CENTER	271 271   EASTGATE P&R
+2018-09-20 Thu	114 114   DOWNTOWN SEATTLE	277 277 - Juanita Houghton P&R
+2018-09-21 Fri	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
+2018-09-24 Mon	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R
+2018-09-25 Tue	245 245 - Kirkland Crossroads	245 245   FACTORIA	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads

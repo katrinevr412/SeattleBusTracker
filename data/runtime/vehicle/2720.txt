@@ -1,0 +1,7 @@
+2018-09-17 Mon	312 312   BOTHELL EXPRESS
+2018-09-18 Tue	373 373   UNIVERSITY DISTRICT EXPRESS	73 73   JACKSON PARK	373 373   UNIVERSITY DISTRICT EXPRESS	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	73 73   JACKSON PARK	73 73   UNIVERSITY DISTRICT	373 373   AURORA VILLAGE EXPRESS	73 73   UNIVERSITY DISTRICT	373 373   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	312 312   DOWNTOWN SEATTLE EXPRESS	309 309   KENMORE P&R EXPRESS
+2018-09-20 Thu	41 41   DOWNTOWN SEATTLE	312 312 - Bothell
+2018-09-21 Fri	301 301 - Downtown Seattle - Express	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-24 Mon	675 675 - Aurora Village Transit Center
+2018-09-25 Tue	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	43 43 - NE 45th St and Brooklyn Ave NE

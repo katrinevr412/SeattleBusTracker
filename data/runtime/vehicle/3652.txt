@@ -1,0 +1,7 @@
+2018-09-17 Mon	76 76   WEDGWOOD
+2018-09-18 Tue	37 37   DOWNTOWN SEATTLE EXPRESS	28 28   DOWNTOWN SEATTLE EXPRESS	63 63   NORTHGATE EXPRESS
+2018-09-19 Wed	121 121   DOWNTOWN SEATTLE	303 303   SHORELINE P&R EXPRESS
+2018-09-20 Thu	26 26   DOWNTOWN SEATTLE EXPRESS	9 9   RAINIER BEACH STATION EXPRESS	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-21 Fri	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	37 37 - Alaska Junction Alki	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler
+2018-09-24 Mon	45 45 - Loyal Heights Greenwood	29 29 - Ballard Queen Anne
+2018-09-25 Tue	9 9 - Broadway Express	9 9   RAINIER BEACH STATION EXPRESS	9 9 - Broadway Express	167 167 - S Renton P&R Via I-405

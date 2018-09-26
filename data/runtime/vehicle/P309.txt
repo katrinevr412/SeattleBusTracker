@@ -1,0 +1,5 @@
+2018-09-20 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-09-21 Fri	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-09-23 Sun	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC
+2018-09-24 Mon	P100 100 - TCC
+2018-09-25 Tue	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC

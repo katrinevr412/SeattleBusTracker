@@ -1,0 +1,4 @@
+2018-09-20 Thu	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-09-21 Fri	212 212 - Downtown Seattle	255 255 - Downtown Seattle Kirkland
+2018-09-24 Mon	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt
+2018-09-25 Tue	41 41 - Northgate Northeast 125th Only

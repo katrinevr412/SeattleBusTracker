@@ -1,0 +1,7 @@
+2018-09-17 Mon	177 177   FEDERAL WAY	178 178   S FEDERAL WAY
+2018-09-18 Tue	193 193   FIRST HILL EXPRESS	192 192   STAR LAKE	143 143   BLACK DIAMOND EXPRESS
+2018-09-19 Wed	193 193   FEDERAL WAY EXPRESS
+2018-09-20 Thu	192 192   SEATTLE	116 116   FAUNTLEROY EXPRESS	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
+2018-09-21 Fri	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5
+2018-09-24 Mon	197 197 - University District Federal Way Transit Center	192 192 - Star Lake Military Road
+2018-09-25 Tue	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express

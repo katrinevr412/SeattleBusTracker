@@ -1,0 +1,5 @@
+2018-09-20 Thu	592 592 - Lakewood/Dupont	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-09-21 Fri	567 567 - overlake Tc via bellevue	566 566 - Overlake TC via Renton	596 596 - Sounder Connector-Sumner Stat	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-09-23 Sun	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-09-24 Mon	574 574 - SeaTac Airport via Tacoma Via Fedway	578 578 - Puyallup via federal way	586 586 - U District -  Express	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-09-25 Tue	586 586 - Tacoma -  Express	592 592 - Seattle -  Express

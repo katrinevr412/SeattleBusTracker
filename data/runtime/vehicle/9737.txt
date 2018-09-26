@@ -1,0 +1,4 @@
+2018-09-20 Thu	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-09-21 Fri	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	586 586 - Tacoma -  Express
+2018-09-24 Mon	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	590 590 - Seattle
+2018-09-25 Tue	590 590 - Seattle	594 594 - Lkwd-Dupont via Tacoma	592 592 - Seattle -  Express	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome

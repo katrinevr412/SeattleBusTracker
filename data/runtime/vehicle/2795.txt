@@ -1,0 +1,7 @@
+2018-09-17 Mon	301 301   DOWNTOWN SEATTLE	301 301   AURORA VILLAGE EXPRESS
+2018-09-18 Tue	316 316   DOWNTOWN SEATTLE	301 301   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	74 74   DOWNTOWN SEATTLE	316 316   DOWNTOWN SEATTLE	312 312   BOTHELL EXPRESS
+2018-09-20 Thu	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	67 67   NORTHGATE	65 65   UNIVERSITY DISTRICT	67 67   NORTHGATE	67 67   UNIVERSITY DISTRICT	65 65   JACKSON PARK	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood
+2018-09-21 Fri	316 316 - Downtown Seattle Green Lake	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-24 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - Kenmore P&R Lake City
+2018-09-25 Tue	312 312 - Downtown Seattle	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express	316 316 - Meridian Park Green Lake

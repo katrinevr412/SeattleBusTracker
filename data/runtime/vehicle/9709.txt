@@ -1,0 +1,5 @@
+2018-09-21 Fri	586 586 - U District -  Express
+2018-09-22 Sat	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-09-23 Sun	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-09-24 Mon	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-09-25 Tue	592 592 - Seattle -  Express

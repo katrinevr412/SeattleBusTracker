@@ -1,0 +1,7 @@
+2018-09-17 Mon	301 301   AURORA VILLAGE EXPRESS
+2018-09-18 Tue	312 312   DOWNTOWN SEATTLE EXPRESS	301 301   AURORA VILLAGE EXPRESS
+2018-09-19 Wed	301 301   DOWNTOWN SEATTLE EXPRESS	77 77   NORTH CITY EXPRESS
+2018-09-20 Thu	372 372   UNIVERSITY DISTRICT EXPRESS	77 77   NORTH CITY EXPRESS	77 77 - North City Maple Leaf
+2018-09-21 Fri	312 312 - Downtown Seattle	312 312 - Kenmore
+2018-09-24 Mon	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt
+2018-09-25 Tue	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake

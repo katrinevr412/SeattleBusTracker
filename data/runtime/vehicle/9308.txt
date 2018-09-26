@@ -1,0 +1,4 @@
+2018-09-20 Thu	577 577 - Federal Way TC	592 592 - Lakewood/Dupont
+2018-09-21 Fri	586 586 - U District -  Express	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	595 595 - Gig Harbor -  Narrows
+2018-09-24 Mon	592 592 - Seattle -  Express	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	577 577 - Federal Way TC	590 590 - Tac Dome
+2018-09-25 Tue	586 586 - U District -  Express	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma

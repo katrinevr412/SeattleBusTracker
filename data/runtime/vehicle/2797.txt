@@ -1,0 +1,6 @@
+2018-09-17 Mon	17 17   SUNSET HILL EXPRESS
+2018-09-18 Tue	55 55   DOWNTOWN SEATTLE	21 21   DOWNTOWN SEATTLE EXPRESS	5 5   GREENWOOD EXPRESS	214 214   ISSAQUAH TRANSIT CENTER
+2018-09-20 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-21 Fri	21 21 - Arbor Heights - Express
+2018-09-24 Mon	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-25 Tue	40 40   NORTHGATE	40 40 - Downtown Seattle Ballard	5 5 - Greenwood - Express

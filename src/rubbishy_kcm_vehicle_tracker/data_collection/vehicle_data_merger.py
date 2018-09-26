@@ -8,15 +8,13 @@ class VehicleDataMerger(DataMerger):
 
     def __init__(self):
         from_dir = os.path.join(
-            ProjectPathConfig.SOURCE_ROOT_PATH,
-            'data',
+            ProjectPathConfig.DATA_ROOT_PATH,
             'runtime',
             'temp',
             'vehicle'
         )
         to_dir = os.path.join(
-            ProjectPathConfig.SOURCE_ROOT_PATH,
-            'data',
+            ProjectPathConfig.DATA_ROOT_PATH,
             'runtime',
             'vehicle'
         )

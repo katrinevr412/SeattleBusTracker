@@ -1,0 +1,7 @@
+2018-09-17 Mon	193 193   FEDERAL WAY EXPRESS
+2018-09-18 Tue	197 197   UNIVERSITY DISTRICT	156 156   SOUTHCENTER	156 156   HIGHLINE COLLEGE	158 158   KENT
+2018-09-19 Wed	143 143   DOWNTOWN SEATTLE EXPRESS	190 190   REDONDO HEIGHTS P&R
+2018-09-20 Thu	143 143   DOWNTOWN SEATTLE EXPRESS	116 116   FAUNTLEROY EXPRESS	116 116 - Fauntleroy
+2018-09-21 Fri	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express	143 143 - Renton
+2018-09-24 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-09-25 Tue	197 197 - University District Federal Way Transit Center	178 178 - S Federal Way Federal Way Park and Ride

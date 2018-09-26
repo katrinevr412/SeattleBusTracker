@@ -1,0 +1,7 @@
+2018-09-17 Mon	37 37   ALASKA JUNCTION	28 28   BROADVIEW EXPRESS
+2018-09-18 Tue	24 24   DOWNTOWN SEATTLE	27 27   COLMAN PARK	27 27   DOWNTOWN SEATTLE	33 33   E MAGNOLIA	33 33   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE	24 24   MAGNOLIA	24 24   DOWNTOWN SEATTLE	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE	24 24   MAGNOLIA
+2018-09-19 Wed	37 37   DOWNTOWN SEATTLE EXPRESS	19 19   WEST MAGNOLIA
+2018-09-20 Thu	9 9   RAINIER BEACH STATION EXPRESS	9 9   BROADWAY EXPRESS	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-21 Fri	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	27 27 - Colman Park Yesler	63 63 - Northgate East Green Lake
+2018-09-24 Mon	28 28 - Broadview
+2018-09-25 Tue	308 308 - Downtown Seattle Via I-5	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express

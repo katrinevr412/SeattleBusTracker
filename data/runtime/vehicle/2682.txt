@@ -1,0 +1,8 @@
+2018-09-17 Mon	304 304   RICHMOND BEACH
+2018-09-18 Tue	41 41   DOWNTOWN SEATTLE	312 312   DOWNTOWN SEATTLE EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
+2018-09-19 Wed	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY
+2018-09-20 Thu	312 312   DOWNTOWN SEATTLE EXPRESS	309 309   FIRST HILL EXPRESS	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-21 Fri	316 316 - Downtown Seattle Green Lake	661 661 - Interstate 5 and Northeast 145th Street	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-23 Sun	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-09-24 Mon	372 372 - University District Lake City	355 355 - Shoreline CC
+2018-09-25 Tue	372 372 - University District Lake City

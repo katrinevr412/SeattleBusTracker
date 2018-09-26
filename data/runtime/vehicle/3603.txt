@@ -1,0 +1,7 @@
+2018-09-17 Mon	48 48   MOUNT BAKER TRANSIT CENTER	64 64   JACKSON PARK EXPRESS
+2018-09-18 Tue	167 167   S RENTON P&R
+2018-09-19 Wed	64 64   FIRST HILL EXPRESS	63 63   FIRST HILL EXPRESS	27 27   COLMAN PARK	63 63   NORTHGATE EXPRESS
+2018-09-20 Thu	9 9   BROADWAY EXPRESS	9 9   RAINIER BEACH STATION EXPRESS	9 9   BROADWAY EXPRESS	63 63 - Northgate East Green Lake
+2018-09-21 Fri	121 121 - Downtown Seattle Via SR-509	167 167 - S Renton P&R Via I-405
+2018-09-24 Mon	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia
+2018-09-25 Tue	29 29 - Downtown Seattle Queen Anne

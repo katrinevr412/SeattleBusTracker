@@ -1,0 +1,6 @@
+2018-09-17 Mon	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE
+2018-09-18 Tue	214 214   DOWNTOWN SEATTLE	355 355   SHORELINE CC EXPRESS
+2018-09-19 Wed	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-21 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-24 Mon	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-09-25 Tue	77 77 - Downtown Seattle Maple Leaf	18 18 - North Beach

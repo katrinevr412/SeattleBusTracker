@@ -1,0 +1,7 @@
+2018-09-17 Mon	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-18 Tue	15 15   DOWNTOWN SEATTLE EXPRESS	55 55   DOWNTOWN SEATTLE	56 56   ALKI
+2018-09-19 Wed	18 18   DOWNTOWN SEATTLE EXPRESS	17 17   DOWNTOWN SEATTLE EXPRESS	40 40   NORTHGATE
+2018-09-20 Thu	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	56 56 - Alki Via SR-99
+2018-09-21 Fri	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99
+2018-09-24 Mon	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-09-25 Tue	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	5 5   DOWNTOWN SEATTLE	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	56 56 - Alki Via SR-99	15 15 - Blue Ridge

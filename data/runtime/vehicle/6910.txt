@@ -1,0 +1,7 @@
+2018-09-17 Mon	219 219   REDMOND
+2018-09-18 Tue	311 311   DOWNTOWN SEATTLE	255 255   DOWNTOWN SEATTLE	252 252   KINGSGATE
+2018-09-19 Wed	257 257   DOWNTOWN SEATTLE	255 255   KIRKLAND TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255   KIRKLAND TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R
+2018-09-20 Thu	311 311   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER
+2018-09-21 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	257 257 - Kingsgate	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-09-24 Mon	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-09-25 Tue	41 41 - Downtown Seattle Northgate	41 41   LAKE CITY	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park

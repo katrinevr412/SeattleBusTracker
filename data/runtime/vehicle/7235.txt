@@ -1,0 +1,5 @@
+2018-09-17 Mon	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER
+2018-09-18 Tue	277 277   UNIVERSITY DISTRICT	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON
+2018-09-19 Wed	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE	271 271   UNIVERSITY DISTRICT
+2018-09-24 Mon	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-09-25 Tue	221 221 - Education Hill	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue

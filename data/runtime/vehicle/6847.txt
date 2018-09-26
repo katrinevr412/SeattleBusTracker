@@ -1,0 +1,7 @@
+2018-09-17 Mon	74 74   SAND POINT	308 308   HORIZON VIEW
+2018-09-18 Tue	312 312   KENMORE EXPRESS
+2018-09-19 Wed	316 316   DOWNTOWN SEATTLE	74 74   SAND POINT	41 41   NORTHGATE
+2018-09-20 Thu	304 304   DOWNTOWN SEATTLE	74 74   DOWNTOWN SEATTLE	32 32   UNIVERSITY DISTRICT	75 75   NORTHGATE	75 75 - Northgate Lake City	74 74 - Sand Point Ravenna
+2018-09-21 Fri	41 41 - Downtown Seattle Northgate	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-24 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-25 Tue	304 304   DOWNTOWN SEATTLE	74 74 - Downtown Seattle	32 32 - University District Fremont	75 75 - Northgate Lake City	74 74 - Sand Point Ravenna

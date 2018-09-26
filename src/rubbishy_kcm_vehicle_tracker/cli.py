@@ -109,7 +109,17 @@ def handle_cache_reload(args):
 
 def handle_data_collect(args):
     data_collector = DataCollector()
-    data_collector.collect(use_api=args.api)
+    routes_collected = set()
+    for api in GlobalConstants.ALL_SUPPORTED_APIS:
+        try:
+            routes_collected = routes_collected.union(
+                data_collector.collect(
+                    use_api=api,
+                    route_not_needed=routes_collected
+                )
+            )
+        except:
+            pass
 
 
 def handle_data_merge(args):

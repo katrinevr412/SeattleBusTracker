@@ -1,0 +1,7 @@
+2018-09-17 Mon	216 216   BEAR CREEK P&R
+2018-09-18 Tue	219 219   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE
+2018-09-19 Wed	219 219   DOWNTOWN SEATTLE	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE
+2018-09-20 Thu	522 522   DOWNTOWN SEATTLE EXPRESS	257 257 - Kingsgate
+2018-09-21 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-09-24 Mon	255 255   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-09-25 Tue	257 257 - Downtown Seattle	255 255   KIRKLAND TRANSIT CENTER	252 252 - Kingsgate Via SR-520

@@ -1,0 +1,6 @@
+2018-09-17 Mon	5 5   SHORELINE	21 21   DOWNTOWN SEATTLE	5 5   DOWNTOWN SEATTLE	21 21   WESTWOOD VILLAGE	5 5   DOWNTOWN SEATTLE
+2018-09-18 Tue	5 5   SHORELINE	5 5   DOWNTOWN SEATTLE	21 21   WESTWOOD VILLAGE	40 40   DOWNTOWN SEATTLE
+2018-09-19 Wed	5 5   DOWNTOWN SEATTLE EXPRESS	55 55   ADMIRAL DISTRICT	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE
+2018-09-21 Fri	40 40 - Downtown Seattle Fremont	40 40 - Downtown Seattle Ballard	55 55 - Admiral District Alaska Junction
+2018-09-24 Mon	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-09-25 Tue	77 77 - Downtown Seattle Maple Leaf	55 55 - Admiral District Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
