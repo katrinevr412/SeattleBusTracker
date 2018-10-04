@@ -4,3 +4,7 @@
 2018-09-20 Thu	128 128   SOUTHCENTER	128 128   ADMIRAL DISTRICT	128 128   SOUTHCENTER	128 128   ADMIRAL DISTRICT	128 128   SOUTHCENTER	40 40 - Northgate Fremont
 2018-09-21 Fri	125 125 - Downtown Seattle South Seattle College
 2018-09-25 Tue	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont
+2018-09-26 Wed	106 106 - International District Chinatown Station Rainier Beach Station	18 18 - North Beach
+2018-09-27 Thu	113 113 - Downtown Seattle White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center
+2018-09-28 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-09-29 Sat	4 4 - Downtown Seattle East Jefferson Street	3 3   DOWNTOWN SEATTLE	4 4 - Downtown Seattle East Jefferson Street

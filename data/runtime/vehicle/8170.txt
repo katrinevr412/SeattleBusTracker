@@ -5,3 +5,9 @@
 2018-09-21 Fri	218 218 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-09-24 Mon	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520
 2018-09-25 Tue	522 522 - Downtown Seattle	218 218 - Issaquah Highlands
+2018-09-26 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-09-27 Thu	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	212 212 - Eastgate P&R
+2018-09-28 Fri	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-10-01 Mon	212 212 - Downtown Seattle	217 217 - N Issaquah Eastgate	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
+2018-10-02 Tue	212 212 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-03 Wed	219 219 - Redmond Issaquah Highlands Park & Ride

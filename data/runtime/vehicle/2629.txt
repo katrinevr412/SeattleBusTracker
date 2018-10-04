@@ -5,3 +5,11 @@
 2018-09-21 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-09-24 Mon	214 214 - Issaquah
 2018-09-25 Tue	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express
+2018-09-26 Wed	21 21 - Downtown Seattle - Express
+2018-09-27 Thu	21 21 - Downtown Seattle - Express	57 57 - Alaska Junction Via SR-99	5 5 - Greenwood - Express
+2018-09-28 Fri	214 214 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-09-29 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
+2018-09-30 Sun	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-10-01 Mon	18 18 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-10-02 Tue	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood
+2018-10-03 Wed	114 114 - Renton Highlands

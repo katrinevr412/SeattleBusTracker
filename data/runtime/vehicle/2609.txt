@@ -3,3 +3,6 @@
 2018-09-19 Wed	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER
 2018-09-20 Thu	673 RAPIDRIDE C LINE TO SOUTH LAKE UNION	675 RAPIDRIDE E LINE TO DOWNTOWN SEATTLE
 2018-09-21 Fri	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	70 70 - Downtown Seattle Fairview	120 120 - Burien Transit Center Westwood Village
+2018-10-01 Mon	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-10-02 Tue	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-10-03 Wed	43 43 - NE 45th St and Brooklyn Ave NE	120 120 - Burien Transit Center Westwood Village

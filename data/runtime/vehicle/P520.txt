@@ -1,3 +1,5 @@
 2018-09-21 Fri	P102 102 - Tacoma Dome-Dtwn Tacoma-Express
 2018-09-22 Sat	P48 48 - South M St - Sheridian St
 2018-09-24 Mon	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pacific Ave - Parkland
+2018-10-02 Tue	P400 400 - Tacoma via Puyallup Station	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P501 501 - Milton/Federal Way -  via 20th St	P3 3 - Lakewood
+2018-10-03 Wed	P400 400 - Tacoma via Puyallup Station	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P497 497 - Lakeland Hills

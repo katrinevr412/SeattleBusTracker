@@ -4,3 +4,9 @@
 2018-09-21 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-09-24 Mon	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Bothell
 2018-09-25 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	556 556 - Issaquah	555 555 - Northgate	556 556 - Issaquah
+2018-09-26 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-09-27 Thu	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-09-28 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554 - Issaquah
+2018-10-01 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-10-02 Tue	550 550 - Seattle	522 522 - Downtown Seattle	550 550 - Bellevue
+2018-10-03 Wed	545 545   REDMOND EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue

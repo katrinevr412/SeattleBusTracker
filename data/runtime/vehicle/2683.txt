@@ -5,3 +5,10 @@
 2018-09-21 Fri	355 355 - Downtown Seattle	987 987 - Rainier Beach Special	17 17 - Sunset Hill
 2018-09-24 Mon	55 55 - Admiral District Alaska Junction
 2018-09-25 Tue	994 994 - Haller Lake Special	15 15 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-09-26 Wed	77 77 - Downtown Seattle Maple Leaf	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-09-27 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	5 5 - Greenwood - Express
+2018-09-28 Fri	5 5 - Downtown Seattle - Express	21 21 - Arbor Heights - Express
+2018-09-29 Sat	49 49 - To Route 49 Via Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
+2018-09-30 Sun	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49   UNIVERSITY DISTRICT	49 49   DOWNTOWN SEATTLE	7 7   RAINIER BEACH
+2018-10-01 Mon	7 7   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	309 309 - Kenmore P&R Express
+2018-10-02 Tue	987 987 - Haller Lake Special

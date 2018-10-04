@@ -5,3 +5,6 @@
 2018-09-21 Fri	214 214 - Issaquah Transit Center Transit Center Only
 2018-09-24 Mon	309 309 - Kenmore P&R Express
 2018-09-25 Tue	5 5   DOWNTOWN SEATTLE EXPRESS	55 55 - Admiral District Alaska Junction	214 214 - Issaquah
+2018-09-26 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont
+2018-10-02 Tue	77 77 - Downtown Seattle Maple Leaf	113 113 - Shorewood White Center
+2018-10-03 Wed	15 15 - Blue Ridge

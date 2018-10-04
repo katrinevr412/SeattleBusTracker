@@ -3,3 +3,9 @@
 2018-09-21 Fri	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
 2018-09-24 Mon	555 555 - Northgate	556 556 - Issaquah
 2018-09-25 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville	554 554 - Issaquah
+2018-09-26 Wed	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville
+2018-09-27 Thu	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	556 556 - Issaquah	545 545 - Redmond
+2018-09-28 Fri	522 522 - Downtown Seattle	545 545 - Downtown Seattle	545 545 - Redmond	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-10-01 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-10-02 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle
+2018-10-03 Wed	522 522 - Woodinville

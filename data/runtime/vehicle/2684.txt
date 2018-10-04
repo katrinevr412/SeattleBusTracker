@@ -3,3 +3,6 @@
 2018-09-19 Wed	55 55   ADMIRAL DISTRICT
 2018-09-20 Thu	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	21 21 - Arbor Heights - Express
 2018-09-21 Fri	21 21 - Downtown Seattle - Express	55 55 - Downtown Seattle Alaska Junction	15 15 - Blue Ridge
+2018-10-01 Mon	309 309 - First Hill Express	56 56 - Alki Via SR-99	15 15 - Blue Ridge
+2018-10-02 Tue	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	214 214 - Issaquah
+2018-10-03 Wed	40 40   DOWNTOWN SEATTLE	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood

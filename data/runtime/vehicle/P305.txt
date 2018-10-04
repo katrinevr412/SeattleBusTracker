@@ -2,3 +2,10 @@
 2018-09-22 Sat	P28 28 - S 12th St
 2018-09-24 Mon	P102 102 - Gig Harbor - Express-Purdy
 2018-09-25 Tue	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy
+2018-09-26 Wed	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P63 63 - NE Tacoma Downtown
+2018-09-27 Thu	P63 63 - Downtown Tacoma	P102 102 - Gig Harbor - Express-Purdy
+2018-09-28 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-09-30 Sun	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC
+2018-10-01 Mon	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-10-02 Tue	P102 102 - Gig Harbor - Express-Purdy
+2018-10-03 Wed	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th

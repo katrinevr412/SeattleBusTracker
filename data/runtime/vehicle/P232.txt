@@ -1,3 +1,8 @@
 2018-09-20 Thu	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District
 2018-09-21 Fri	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - SouthHill	P4 4 - Lakewood
 2018-09-24 Mon	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
+2018-09-27 Thu	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P501 501 - Milton-Tacoma Via Valley & 70	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P501 501 - Milton-Ferderal Way Via Valley & 70	P402 402 - 176th and Meridian Via South Hill
+2018-09-28 Fri	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC
+2018-09-29 Sat	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P55 55 - Parkland
+2018-09-30 Sun	P500 500 - Federal Way	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P16 16 - TCC via Proctor District	P48 48 - South M St - Sheridian St
+2018-10-02 Tue	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall

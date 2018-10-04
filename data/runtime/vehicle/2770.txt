@@ -5,3 +5,8 @@
 2018-09-21 Fri	56 56 - Downtown Seattle Via SR-99	57 57 - Downtown Seattle Via SR-99	15 15 - Blue Ridge
 2018-09-24 Mon	214 214 - Issaquah
 2018-09-25 Tue	57 57 - Downtown Seattle Via SR-99
+2018-09-27 Thu	17 17 - Sunset Hill
+2018-09-28 Fri	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
+2018-10-01 Mon	77 77 - Downtown Seattle Maple Leaf	57 57 - Alaska Junction Via SR-99	5 5 - Greenwood - Express
+2018-10-02 Tue	21 21 - Downtown Seattle - Express	40 40 - Downtown Seattle Fremont	309 309 - Kenmore P&R Express
+2018-10-03 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont

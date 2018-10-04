@@ -5,3 +5,10 @@
 2018-09-21 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
 2018-09-24 Mon	212 212 - Eastgate P&R
 2018-09-25 Tue	311 311   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-09-26 Wed	252 252 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
+2018-09-27 Thu	895 895 - Lake Washington High School	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-09-28 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland
+2018-09-30 Sun	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
+2018-10-01 Mon	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-10-02 Tue	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	311 311 - Woodinville Via SR-520
+2018-10-03 Wed	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride

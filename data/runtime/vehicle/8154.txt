@@ -5,3 +5,9 @@
 2018-09-21 Fri	989 989 - Haller Lake Special	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
 2018-09-24 Mon	212 212 - Eastgate P&R	257 257 - Kingsgate
 2018-09-25 Tue	989 989 - Haller Lake Special	212 212 - Eastgate P&R
+2018-09-26 Wed	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520
+2018-09-27 Thu	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	218 218 - Issaquah Highlands
+2018-09-28 Fri	218 218 - Downtown Seattle	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-01 Mon	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-10-02 Tue	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
+2018-10-03 Wed	212 212   DOWNTOWN SEATTLE	311 311 - Woodinville Via SR-520

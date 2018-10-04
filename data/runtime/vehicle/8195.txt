@@ -5,3 +5,9 @@
 2018-09-21 Fri	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake
 2018-09-24 Mon	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-09-25 Tue	257 257 - Downtown Seattle
+2018-09-26 Wed	216 216 - Downtown Seattle Eastgate	892 892 - N Mercer Island	268 268 - Bear Creek P&R Via SR-520
+2018-09-27 Thu	218 218 - Downtown Seattle	212 212 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-09-28 Fri	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-10-01 Mon	218 218 - Downtown Seattle	212 212 - Downtown Seattle	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
+2018-10-02 Tue	257 257 - Downtown Seattle	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2018-10-03 Wed	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R

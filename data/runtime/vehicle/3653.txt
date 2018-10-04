@@ -2,3 +2,9 @@
 2018-09-21 Fri	37 37 - Alaska Junction Alki
 2018-09-24 Mon	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
 2018-09-25 Tue	28 28 - Downtown Seattle	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
+2018-09-26 Wed	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	29 29 - Ballard Queen Anne
+2018-09-27 Thu	26 26 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia
+2018-09-28 Fri	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District
+2018-10-01 Mon	26 26 - Downtown Seattle	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-10-02 Tue	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-10-03 Wed	45 45 - Loyal Heights Greenwood	29 29 - Ballard Queen Anne

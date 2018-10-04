@@ -4,3 +4,8 @@
 2018-09-21 Fri	886 886 - Newport HS	255 255 - Brickyard P&R Kirkland
 2018-09-24 Mon	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
 2018-09-25 Tue	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
+2018-09-27 Thu	824 824 - International School Newport HS	212 212 - Downtown Seattle
+2018-09-28 Fri	311 311 - Downtown Seattle Via SR-520	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-10-01 Mon	311 311 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-10-02 Tue	986 986 - Haller Lake Special	218 218 - Issaquah Highlands	212 212 - Eastgate P&R
+2018-10-03 Wed	311 311 - Woodinville Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland

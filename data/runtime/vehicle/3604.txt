@@ -5,3 +5,8 @@
 2018-09-21 Fri	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center
 2018-09-24 Mon	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	64 64 - Jackson Park Wedgwood
 2018-09-25 Tue	37 37   DOWNTOWN SEATTLE EXPRESS	45 45 - Loyal Heights Greenwood	29 29 - Ballard Queen Anne
+2018-09-26 Wed	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	63 63 - Northgate East Green Lake
+2018-09-28 Fri	63 63 - Northgate East Green Lake
+2018-10-01 Mon	64 64 - First Hill South Lake Union	63 63 - First Hill South Lake Union	308 308 - Horizon View
+2018-10-02 Tue	167 167 - S Renton P&R Via I-405
+2018-10-03 Wed	9 9   RAINIER BEACH STATION EXPRESS	121 121 - Burien Transit Center Via SR-509

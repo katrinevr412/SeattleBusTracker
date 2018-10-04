@@ -3,3 +3,7 @@
 2018-09-21 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-09-24 Mon	5 5 - Greenwood - Express
 2018-09-25 Tue	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-09-26 Wed	21 21 - Downtown Seattle - Express	18 18 - Downtown Seattle	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-27 Thu	5 5 - Downtown Seattle - Express	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-10-02 Tue	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-10-03 Wed	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction

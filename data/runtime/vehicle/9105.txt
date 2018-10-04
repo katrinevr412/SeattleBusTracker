@@ -2,3 +2,8 @@
 2018-09-21 Fri	586 586 - U District -  Express
 2018-09-24 Mon	586 586 - U District -  Express	596 596 - Sounder Connector-Bonney
 2018-09-25 Tue	590 590 - Seattle - Tac Dome	590 590 - Tac Dome
+2018-09-27 Thu	596 596 - Sounder Connector-Bonney
+2018-09-28 Fri	592 592 - Seattle -  Express	590 590 - Seattle	566 566 - Kent Station
+2018-10-01 Mon	592 592 - Seattle -  Express	590 590 - Seattle	580 580 - Puyallup Station	580 580 - Lakewood
+2018-10-02 Tue	592 592 - Seattle -  Express	590 590 - Seattle	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2018-10-03 Wed	592 592 - Seattle -  Express	590 590 - Seattle	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma

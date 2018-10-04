@@ -1,0 +1,6 @@
+2018-09-27 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-09-28 Fri	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	114 114 - Renton Highlands
+2018-09-29 Sat	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill
+2018-10-01 Mon	128 128   SOUTHCENTER	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center
+2018-10-02 Tue	114 114 - Downtown Seattle	114 114 - Renton Highlands
+2018-10-03 Wed	55 55 - Admiral District Alaska Junction

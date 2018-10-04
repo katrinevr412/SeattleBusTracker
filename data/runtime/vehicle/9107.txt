@@ -1,3 +1,9 @@
 2018-09-21 Fri	592 592 - Seattle -  Express	566 566 - Auburn Stn Via Renton
 2018-09-24 Mon	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
 2018-09-25 Tue	590 590 - Seattle	594 594 - Lakewood -  Tacoma	580 580 - Puyallup Station
+2018-09-26 Wed	590 590 - Seattle	590 590 - Tac Dome	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-09-27 Thu	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-09-28 Fri	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	596 596 - Sounder Connector-Bonney
+2018-10-01 Mon	567 567 - overlake Tc via bellevue	590 590 - Commerce - Tac Dome
+2018-10-02 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2018-10-03 Wed	577 577 - Seattle	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome

@@ -4,3 +4,7 @@
 2018-09-21 Fri	41 41 - Downtown Seattle Northgate	316 316 - Meridian Park Green Lake
 2018-09-24 Mon	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street
 2018-09-25 Tue	316 316 - Downtown Seattle Green Lake	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express	312 312 - Bothell	312 312 - Kenmore
+2018-09-26 Wed	41 41 - Downtown Seattle	32 32 - University District Fremont	75 75 - Northgate Lake City	74 74 - Sand Point Ravenna
+2018-09-27 Thu	301 301 - Downtown Seattle - Express	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-09-28 Fri	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate
+2018-10-01 Mon	312 312   DOWNTOWN SEATTLE EXPRESS	372 372 - University District Lake City

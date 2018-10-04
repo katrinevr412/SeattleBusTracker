@@ -5,3 +5,9 @@
 2018-09-21 Fri	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park	131 131 - Downtown Seattle Highland Park	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park
 2018-09-24 Mon	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
 2018-09-25 Tue	62 62 - Downtown Seattle Fremont	64 64 - Jackson Park Wedgwood
+2018-09-26 Wed	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	64 64 - Jackson Park Wedgwood	48 48 - Mount Baker Transit Center Central District
+2018-09-27 Thu	63 63 - First Hill South Lake Union	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont
+2018-09-28 Fri	29 29 - Downtown Seattle Queen Anne	62 62 - Sand Point East Green Lake
+2018-10-01 Mon	29 29 - Downtown Seattle Queen Anne
+2018-10-02 Tue	62 62 - Downtown Seattle Fremont	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
+2018-10-03 Wed	63 63 - Northgate East Green Lake

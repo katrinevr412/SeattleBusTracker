@@ -5,3 +5,10 @@
 2018-09-21 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-09-24 Mon	542 542   REDMOND EXPRESS	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond
 2018-09-25 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	522 522 - Downtown Seattle	545 545 - Redmond
+2018-09-26 Wed	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond
+2018-09-27 Thu	554 554 - Downtown Seattle	554 554 - Issaquah	556 556 - Northgate	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Bothell
+2018-09-28 Fri	550 550 - Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-09-29 Sat	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-10-01 Mon	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-10-02 Tue	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond
+2018-10-03 Wed	542 542   REDMOND EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue

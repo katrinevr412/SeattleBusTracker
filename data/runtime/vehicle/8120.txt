@@ -3,3 +3,8 @@
 2018-09-19 Wed	193 193   FEDERAL WAY EXPRESS
 2018-09-20 Thu	159 159   DOWNTOWN SEATTLE	179 179 - Twin Lakes P&R Federal Way Transit Center
 2018-09-21 Fri	952 952 - Everett Special
+2018-09-27 Thu	177 177 - Downtown Seattle Via I-5	143 143 - Black Diamond Renton - Express
+2018-09-28 Fri	177 177 - Downtown Seattle Via I-5	158 158 - Kent Via I-5
+2018-10-01 Mon	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express
+2018-10-02 Tue	111 111 - Downtown Seattle	193 193 - Federal Way Express
+2018-10-03 Wed	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride

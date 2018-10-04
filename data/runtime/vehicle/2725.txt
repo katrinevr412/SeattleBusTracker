@@ -2,3 +2,8 @@
 2018-09-18 Tue	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER
 2018-09-19 Wed	70 70   UNIVERSITY DISTRICT	70 70   DOWNTOWN SEATTLE	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   DOWNTOWN SEATTLE	70 70   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER
 2018-09-20 Thu	120 120   DOWNTOWN SEATTLE	120 120   BURIEN TRANSIT CENTER	120 120   DOWNTOWN SEATTLE
+2018-09-27 Thu	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	675 675 - Aurora Village Transit Center
+2018-09-28 Fri	675 675 - Aurora Village Transit Center
+2018-09-29 Sat	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview
+2018-09-30 Sun	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
+2018-10-03 Wed	673 673 - West Seattle Alaska Junction

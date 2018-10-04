@@ -3,3 +3,10 @@
 2018-09-19 Wed	214 214   DOWNTOWN SEATTLE	18 18   NORTH BEACH EXPRESS
 2018-09-24 Mon	214 214 - Issaquah Transit Center Transit Center Only
 2018-09-25 Tue	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	21 21 - Arbor Heights - Express
+2018-09-26 Wed	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	214 214 - Issaquah
+2018-09-27 Thu	987 987 - Haller Lake Special	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express
+2018-09-28 Fri	40 40 - Downtown Seattle Ballard	214 214 - Issaquah Transit Center Transit Center Only
+2018-09-29 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood
+2018-10-01 Mon	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	77 77 - North City Maple Leaf
+2018-10-02 Tue	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	55 55 - Admiral District Alaska Junction
+2018-10-03 Wed	114 114 - Renton Highlands

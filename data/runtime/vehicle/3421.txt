@@ -4,3 +4,9 @@
 2018-09-20 Thu	232 232   BELLEVUE	232 232   REDMOND	232 232   BELLEVUE	232 232   REDMOND	342 342 - Shoreline P&R Bellevue
 2018-09-21 Fri	271 271 - Eastgate Bellevue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
 2018-09-25 Tue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-09-26 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	277 277 - Juanita Houghton P&R
+2018-09-27 Thu	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads
+2018-09-28 Fri	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-10-01 Mon	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-10-02 Tue	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue
+2018-10-03 Wed	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake

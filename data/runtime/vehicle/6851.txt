@@ -5,3 +5,9 @@
 2018-09-21 Fri	77 77 - Downtown Seattle Maple Leaf	41 41 - Northgate Northeast 125th Only	77 77 - North City Maple Leaf
 2018-09-24 Mon	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express
 2018-09-25 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-26 Wed	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-09-27 Thu	372 372 - University District Lake City	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only	301 301 - Aurora Village Shoreline P&R - Express
+2018-09-28 Fri	355 355 - Downtown Seattle	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-10-01 Mon	355 355 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-10-02 Tue	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-10-03 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore

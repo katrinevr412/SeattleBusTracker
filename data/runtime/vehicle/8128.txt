@@ -5,3 +5,9 @@
 2018-09-21 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90
 2018-09-24 Mon	111 111 - Downtown Seattle	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
 2018-09-25 Tue	177 177 - Downtown Seattle Via I-5	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-26 Wed	143 143 - Downtown Seattle Renton - Express	952 952 - Kennydale Via I-405
+2018-09-27 Thu	192 192 - Seattle Military Road	111 111 - Lake Kathleen Via I-90
+2018-09-28 Fri	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-01 Mon	111 111 - Downtown Seattle	116 116 - Downtown Seattle	158 158 - Kent Via I-5
+2018-10-02 Tue	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-03 Wed	197 197 - Twin Lakes P&R Federal Way Transit Center

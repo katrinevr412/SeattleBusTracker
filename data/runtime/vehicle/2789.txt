@@ -5,3 +5,10 @@
 2018-09-21 Fri	214 214 - Downtown Seattle	15 15 - Downtown Seattle	5 5 - Greenwood - Express
 2018-09-24 Mon	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
 2018-09-25 Tue	214 214 - Downtown Seattle	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-09-26 Wed	77 77 - Downtown Seattle Maple Leaf	5 5 - Greenwood - Express
+2018-09-27 Thu	309 309 - Kenmore P&R Express
+2018-09-28 Fri	5 5 - Downtown Seattle - Express	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-09-29 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-10-01 Mon	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-10-02 Tue	309 309 - First Hill Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-03 Wed	15 15 - Blue Ridge

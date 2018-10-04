@@ -1,3 +1,8 @@
 2018-09-20 Thu	P500 500 - Tacoma	P500 500 - Federal Way
 2018-09-21 Fri	P497 497 - Lakeland Hills
 2018-09-24 Mon	P54 54 - 72nd TC	P497 497 - Lakeland Hills
+2018-09-27 Thu	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P102 102 - Gig Harbor - Express-Purdy
+2018-09-28 Fri	P497 497 - Lakeland Hills
+2018-10-01 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-10-02 Tue	P497 497 - Lakeland Hills
+2018-10-03 Wed	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma

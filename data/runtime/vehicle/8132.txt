@@ -5,3 +5,9 @@
 2018-09-21 Fri	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5
 2018-09-24 Mon	197 197 - University District Federal Way Transit Center	192 192 - Star Lake Military Road
 2018-09-25 Tue	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-09-26 Wed	111 111 - Downtown Seattle	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-27 Thu	159 159 - Downtown Seattle Via I-5	111 111 - Lake Kathleen Via I-90
+2018-09-28 Fri	143 143 - Downtown Seattle Renton - Express	143 143 - Black Diamond Renton - Express
+2018-10-01 Mon	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-02 Tue	177 177 - Downtown Seattle Via I-5	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-03 Wed	157 157 - Lake Meridian East Hill

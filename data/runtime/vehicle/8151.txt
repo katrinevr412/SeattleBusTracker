@@ -5,3 +5,8 @@
 2018-09-21 Fri	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	257 257 - Kingsgate
 2018-09-24 Mon	218 218 - Issaquah Highlands	257 257 - Kingsgate
 2018-09-25 Tue	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	212 212 - Eastgate P&R
+2018-09-26 Wed	545 545 - Redmond	545 545 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-09-27 Thu	257 257 - Downtown Seattle	218 218 - Issaquah Highlands	257 257 - Kingsgate
+2018-09-28 Fri	218 218 - Downtown Seattle	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
+2018-10-01 Mon	888 888 - International School Interlake HS	212 212 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-10-02 Tue	545 545 - Redmond	545 545 - Downtown Seattle

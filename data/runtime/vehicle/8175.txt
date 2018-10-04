@@ -5,3 +5,9 @@
 2018-09-21 Fri	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
 2018-09-24 Mon	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
 2018-09-25 Tue	212 212 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-09-26 Wed	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	257 257 - Kingsgate
+2018-09-27 Thu	257 257 - Downtown Seattle	252 252 - Kingsgate Via SR-520
+2018-09-28 Fri	311 311 - Downtown Seattle Via SR-520	889 889 - Bridle Trails Sammamish HS	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-01 Mon	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-02 Tue	823 823 - International School Newport HS	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-10-03 Wed	216 216   DOWNTOWN SEATTLE	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate

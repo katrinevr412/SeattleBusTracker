@@ -3,3 +3,9 @@
 2018-09-21 Fri	545 545 - Redmond	545 545 - Downtown Seattle	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
 2018-09-24 Mon	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-09-25 Tue	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Bothell
+2018-09-26 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-09-27 Thu	522 522 - Downtown Seattle	550 550 - Bellevue
+2018-09-28 Fri	555 555 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-10-01 Mon	522 522 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-10-02 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-10-03 Wed	554 554   ISSAQUAH EXPRESS	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah

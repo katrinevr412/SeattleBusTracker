@@ -1,2 +1,6 @@
 2018-09-20 Thu	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
 2018-09-21 Fri	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way
+2018-09-28 Fri	592 592 - Seattle -  Express	596 596 - Sounder Connector-Bonney
+2018-10-01 Mon	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-10-02 Tue	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	592 592 - Lakewood/Dupont
+2018-10-03 Wed	592 592 - Lakewood/Dupont

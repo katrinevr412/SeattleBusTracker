@@ -5,3 +5,10 @@
 2018-09-21 Fri	41 41 - Downtown Seattle Northgate	301 301 - Downtown Seattle - Express	41 41 - Northgate Northeast 125th Only	77 77 - North City Maple Leaf
 2018-09-24 Mon	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
 2018-09-25 Tue	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	304 304 - Richmond Beach
+2018-09-26 Wed	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only	316 316 - Meridian Park Green Lake
+2018-09-27 Thu	312 312 - Downtown Seattle	372 372 - University District Lake City	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express
+2018-09-28 Fri	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-09-29 Sat	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate
+2018-10-01 Mon	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont
+2018-10-02 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-10-03 Wed	41 41 - Northgate Northeast 125th Only	312 312 - Kenmore

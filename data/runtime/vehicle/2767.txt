@@ -4,3 +4,7 @@
 2018-09-21 Fri	17 17 - Downtown Seattle	355 355 - Shoreline CC	43 43 - NE 45th St and Brooklyn Ave NE
 2018-09-24 Mon	309 309 - Kenmore P&R Express
 2018-09-25 Tue	21 21 - Downtown Seattle - Express	17 17 - Downtown Seattle	5 5 - Greenwood - Express
+2018-09-26 Wed	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	40 40 - Northgate Fremont
+2018-10-01 Mon	987 987 - Haller Lake Special	21 21 - Arbor Heights - Express
+2018-10-02 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-10-03 Wed	15 15 - Blue Ridge	984 984 - Downtown Seattle Special

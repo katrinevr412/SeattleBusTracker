@@ -5,3 +5,5 @@
 2018-09-21 Fri	28 28 - Downtown Seattle	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District
 2018-09-24 Mon	106 106   RENTON	106 106 - International District Chinatown Station Rainier Beach Station	106 106 - Renton Rainier Beach Station	106 106 - International District Chinatown Station Rainier Beach Station	106 106 - Renton Rainier Beach Station	106 106 - International District Chinatown Station Rainier Beach Station	106 106 - Renton Rainier Beach Station
 2018-09-25 Tue	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-09-27 Thu	114 114 - Renton Highlands
+2018-10-03 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont

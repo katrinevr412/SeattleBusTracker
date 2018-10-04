@@ -1,0 +1,4 @@
+2018-09-28 Fri	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill
+2018-10-01 Mon	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E	10 10 - Downtown Seattle	10 10 - Capitol Hill Via 15th Ave E
+2018-10-02 Tue	3 3 - Downtown Seattle East Jefferson Street	4 4 - Downtown Seattle	4 4 - First Hill East Jefferson Street	3 3 - Downtown Seattle East Jefferson Street	4 4 - Downtown Only
+2018-10-03 Wed	4 4 - First Hill East Jefferson Street	4 4 - Downtown Seattle East Jefferson Street	3 3 - Downtown Seattle

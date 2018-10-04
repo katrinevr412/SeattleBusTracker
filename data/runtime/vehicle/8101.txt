@@ -4,3 +4,9 @@
 2018-09-21 Fri	157 157 - Downtown Seattle East Hill	193 193 - Federal Way Express
 2018-09-24 Mon	193 193 - First Hill Express	193 193 - Federal Way Express
 2018-09-25 Tue	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-26 Wed	193 193 - First Hill Express	190 190 - Downtown Seattle Star Lake P&R	193 193 - Federal Way Express
+2018-09-27 Thu	157 157 - Downtown Seattle East Hill	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-09-28 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-01 Mon	111 111 - Downtown Seattle	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-10-02 Tue	157 157 - Downtown Seattle East Hill	952 952 - Auburn Special
+2018-10-03 Wed	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5

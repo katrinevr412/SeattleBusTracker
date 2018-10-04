@@ -5,3 +5,11 @@
 2018-09-21 Fri	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	56 56 - Alki Via SR-99
 2018-09-24 Mon	21 21 - Arbor Heights - Express
 2018-09-25 Tue	5 5 - Downtown Seattle - Express
+2018-09-26 Wed	17 17 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-09-27 Thu	21 21 - Downtown Seattle - Express	15 15 - Blue Ridge	21 21 - Arbor Heights - Express
+2018-09-28 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-09-29 Sat	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - International District Chinatown Station N Beacon Hill
+2018-09-30 Sun	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-10-01 Mon	21 21 - Downtown Seattle - Express	5 5 - Greenwood - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-02 Tue	214 214 - Downtown Seattle	21 21 - Arbor Heights - Express
+2018-10-03 Wed	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St

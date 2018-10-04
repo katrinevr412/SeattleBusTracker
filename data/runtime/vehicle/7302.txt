@@ -1,1 +1,6 @@
 2018-09-25 Tue	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-09-26 Wed	245 245 - Kirkland Crossroads
+2018-09-27 Thu	240 240 - Renton	240 240 - Bellevue Transit Center	200 200 - Downtown Issaquah	200 200 - Swedish Medical Center Issaquah Highlands Park & Ride	200 200 - Downtown Issaquah	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-09-28 Fri	893 893 - Lake Washington High School
+2018-10-01 Mon	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland
+2018-10-02 Tue	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland

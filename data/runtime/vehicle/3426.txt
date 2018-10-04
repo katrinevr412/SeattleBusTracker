@@ -5,3 +5,9 @@
 2018-09-21 Fri	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
 2018-09-24 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue
 2018-09-25 Tue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	245 245 - Factoria Crossroads
+2018-09-26 Wed	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-09-27 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
+2018-09-28 Fri	240 240 - Bellevue Transit Center	240 240 - Renton	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-10-01 Mon	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-10-02 Tue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-10-03 Wed	245 245 - Factoria Crossroads

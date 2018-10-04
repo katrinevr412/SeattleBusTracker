@@ -4,3 +4,9 @@
 2018-09-21 Fri	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard
 2018-09-24 Mon	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express	143 143 - Renton
 2018-09-25 Tue	193 193 - First Hill Express	190 190   DOWNTOWN SEATTLE	143 143 - Black Diamond Renton - Express
+2018-09-26 Wed	179 179 - Downtown Seattle Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-09-27 Thu	197 197 - University District Federal Way Transit Center	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-09-28 Fri	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-01 Mon	193 193 - First Hill Express
+2018-10-02 Tue	952 952 - Everett Special	143 143 - Black Diamond Renton - Express
+2018-10-03 Wed	157 157 - Lake Meridian East Hill

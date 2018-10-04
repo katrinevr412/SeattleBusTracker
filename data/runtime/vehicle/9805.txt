@@ -1,3 +1,8 @@
 2018-09-17 Mon	556 556   ISSAQUAH EXPRESS
 2018-09-18 Tue	542 542   GREEN LAKE P&R EXPRESS	542 542   REDMOND EXPRESS	522 522   DOWNTOWN SEATTLE EXPRESS	545 545   REDMOND EXPRESS
 2018-09-19 Wed	542 542   GREEN LAKE P&R EXPRESS	542 542   REDMOND EXPRESS
+2018-09-27 Thu	554 554 - Issaquah
+2018-09-28 Fri	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle
+2018-10-01 Mon	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-10-02 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-10-03 Wed	545 545   REDMOND EXPRESS	556 556 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah

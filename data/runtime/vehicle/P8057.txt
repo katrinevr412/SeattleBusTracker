@@ -1,2 +1,5 @@
 2018-09-20 Thu	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan	P206 206 - Lakewood	P202 202 - 72nd St TC	P42 42 - Dwntn Tac via McKinley Ave	P45 45 - Parkland via Yakima	P45 45 - Downtown via Yakima	P500 500 - Federal Way	P500 500 - Tacoma
 2018-09-24 Mon	P497 497 - Lakeland Hills
+2018-09-26 Wed	P497 497 - Lakeland Hills
+2018-10-02 Tue	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall
+2018-10-03 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7

@@ -5,3 +5,9 @@
 2018-09-21 Fri	886 886 - International School Bellevue HS	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-09-24 Mon	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
 2018-09-25 Tue	232 232 - Bellevue Redmond	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-09-26 Wed	232 232 - Bellevue Redmond	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-09-27 Thu	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-09-28 Fri	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria
+2018-10-01 Mon	894 894 - Mercer Island HS Island Crest Way	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-02 Tue	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-10-03 Wed	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue

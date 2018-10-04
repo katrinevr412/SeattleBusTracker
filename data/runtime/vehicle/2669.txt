@@ -5,3 +5,9 @@
 2018-09-21 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-09-24 Mon	214 214 - Issaquah Transit Center Transit Center Only
 2018-09-25 Tue	214 214 - Downtown Seattle	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express
+2018-09-26 Wed	214 214 - Downtown Seattle	15 15 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-09-27 Thu	5 5 - Downtown Seattle - Express	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-28 Fri	18 18 - Downtown Seattle	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-10-01 Mon	18 18 - Downtown Seattle	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-10-02 Tue	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-03 Wed	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont

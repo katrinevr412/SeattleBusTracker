@@ -5,3 +5,11 @@
 2018-09-21 Fri	15 15 - Downtown Seattle	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-09-24 Mon	15 15 - Blue Ridge
 2018-09-25 Tue	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle - Express	309 309 - Kenmore P&R Express
+2018-09-26 Wed	56 56 - Downtown Seattle Via SR-99	5 5 - Greenwood - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-09-27 Thu	15 15 - Downtown Seattle	18 18 - North Beach
+2018-09-28 Fri	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	15 15 - Blue Ridge
+2018-09-29 Sat	43 43 - To Route 43 Via Broadway	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
+2018-09-30 Sun	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
+2018-10-01 Mon	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-10-02 Tue	214 214 - Downtown Seattle	57 57 - Alaska Junction Via SR-99	5 5 - Greenwood - Express
+2018-10-03 Wed	18 18 - North Beach	56 56 - Alki Via SR-99

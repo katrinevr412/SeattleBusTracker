@@ -1,1 +1,7 @@
 2018-09-25 Tue	50 50 - West Seattle South Downtown Seattle	50 50 - Othello Station South Downtown Seattle	50 50 - West Seattle South Downtown Seattle	50 50 - Othello Station South Downtown Seattle	50 50 - West Seattle South Downtown Seattle	50 50 - Othello Station South Downtown Seattle
+2018-09-26 Wed	154 154 - Boeing Industrial
+2018-09-27 Thu	180 180 - Auburn Station
+2018-09-28 Fri	182 182 - Federal Way Transit Center Via SW 356th St	190 190 - Redondo Heights P&R Star Lake P&R
+2018-10-01 Mon	154 154 - Tukwila Station	180 180 - SE Auburn Kent Station	180 180 - Burien Transit Center Seattle Tacoma International Airport	180 180 - SE Auburn Kent Station
+2018-10-02 Tue	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road	169 169 - Kent Via Benson Road	169 169 - Renton Via Benson Road
+2018-10-03 Wed	180 180 - Auburn Station

@@ -4,3 +4,10 @@
 2018-09-20 Thu	556 556   NORTHGATE EXPRESS	555 555   BELLEVUE TRANSIT CENTER EXPRESS
 2018-09-21 Fri	545 545 - Downtown Seattle	545 545 - Redmond
 2018-09-25 Tue	522 522 - Woodinville
+2018-09-26 Wed	542 542 - Green Lake P&R University District	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2018-09-27 Thu	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	554 554 - Issaquah
+2018-09-28 Fri	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-09-29 Sat	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-10-01 Mon	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	555 555 - Northgate	556 556 - Issaquah
+2018-10-02 Tue	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-10-03 Wed	540 540   UNIVERSITY DISTRICT EXPRESS	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District

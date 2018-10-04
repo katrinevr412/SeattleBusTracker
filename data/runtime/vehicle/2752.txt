@@ -1,0 +1,5 @@
+2018-09-27 Thu	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
+2018-09-28 Fri	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	316 316 - Meridian Park Green Lake
+2018-10-01 Mon	342 342   RENTON	167 167 - University District Via SR-520	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-10-02 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate
+2018-10-03 Wed	41 41 - Lake City Northgate

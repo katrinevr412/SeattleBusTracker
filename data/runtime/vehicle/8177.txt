@@ -5,3 +5,9 @@
 2018-09-21 Fri	212 212 - Downtown Seattle	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520
 2018-09-24 Mon	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
 2018-09-25 Tue	311 311 - Downtown Seattle Via SR-520	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-09-26 Wed	823 823 - International School Newport HS	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
+2018-09-27 Thu	888 888 - International School Interlake HS	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-09-28 Fri	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake
+2018-10-01 Mon	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-10-02 Tue	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-03 Wed	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R

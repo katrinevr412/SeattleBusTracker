@@ -5,3 +5,9 @@
 2018-09-21 Fri	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R
 2018-09-24 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-09-25 Tue	240 240   RENTON	240 240 - Bellevue Transit Center	342 342 - Shoreline P&R Bellevue
+2018-09-26 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	245 245 - Factoria Crossroads
+2018-09-27 Thu	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-09-28 Fri	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-01 Mon	232 232 - Bellevue Redmond	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-02 Tue	232 232 - Bellevue Redmond	232 232 - Redmond	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-03 Wed	240 240   BELLEVUE TRANSIT CENTER	221 221 - Eastgate P&R	221 221 - Education Hill

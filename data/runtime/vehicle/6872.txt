@@ -4,3 +4,6 @@
 2018-09-20 Thu	252 252   DOWNTOWN SEATTLE	257 257   KINGSGATE	257 257 - Kingsgate
 2018-09-21 Fri	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	252 252 - Kingsgate Via SR-520
 2018-09-24 Mon	255 255   TOTEM LAKE TRANSIT CENTER	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-10-01 Mon	212 212 - Eastgate P&R
+2018-10-02 Tue	219 219 - Downtown Seattle Eastgate	255 255 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-10-03 Wed	252 252 - Kingsgate Via SR-520

@@ -5,3 +5,7 @@
 2018-09-21 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
 2018-09-24 Mon	550 550 - Bellevue
 2018-09-25 Tue	556 556 - Northgate	555 555 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	522 522 - Woodinville
+2018-09-26 Wed	550 550 - Bellevue	550 550 - Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-09-27 Thu	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-09-28 Fri	545 545 - Redmond	545 545 - Downtown Seattle	550 550 - Bellevue
+2018-10-03 Wed	556 556   NORTHGATE EXPRESS	554 554 - Issaquah	522 522 - Woodinville

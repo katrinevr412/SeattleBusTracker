@@ -5,3 +5,9 @@
 2018-09-21 Fri	252 252 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-09-24 Mon	522 522 - Bothell
 2018-09-25 Tue	219 219 - Downtown Seattle Eastgate	311 311 - Woodinville Via SR-520
+2018-09-26 Wed	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-09-27 Thu	311 311 - Downtown Seattle Via SR-520	252 252 - Kingsgate Via SR-520
+2018-09-28 Fri	255 255 - Downtown Seattle Kirkland	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-10-01 Mon	218 218 - Issaquah Highlands	212 212 - Eastgate P&R
+2018-10-02 Tue	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-10-03 Wed	255 255   TOTEM LAKE TRANSIT CENTER	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland

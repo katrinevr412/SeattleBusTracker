@@ -2,3 +2,9 @@
 2018-09-21 Fri	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
 2018-09-24 Mon	590 590 - Seattle	592 592 - Lakewood/Dupont
 2018-09-25 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-09-26 Wed	580 580 - Puyallup Station	580 580 - Lakewood	592 592 - Seattle -  Express	590 590 - Tac Dome
+2018-09-27 Thu	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
+2018-09-28 Fri	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-10-01 Mon	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-10-02 Tue	592 592 - Seattle -  Express	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way
+2018-10-03 Wed	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport

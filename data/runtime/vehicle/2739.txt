@@ -5,3 +5,10 @@
 2018-09-21 Fri	15 15 - Downtown Seattle	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St
 2018-09-24 Mon	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood	5 5 - Stadium Station Downtown Seattle
 2018-09-25 Tue	5 5 - Stadium Station Downtown Seattle	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-09-26 Wed	309 309 - First Hill Express	21 21 - Arbor Heights - Express
+2018-09-27 Thu	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	15 15 - Blue Ridge
+2018-09-28 Fri	5 5 - Downtown Seattle - Express	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-09-29 Sat	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-10-01 Mon	21 21 - Downtown Seattle - Express	77 77 - North City Maple Leaf
+2018-10-02 Tue	77 77 - Downtown Seattle Maple Leaf	214 214 - Issaquah
+2018-10-03 Wed	55 55   DOWNTOWN SEATTLE

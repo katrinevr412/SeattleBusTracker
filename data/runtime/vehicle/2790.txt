@@ -5,3 +5,11 @@
 2018-09-21 Fri	5 5 - Stadium Station Downtown Seattle	674 674 - Downtown Seattle Uptown	17 17 - Sunset Hill
 2018-09-24 Mon	114 114 - Renton Highlands
 2018-09-25 Tue	21 21 - Downtown Seattle Via 35th Ave SW	5 5   SHORELINE	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	15 15 - Blue Ridge
+2018-09-26 Wed	57 57 - Downtown Seattle Via SR-99	988 988 - Central District Madrona	18 18 - North Beach
+2018-09-27 Thu	18 18 - Downtown Seattle	21 21 - Downtown Seattle - Express	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-09-28 Fri	214 214 - Issaquah Transit Center Transit Center Only
+2018-09-29 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-09-30 Sun	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - S Jackson St
+2018-10-01 Mon	40 40 - Downtown Seattle Fremont	77 77 - North City Maple Leaf
+2018-10-02 Tue	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	15 15 - Blue Ridge
+2018-10-03 Wed	5 5 - Greenwood - Express

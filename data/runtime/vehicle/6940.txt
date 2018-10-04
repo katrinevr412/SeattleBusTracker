@@ -3,3 +3,6 @@
 2018-09-19 Wed	342 342   RENTON	167 167   UNIVERSITY DISTRICT	372 372   UNIVERSITY DISTRICT EXPRESS	41 41   NORTHGATE
 2018-09-20 Thu	301 301   DOWNTOWN SEATTLE EXPRESS	373 373   UNIVERSITY DISTRICT EXPRESS	312 312   KENMORE EXPRESS	312 312 - Kenmore
 2018-09-21 Fri	301 301 - Downtown Seattle - Express	301 301 - Aurora Village Shoreline P&R - Express
+2018-10-01 Mon	41 41 - Northgate Northeast 125th Only	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-10-02 Tue	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-10-03 Wed	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt

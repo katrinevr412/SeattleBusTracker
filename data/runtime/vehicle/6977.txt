@@ -7,3 +7,9 @@
 2018-09-23 Sun	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-09-24 Mon	102 102 - Downtown Seattle S Renton P&R	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
 2018-09-25 Tue	190 190 - Downtown Seattle Star Lake P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter
+2018-09-26 Wed	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101   S RENTON P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
+2018-09-27 Thu	190 190 - Downtown Seattle Star Lake P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-09-28 Fri	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-01 Mon	158 158 - Downtown Seattle Via I-5	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-10-02 Tue	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-03 Wed	150 150   KENT	178 178 - S Federal Way Federal Way Park and Ride

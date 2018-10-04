@@ -4,3 +4,7 @@
 2018-09-20 Thu	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue
 2018-09-21 Fri	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	550 550 - Bellevue
 2018-09-24 Mon	554 554   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond
+2018-09-30 Sun	554 554 - Downtown Seattle	554 554 - Issaquah
+2018-10-01 Mon	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-10-02 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	556 556 - Issaquah	555 555 - Northgate	556 556 - Issaquah
+2018-10-03 Wed	554 554   ISSAQUAH EXPRESS	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah

@@ -5,3 +5,10 @@
 2018-09-21 Fri	26 26 - Downtown Seattle	19 19 - West Magnolia	122 122 - Highline College Via SR-509
 2018-09-24 Mon	24 24 - Magnolia	62 62 - Sand Point East Green Lake
 2018-09-25 Tue	29 29   DOWNTOWN SEATTLE	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-09-26 Wed	26 26 - Downtown Seattle	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-09-27 Thu	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle
+2018-09-28 Fri	28 28 - Downtown Seattle	121 121 - Burien Transit Center Via SR-509
+2018-09-30 Sun	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia
+2018-10-01 Mon	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	121 121 - Highline College Via SR-509
+2018-10-02 Tue	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	64 64 - Jackson Park Wedgwood
+2018-10-03 Wed	37 37 - Alaska Junction Alki	28 28 - Broadview
