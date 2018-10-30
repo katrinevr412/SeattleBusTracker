@@ -11,3 +11,13 @@
 2018-09-28 Fri	157 157 - Lake Meridian East Hill
 2018-10-01 Mon	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-10-02 Tue	102 102 - Downtown Seattle S Renton P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	159 159 - Timberlane Kent Station
+2018-10-08 Mon	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
+2018-10-09 Tue	192 192 - Seattle Military Road
+2018-10-22 Mon	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-23 Tue	158 158 - Downtown Seattle Via I-5	150 150 - Kent Southcenter
+2018-10-24 Wed	197 197 - University District Federal Way Transit Center	102 102 - Fairwood S Renton P&R
+2018-10-25 Thu	102 102 - Downtown Seattle S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-26 Fri	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150   KENT
+2018-10-27 Sat	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	180 180 - SE Auburn	180 180   SEATTLE TACOMA INTERNATIONAL AIRPORT
+2018-10-28 Sun	180 180   SEATTLE TACOMA INTERNATIONAL AIRPORT
+2018-10-29 Mon	101 101 - S Renton P&R	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150   KENT	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	193 193 - Federal Way Express

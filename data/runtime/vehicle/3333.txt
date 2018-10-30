@@ -11,3 +11,21 @@
 2018-10-01 Mon	887 887 - International School	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
 2018-10-02 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	277 277 - Juanita Houghton P&R
 2018-10-03 Wed	271 271   UNIVERSITY DISTRICT	342 342 - Shoreline P&R Bellevue
+2018-10-04 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-10-05 Fri	271 271 - Eastgate Bellevue
+2018-10-08 Mon	232 232 - Bellevue Redmond	232 232 - Redmond	277 277 - Juanita Houghton P&R
+2018-10-09 Tue	277 277 - University District Houghton P&R	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-10-10 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-10-11 Thu	271 271 - Eastgate Bellevue	271 271 - University District Bellevue
+2018-10-12 Fri	891 891 - Mercer Island HS	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-10-15 Mon	894 894 - Mercer Island HS Island Crest Way	245 245 - Factoria Crossroads
+2018-10-16 Tue	889 889 - International School Sammamish HS	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-17 Wed	887 887 - International School	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-10-18 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-10-19 Fri	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	342 342 - Shoreline P&R Bellevue
+2018-10-22 Mon	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-23 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	245 245 - Factoria Crossroads
+2018-10-24 Wed	240 240   RENTON	240 240 - Bellevue Transit Center	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-10-25 Thu	894 894 - Mercer Island HS Island Crest Way	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-10-26 Fri	277 277 - University District Houghton P&R	271 271 - University District Bellevue	271 271   EASTGATE P&R
+2018-10-29 Mon	221 221 - Education Hill	221 221   EASTGATE P&R	221 221   REDMOND TRANSIT CENTER	221 221   EASTGATE P&R	221 221 - Education Hill	221 221 - Eastgate P&R	221 221   EDUCATION HILL	221 221 - Eastgate P&R	221 221 - Education Hill	221 221 - Eastgate P&R	221 221 - Education Hill	221 221 - Eastgate P&R

@@ -13,3 +13,21 @@
 2018-10-01 Mon	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	77 77 - North City Maple Leaf
 2018-10-02 Tue	994 994 - Haller Lake Special	15 15 - Downtown Seattle	77 77 - North City Maple Leaf
 2018-10-03 Wed	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-10-04 Thu	114 114 - Downtown Seattle	5 5 - Downtown Seattle - Express	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-10-05 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-10-09 Tue	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-10-10 Wed	214 214 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-10-11 Thu	77 77 - Downtown Seattle Maple Leaf	77 77 - North City Maple Leaf
+2018-10-12 Fri	21 21 - Downtown Seattle - Express	18 18 - North Beach
+2018-10-15 Mon	988 988 - Haller Lake Special	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-16 Tue	214 214 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-10-17 Wed	988 988 - Haller Lake Special	57 57   ALASKA JUNCTION	21 21 - Arbor Heights - Express
+2018-10-18 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-10-19 Fri	309 309 - First Hill Express	21 21 - Arbor Heights - Express
+2018-10-20 Sat	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway
+2018-10-22 Mon	214 214 - Downtown Seattle	5 5 - Greenwood - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-23 Tue	18 18 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-10-24 Wed	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	5 5 - Greenwood - Express
+2018-10-25 Thu	18 18 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-10-26 Fri	77 77 - Downtown Seattle Maple Leaf	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-29 Mon	214 214   DOWNTOWN SEATTLE	214 214   ISSAQUAH	5 5 - Greenwood - Express

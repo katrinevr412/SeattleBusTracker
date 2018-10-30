@@ -13,3 +13,21 @@
 2018-10-01 Mon	15 15 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
 2018-10-02 Tue	309 309 - First Hill Express	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-10-03 Wed	214 214 - Issaquah
+2018-10-04 Thu	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-10-05 Fri	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-10-06 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Broadway
+2018-10-08 Mon	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	18 18 - North Beach	55 55 - Admiral District Alaska Junction
+2018-10-10 Wed	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-10-11 Thu	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-10-16 Tue	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	15 15 - Blue Ridge
+2018-10-17 Wed	5 5 - Downtown Seattle - Express	15 15 - Blue Ridge
+2018-10-18 Thu	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-10-19 Fri	77 77 - Downtown Seattle Maple Leaf	77 77 - North City Maple Leaf
+2018-10-20 Sat	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-10-21 Sun	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-10-22 Mon	18 18 - Downtown Seattle	15 15 - Blue Ridge
+2018-10-23 Tue	17 17 - Downtown Seattle	15 15 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-24 Wed	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-10-25 Thu	15 15 - Downtown Seattle	56 56   DOWNTOWN SEATTLE	56 56 - Alki Via SR-99
+2018-10-26 Fri	214 214 - Downtown Seattle	214 214 - Issaquah
+2018-10-29 Mon	56 56   DOWNTOWN SEATTLE	5 5 - Downtown Seattle - Express	18 18 - North Beach

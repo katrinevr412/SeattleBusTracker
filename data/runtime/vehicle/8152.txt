@@ -11,3 +11,20 @@
 2018-10-01 Mon	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-10-02 Tue	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	252 252 - Kingsgate Via SR-520
 2018-10-03 Wed	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
+2018-10-04 Thu	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-05 Fri	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
+2018-10-08 Mon	212 212 - Downtown Seattle	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-10-09 Tue	218 218 - Downtown Seattle	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-10 Wed	257 257 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-10-11 Thu	556 556 - Northgate	555 555 - Issaquah	556 556 - Northgate	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-12 Fri	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-16 Tue	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520
+2018-10-17 Wed	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	216 216   BEAR CREEK P&R	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-18 Thu	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-10-19 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	252 252   KINGSGATE	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-22 Mon	257 257 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-10-23 Tue	218 218 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-10-24 Wed	212 212 - Downtown Seattle	823 823 - Cougar Mountain Newport HS	311 311 - Woodinville Via SR-520
+2018-10-25 Thu	982 982 - Haller Lake Special	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-26 Fri	218 218 - Downtown Seattle	212 212 - Eastgate P&R
+2018-10-29 Mon	252 252 - Downtown Seattle Via SR-520	216 216   BEAR CREEK P&R	219 219 - Redmond Issaquah Highlands Park & Ride

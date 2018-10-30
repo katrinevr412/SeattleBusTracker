@@ -10,3 +10,8 @@
 2018-10-01 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	245 245 - Factoria Crossroads
 2018-10-02 Tue	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads
 2018-10-03 Wed	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-10-04 Thu	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads
+2018-10-05 Fri	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-10-08 Mon	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-10-09 Tue	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-10-10 Wed	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R

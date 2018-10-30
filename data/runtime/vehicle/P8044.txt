@@ -1,1 +1,7 @@
 2018-09-21 Fri	P57 57 - Tacoma Mall	P57 57 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-10-05 Fri	P497 497 - Lakeland Hills
+2018-10-08 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-10-10 Wed	P206 206 - Lakewood	P206 206 - Madigan
+2018-10-11 Thu	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2018-10-22 Mon	P497 497 - Lakeland Hills
+2018-10-26 Fri	P102 102 - Gig Harbor - Express-Purdy

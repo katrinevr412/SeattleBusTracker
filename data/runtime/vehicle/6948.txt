@@ -5,3 +5,20 @@
 2018-09-21 Fri	159 159 - Downtown Seattle Via I-5	177 177 - Downtown Seattle Via I-5	157 157 - Lake Meridian East Hill
 2018-09-24 Mon	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
 2018-10-03 Wed	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter
+2018-10-04 Thu	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-06 Sat	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-10-08 Mon	159 159 - Downtown Seattle Via I-5	177 177 - Downtown Seattle Via I-5	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-10-09 Tue	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-10-10 Wed	102 102 - Downtown Seattle S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	158 158 - Kent Via I-5
+2018-10-11 Thu	150 150 - Downtown Seattle Southcenter	157 157 - Lake Meridian East Hill
+2018-10-12 Fri	158 158 - Downtown Seattle Via I-5	101 101 - S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	180 180 - Auburn Station	180 180 - Seattle Tacoma International Airport Kent Station
+2018-10-13 Sat	180 180   SEATTLE TACOMA INTERNATIONAL AIRPORT
+2018-10-15 Mon	157 157 - Downtown Seattle East Hill
+2018-10-19 Fri	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-20 Sat	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-10-22 Mon	190 190 - Downtown Seattle Star Lake P&R
+2018-10-23 Tue	197 197 - University District Federal Way Transit Center	158 158 - Kent Via I-5
+2018-10-24 Wed	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-10-25 Thu	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R
+2018-10-26 Fri	102 102 - Downtown Seattle S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE
+2018-10-29 Mon	102 102 - Downtown Seattle S Renton P&R	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101 - S Renton P&R

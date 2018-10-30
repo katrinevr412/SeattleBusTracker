@@ -11,3 +11,21 @@
 2018-10-01 Mon	889 889 - International School Sammamish HS	237 237 - Woodinville Via I-405
 2018-10-02 Tue	887 887 - International School	240 240 - Renton	240 240 - Bellevue Transit Center
 2018-10-03 Wed	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-10-04 Thu	240 240 - Renton	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-10-05 Fri	894 894 - Mercer Island HS Island Crest Way	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
+2018-10-08 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	342 342 - Shoreline P&R Bellevue
+2018-10-09 Tue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-10-10 Wed	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R
+2018-10-11 Thu	232 232 - Bellevue Redmond	277 277 - Juanita Houghton P&R
+2018-10-12 Fri	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	245 245 - Kirkland Crossroads
+2018-10-15 Mon	277 277 - University District Houghton P&R	237 237 - Woodinville Via I-405
+2018-10-16 Tue	240 240 - Renton	342 342 - Shoreline P&R Bellevue
+2018-10-17 Wed	886 886 - International School Bellevue HS	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-10-18 Thu	891 891 - Mercer Island HS	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-10-19 Fri	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-22 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-23 Tue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	237 237 - Woodinville Via I-405
+2018-10-24 Wed	271 271 - Eastgate P&R Bellevue
+2018-10-25 Thu	891 891 - Mercer Island HS	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-26 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240   BELLEVUE TRANSIT CENTER
+2018-10-29 Mon	891 891 - Mercer Island HS	240 240 - Renton	240 240 - Bellevue Transit Center

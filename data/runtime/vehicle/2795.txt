@@ -10,3 +10,22 @@
 2018-09-28 Fri	31 31 - University District Fremont	75 75 - Northgate Lake City	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	67 67 - Northgate Roosevelt
 2018-10-01 Mon	312 312 - Downtown Seattle	312 312 - Bothell
 2018-10-02 Tue	355 355 - Downtown Seattle	355 355 - Shoreline CC
+2018-10-04 Thu	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-10-05 Fri	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt
+2018-10-08 Mon	372 372 - University District Lake City	74 74 - Sand Point Ravenna	312 312 - Kenmore
+2018-10-09 Tue	372 372 - University District Lake City	301 301 - Aurora Village Richmond Beach - Express
+2018-10-10 Wed	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	355 355 - Shoreline CC
+2018-10-11 Thu	312 312 - Downtown Seattle	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-10-12 Fri	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	74 74 - Sand Point Ravenna	312 312 - Kenmore
+2018-10-15 Mon	214 214 - Downtown Seattle	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-10-16 Tue	77 77 - Downtown Seattle Maple Leaf	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-10-17 Wed	18 18 - Downtown Seattle	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-10-18 Thu	214 214 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-10-19 Fri	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-10-20 Sat	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-10-22 Mon	214 214 - Downtown Seattle	15 15 - Blue Ridge
+2018-10-23 Tue	57 57   DOWNTOWN SEATTLE	77 77 - North City Maple Leaf
+2018-10-24 Wed	18 18 - Downtown Seattle	56 56 - Alki Via SR-99	15 15 - Blue Ridge
+2018-10-25 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	214 214 - Issaquah Transit Center Transit Center Only
+2018-10-26 Fri	988 988 - Central District Madrona	18 18 - North Beach
+2018-10-29 Mon	15 15 - Downtown Seattle	56 56   DOWNTOWN SEATTLE

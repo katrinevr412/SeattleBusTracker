@@ -11,3 +11,20 @@
 2018-10-01 Mon	197 197 - University District Federal Way Transit Center	158 158 - Kent Via I-5
 2018-10-02 Tue	179 179 - Downtown Seattle Federal Way Transit Center	143 143 - Black Diamond Renton - Express	143 143 - Renton
 2018-10-03 Wed	952 952 - Auburn Special
+2018-10-04 Thu	197 197 - University District Federal Way Transit Center	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-08 Mon	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-10-09 Tue	111 111 - Downtown Seattle
+2018-10-10 Wed	177 177 - Downtown Seattle Via I-5	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-11 Thu	952 952 - Everett Special	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-12 Fri	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-15 Mon	111 111 - Downtown Seattle	116 116 - Downtown Seattle	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-16 Tue	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-17 Wed	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	111 111 - Lake Kathleen Via I-90
+2018-10-18 Thu	179 179 - Downtown Seattle Federal Way Transit Center	193 193 - Federal Way Express
+2018-10-19 Fri	193 193 - First Hill Express	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-22 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	143 143 - Black Diamond Renton - Express
+2018-10-23 Tue	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90
+2018-10-24 Wed	177 177 - Downtown Seattle Via I-5	111 111 - Lake Kathleen Via I-90
+2018-10-25 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	159 159 - Timberlane Kent Station
+2018-10-26 Fri	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-10-29 Mon	179 179   DOWNTOWN SEATTLE	193 193 - Federal Way Express

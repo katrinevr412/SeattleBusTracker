@@ -6,3 +6,11 @@
 2018-10-01 Mon	P102 102 - Gig Harbor - Express-Purdy
 2018-10-02 Tue	P497 497 - Lakeland Hills
 2018-10-03 Wed	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-10-09 Tue	P497 497 - Lakeland Hills
+2018-10-10 Wed	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-10-11 Thu	P206 206 - Lakewood	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan	P202 202 - 72nd St TC	P42 42 - Dwntn Tac via McKinley Ave	P45 45 - Parkland via Yakima	P45 45 - Downtown via Yakima	P500 500 - Federal Way
+2018-10-16 Tue	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St
+2018-10-19 Fri	P202 202 - Lakewood	P202 202 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC
+2018-10-23 Tue	P102 102 - Gig Harbor - Express-Purdy
+2018-10-24 Wed	P63 63 - NE Tacoma Downtown
+2018-10-25 Thu	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P54 54 - Tacoma Mall

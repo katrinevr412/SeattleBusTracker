@@ -11,3 +11,21 @@
 2018-10-01 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-10-02 Tue	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
 2018-10-03 Wed	540 540   KIRKLAND EXPRESS	522 522 - Woodinville
+2018-10-04 Thu	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-05 Fri	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-08 Mon	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-09 Tue	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-10 Wed	311 311 - Downtown Seattle Via SR-520	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-11 Thu	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-12 Fri	522 522 - Bothell
+2018-10-15 Mon	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-16 Tue	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - Overlake	541 541 - University District University Of Washington Station
+2018-10-17 Wed	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond
+2018-10-18 Thu	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-19 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-22 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-23 Tue	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-24 Wed	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-25 Thu	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-26 Fri	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 542   GREEN LAKE P&R EXPRESS
+2018-10-29 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District

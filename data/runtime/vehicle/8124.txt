@@ -11,3 +11,21 @@
 2018-10-01 Mon	157 157   DOWNTOWN SEATTLE	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-10-02 Tue	143 143 - Black Diamond	143 143 - Downtown Seattle Renton - Express
 2018-10-03 Wed	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express
+2018-10-04 Thu	190 190 - Downtown Seattle Star Lake P&R	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-05 Fri	143 143 - Downtown Seattle Renton - Express	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-10-08 Mon	193 193 - First Hill Express	111 111 - Lake Kathleen Via I-90
+2018-10-09 Tue	952 952 - Everett Special	193 193 - Federal Way Express
+2018-10-10 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-11 Thu	111 111 - Downtown Seattle	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-12 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-15 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-16 Tue	177 177 - Downtown Seattle Via I-5	111 111 - Lake Kathleen Via I-90
+2018-10-17 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	158 158 - Kent Via I-5
+2018-10-18 Thu	143 143 - Downtown Seattle Renton - Express	952 952 - Kennydale Via I-405
+2018-10-19 Fri	159 159 - Downtown Seattle Via I-5	111 111 - Lake Kathleen Via I-90
+2018-10-22 Mon	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-23 Tue	177 177 - Downtown Seattle Via I-5	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-24 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-10-25 Thu	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	116 116 - Fauntleroy
+2018-10-26 Fri	143 143   DOWNTOWN SEATTLE EXPRESS	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express	143 143 - Renton
+2018-10-29 Mon	177 177   DOWNTOWN SEATTLE	193 193 - Federal Way Express

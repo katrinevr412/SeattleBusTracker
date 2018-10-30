@@ -12,3 +12,21 @@
 2018-10-01 Mon	342 342 - Renton Bellevue	167 167 - University District Via SR-520	312 312 - Bothell	316 316 - Meridian Park Green Lake
 2018-10-02 Tue	355 355 - Downtown Seattle	74 74 - Sand Point Ravenna	312 312 - Kenmore
 2018-10-03 Wed	301 301 - Aurora Village Shoreline P&R - Express
+2018-10-04 Thu	74 74 - Downtown Seattle	41 41 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2018-10-05 Fri	316 316 - Downtown Seattle Green Lake	301 301 - Downtown Seattle - Express	312 312 - Bothell
+2018-10-08 Mon	312 312 - Bothell
+2018-10-09 Tue	312 312 - Downtown Seattle	312 312 - Bothell
+2018-10-10 Wed	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-10-11 Thu	41 41 - Downtown Seattle	304 304 - Richmond Beach
+2018-10-12 Fri	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	304 304 - Richmond Beach
+2018-10-15 Mon	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express
+2018-10-16 Tue	55 55 - Downtown Seattle Alaska Junction	18 18 - North Beach	55 55 - Admiral District Alaska Junction
+2018-10-17 Wed	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	40 40 - Northgate Fremont
+2018-10-18 Thu	309 309 - First Hill Express	40 40 - Northgate Fremont
+2018-10-19 Fri	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction
+2018-10-22 Mon	77 77 - Downtown Seattle Maple Leaf	55 55 - Admiral District Alaska Junction
+2018-10-23 Tue	113 113 - Shorewood White Center
+2018-10-24 Wed	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-10-25 Thu	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-10-26 Fri	5 5 - Downtown Seattle - Express	15 15   BLUE RIDGE EXPRESS
+2018-10-29 Mon	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11   DOWNTOWN SEATTLE	11 11   MADISON PARK	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St

@@ -11,3 +11,19 @@
 2018-10-01 Mon	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-10-02 Tue	218 218 - Downtown Seattle	218 218 - Issaquah Highlands
 2018-10-03 Wed	218 218   DOWNTOWN SEATTLE	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-04 Thu	257 257 - Downtown Seattle	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
+2018-10-05 Fri	218 218 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-10-08 Mon	545 545 - Redmond	545 545 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-10-09 Tue	545 545 - Redmond	545 545 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-10 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520
+2018-10-11 Thu	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-10-12 Fri	212 212 - Downtown Seattle	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-10-15 Mon	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
+2018-10-16 Tue	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-17 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	252 252 - Kingsgate Via SR-520
+2018-10-18 Thu	545 545 - Redmond	545 545 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-19 Fri	216 216 - Downtown Seattle Eastgate	212 212   EASTGATE P&R
+2018-10-22 Mon	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	218 218 - Issaquah Highlands	252 252 - Kingsgate Via SR-520
+2018-10-23 Tue	257 257 - Downtown Seattle
+2018-10-24 Wed	252 252 - Kingsgate Via SR-520
+2018-10-29 Mon	216 216 - Downtown Seattle Eastgate	212 212   EASTGATE P&R

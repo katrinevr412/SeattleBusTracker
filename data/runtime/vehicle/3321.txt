@@ -11,3 +11,20 @@
 2018-10-01 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-10-02 Tue	271 271 - University District	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	245 245 - Factoria Crossroads
 2018-10-03 Wed	277 277 - Juanita Houghton P&R
+2018-10-04 Thu	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Eastgate P&R Bellevue
+2018-10-05 Fri	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	342 342 - Shoreline P&R Bellevue
+2018-10-08 Mon	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-10-09 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-10-10 Wed	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	237 237 - Woodinville Via I-405	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
+2018-10-11 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-10-12 Fri	277 277 - University District Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-15 Mon	889 889 - International School Sammamish HS	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-10-16 Tue	886 886 - International School Bellevue HS	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-17 Wed	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-10-18 Thu	889 889 - International School Sammamish HS	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-10-19 Fri	232 232 - Bellevue Redmond	232 232 - Redmond	245 245 - Factoria Crossroads
+2018-10-22 Mon	232 232 - Bellevue Redmond	232 232 - Redmond	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-23 Tue	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-24 Wed	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-10-25 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-10-26 Fri	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R

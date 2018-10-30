@@ -8,3 +8,21 @@
 2018-10-01 Mon	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	580 580 - Lakewood
 2018-10-02 Tue	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	580 580 - Lakewood
 2018-10-03 Wed	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-10-04 Thu	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-10-05 Fri	580 580 - Puyallup Station	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-10-08 Mon	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-10-09 Tue	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-10-10 Wed	566 566 - Overlake TC via Renton	590 590 - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-10-11 Thu	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-10-12 Fri	580 580 - Puyallup Station	590 590 - Commerce - Tac Dome
+2018-10-15 Mon	590 590 - Seattle - Tac Dome	567 567 - Kent St Via Renton
+2018-10-16 Tue	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-10-17 Wed	596 596 - Sounder Connector-Sumner Stat
+2018-10-18 Thu	596 596 - Sounder Connector-Sumner Stat	592 592 - Lakewood/Dupont
+2018-10-19 Fri	596 596 - Sounder Connector-Sumner Stat
+2018-10-22 Mon	592 592 - Seattle -  Express	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
+2018-10-23 Tue	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-10-24 Wed	590 590 - Seattle	578 578 - Puyallup via federal way	590 590 - Commerce - Tac Dome
+2018-10-25 Thu	590 590 - Seattle	590 590 - Tac Dome	592 592 - Lakewood/Dupont
+2018-10-26 Fri	590 590 - Seattle	590 590 - Tac Dome	592 592 - Lakewood/Dupont
+2018-10-29 Mon	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way

@@ -10,3 +10,14 @@
 2018-09-28 Fri	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
 2018-10-01 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-10-02 Tue	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-04 Thu	252 252 - Downtown Seattle Via SR-520	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-12 Fri	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-10-15 Mon	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-10-17 Wed	541 541 - Overlake	541 541 - University District University Of Washington Station
+2018-10-19 Fri	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541   UNIVERSITY DISTRICT EXPRESS	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-22 Mon	541 541 - Overlake	541 541 - University District University Of Washington Station
+2018-10-23 Tue	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-10-24 Wed	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-10-25 Thu	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-10-26 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540   KIRKLAND EXPRESS	540 540   UNIVERSITY DISTRICT EXPRESS	540 540 - Kirkland
+2018-10-29 Mon	541 541   OVERLAKE EXPRESS	541 541   UNIVERSITY DISTRICT EXPRESS	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake

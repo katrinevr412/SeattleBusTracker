@@ -1,0 +1,12 @@
+2018-10-12 Fri	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-15 Mon	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-10-16 Tue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-10-17 Wed	232 232 - Bellevue Redmond	232 232 - Redmond	237 237 - Woodinville Via I-405
+2018-10-18 Thu	240 240 - Renton	240 240 - Bellevue Transit Center	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-10-19 Fri	240 240 - Renton	277 277   JUANITA	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-22 Mon	894 894 - Mercer Island HS Island Crest Way	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-10-23 Tue	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-10-24 Wed	232 232 - Bellevue Redmond	232 232 - Redmond	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-25 Thu	886 886 - International School Bellevue HS
+2018-10-26 Fri	277 277 - Juanita Houghton P&R	232 232   BELLEVUE	232 232   DUVALL
+2018-10-29 Mon	277 277 - University District Houghton P&R	271 271   EASTGATE P&R

@@ -11,3 +11,20 @@
 2018-10-01 Mon	143 143 - Downtown Seattle Renton - Express	177 177 - Federal Way, 320th P&R Via I-5
 2018-10-02 Tue	193 193 - First Hill Express	111 111 - Lake Kathleen Via I-90
 2018-10-03 Wed	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-10-04 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-05 Fri	177 177 - Downtown Seattle Via I-5	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
+2018-10-08 Mon	197 197 - University District Federal Way Transit Center	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-09 Tue	952 952 - Everett Special	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-10 Wed	177 177 - Downtown Seattle Via I-5	111 111 - Lake Kathleen Via I-90
+2018-10-11 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	158 158 - Kent Via I-5
+2018-10-12 Fri	952 952 - Everett Special	952 952 - Auburn Special
+2018-10-15 Mon	193 193 - First Hill Express	676 676 - Burien Southcenter	676 676 - Renton The Landing Southcenter	676 676 - Burien Southcenter	676 676 - Renton The Landing Southcenter
+2018-10-16 Tue	197 197 - University District Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-17 Wed	143 143 - Downtown Seattle Renton - Express	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-18 Thu	197 197 - University District Federal Way Transit Center
+2018-10-22 Mon	143 143 - Black Diamond Renton - Express
+2018-10-23 Tue	111 111   DOWNTOWN SEATTLE	180 180 - Burien Transit Center Seattle Tacoma International Airport	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-24 Wed	143 143   DOWNTOWN SEATTLE EXPRESS	193 193 - First Hill Express	157 157 - Lake Meridian East Hill
+2018-10-25 Thu	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-26 Fri	193 193 - First Hill Express	158 158 - Kent Via I-5
+2018-10-29 Mon	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5

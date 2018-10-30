@@ -1,0 +1,5 @@
+2018-10-09 Tue	216 216 - Downtown Seattle Eastgate	545 545 - Redmond	545 545 - Downtown Seattle
+2018-10-10 Wed	212 212 - Downtown Seattle	554 554 - Issaquah
+2018-10-11 Thu	255 255 - Totem Lake Transit Center Kirkland
+2018-10-12 Fri	252 252 - Downtown Seattle Via SR-520	255 255 - Kirkland Transit Center S Kirkland P&R
+2018-10-15 Mon	268 268 - Downtown Seattle Via SR-520

@@ -10,3 +10,14 @@
 2018-10-01 Mon	308 308 - Downtown Seattle Via I-5	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
 2018-10-02 Tue	24 24 - Magnolia	62 62 - Sand Point East Green Lake
 2018-10-03 Wed	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-10-04 Thu	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	121 121 - Highline College Via SR-509
+2018-10-08 Mon	62 62 - Downtown Seattle Fremont
+2018-10-09 Tue	28 28 - Downtown Seattle
+2018-10-11 Thu	63 63 - First Hill South Lake Union	121 121 - Burien Transit Center Via SR-509
+2018-10-22 Mon	63 63 - Northgate East Green Lake
+2018-10-23 Tue	48 48   MOUNT BAKER TRANSIT CENTER	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-10-24 Wed	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	29 29 - Ballard Queen Anne
+2018-10-25 Thu	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
+2018-10-26 Fri	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124   TUKWILA LINK STATION	124 124   DOWNTOWN SEATTLE	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24   MAGNOLIA	24 24   DOWNTOWN SEATTLE
+2018-10-27 Sat	14 14   MOUNT BAKER	1 1   KINNEAR	1 1 - Kinnear Seattle Center W	1 1 - Downtown Seattle	14 14 - Mount Baker Mount Baker Transit Center	14 14 - Downtown Seattle	1 1 - Kinnear Seattle Center W	14 14 - Mount Baker Mount Baker Transit Center
+2018-10-29 Mon	26 26 - Downtown Seattle	37 37 - Alaska Junction Alki	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler

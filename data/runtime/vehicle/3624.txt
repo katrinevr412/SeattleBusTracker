@@ -11,3 +11,22 @@
 2018-10-01 Mon	64 64 - First Hill South Lake Union	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	37 37 - Alaska Junction Alki
 2018-10-02 Tue	64 64 - First Hill South Lake Union	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
 2018-10-03 Wed	62 62 - Sand Point East Green Lake
+2018-10-04 Thu	122 122 - Highline College Via SR-509
+2018-10-08 Mon	63 63 - Northgate East Green Lake
+2018-10-09 Tue	19 19 - Downtown Seattle	63 63 - First Hill South Lake Union	19 19 - West Magnolia	122 122 - Highline College Via SR-509
+2018-10-10 Wed	308 308 - Downtown Seattle Via I-5	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-10-11 Thu	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	308 308 - Horizon View	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park	131 131 - Downtown Seattle Highland Park	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	131 131 - Burien Transit Center Highland Park
+2018-10-12 Fri	24 24 - Downtown Seattle	28 28 - Broadview
+2018-10-15 Mon	28 28 - Downtown Seattle	19 19 - West Magnolia	122 122 - Highline College Via SR-509
+2018-10-16 Tue	64 64 - Jackson Park Wedgwood
+2018-10-17 Wed	132 132 - Downtown Seattle South Park	123 123 - Gregory Heights Via SR-509
+2018-10-18 Thu	28 28 - Downtown Seattle	303 303 - Shoreline P&R Northgate
+2018-10-19 Fri	37 37 - Downtown Seattle Alki - Express	303 303   SHORELINE P&R EXPRESS
+2018-10-20 Sat	3 3 - Downtown Seattle East Jefferson Street	4 4 - Downtown Seattle	3 3 - Downtown Seattle	2 2 - W Queen Anne Seattle Center W	2 2 - Downtown Seattle
+2018-10-21 Sun	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill
+2018-10-22 Mon	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-10-23 Tue	28 28 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
+2018-10-24 Wed	62 62 - Downtown Seattle Fremont	24 24 - Magnolia	62 62 - Sand Point East Green Lake
+2018-10-25 Thu	308 308 - Downtown Seattle Via I-5	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-10-26 Fri	132 132 - Downtown Seattle South Park	29 29   BALLARD
+2018-10-29 Mon	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45   LOYAL HEIGHTS	45 45 - University District East Green Lake	29 29   BALLARD

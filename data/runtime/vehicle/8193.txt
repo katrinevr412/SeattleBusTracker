@@ -11,3 +11,20 @@
 2018-10-01 Mon	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
 2018-10-02 Tue	212 212 - Downtown Seattle	212 212 - Eastgate P&R
 2018-10-03 Wed	257 257 - Kingsgate
+2018-10-04 Thu	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	268 268 - Bear Creek P&R Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-05 Fri	216 216 - Downtown Seattle Eastgate	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520
+2018-10-08 Mon	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-09 Tue	212 212 - Downtown Seattle	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-10 Wed	257 257 - Downtown Seattle	212 212 - Eastgate P&R
+2018-10-11 Thu	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
+2018-10-12 Fri	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate
+2018-10-15 Mon	257 257 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-16 Tue	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-10-17 Wed	219 219 - Downtown Seattle Eastgate	311 311 - Woodinville Via SR-520
+2018-10-18 Thu	989 989 - Haller Lake Special
+2018-10-19 Fri	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
+2018-10-22 Mon	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-23 Tue	311 311 - Downtown Seattle Via SR-520	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-24 Wed	311 311 - Downtown Seattle Via SR-520	892 892 - N Mercer Island	268 268 - Bear Creek P&R Via SR-520
+2018-10-25 Thu	252 252 - Downtown Seattle Via SR-520
+2018-10-29 Mon	216 216   DOWNTOWN SEATTLE	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	246 246   EASTGATE P&R	311 311 - Woodinville Via SR-520
