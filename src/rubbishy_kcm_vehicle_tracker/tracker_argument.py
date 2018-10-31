@@ -37,3 +37,7 @@ class TrackerArgument:
     @staticmethod
     def empty():
         return TrackerArgument(valid=True)
+
+    @staticmethod
+    def switch():
+        return None

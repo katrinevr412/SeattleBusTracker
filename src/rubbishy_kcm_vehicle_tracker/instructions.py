@@ -15,10 +15,14 @@ class Instructions:
         except ImportError:
             self.color_enabled = False
 
-    def print_instruction(self, api):
+    def print_instruction(self, api, is_first_time):
         if api == GlobalConstants.OBA_API:
+            self.__print_text("OneBusAway API detected in config. Type ss to switch API.") \
+                if is_first_time else self.__print_text("Switched to OneBusAway API.")
             self.__print_oba_instruction()
         elif api == GlobalConstants.KCM_API:
+            self.__print_text("KingCountyMetro API detected in config. Type ss to switch API.") \
+                if is_first_time else self.__print_text("Switched to KingCountyMetro API.")
             self.__print_kcm_instruction()
         else:
             self.__print_text("Bad API configuration. Allowed values are %s" % GlobalConstants.ALL_SUPPORTED_APIS, self.ERROR_COLOR)

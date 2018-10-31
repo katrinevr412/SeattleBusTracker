@@ -22,6 +22,9 @@ class RubbishyArgumentParser:
         if type_cmd in GlobalConstants.EXIT_COMMANDS:
             # exit command
             return TrackerArgument.empty()
+        elif type_cmd == GlobalConstants.SWITCH_API_COMMAND:
+            # switch API command
+            return TrackerArgument.switch()
         elif type_cmd == GlobalConstants.BASE_COMMAND:
             # explicit base command
             return self.__parse_base_command(cmd_arr[1:])

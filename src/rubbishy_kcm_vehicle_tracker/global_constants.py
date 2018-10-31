@@ -9,5 +9,6 @@ class GlobalConstants:
     BASE_COMMAND = 'b'
     VEHICLE_COMMAND = 'v'
     ROUTE_COMMAND = 'r'
+    SWITCH_API_COMMAND = 'ss'
 
     VEHICLE_COMMAND_LIMIT = 4

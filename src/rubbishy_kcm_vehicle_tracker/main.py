@@ -15,6 +15,10 @@ def main():
     while True:
         cmd = raw_input("> ")
         args = RubbishyArgumentParser(tracker_config.api).parse_argument(cmd)
+        if args is None:
+            tracker_config.switch_api()
+            tracker_config = welcome(is_first_time=False)
+            continue
         if not args:
             continue
         if args.is_empty():
@@ -25,11 +29,12 @@ def main():
             handle_kcm_track(args, tracker_config)
 
 
-def welcome():
-    print "Welcome to Katrina's rubbishy bus tracking tool. It is designed for Android users to " \
-          "track buses in Seattle wherever they go."
+def welcome(is_first_time=True):
+    if is_first_time:
+        print "Welcome to Katrina's rubbishy bus tracking tool. It is designed for Android users to " \
+              "track buses in Seattle wherever they go."
     tracker_config = TrackerConfig()
-    if not Instructions().print_instruction(tracker_config.api):
+    if not Instructions().print_instruction(tracker_config.api, is_first_time):
         exit(0)
     return tracker_config
 

@@ -41,3 +41,13 @@ class TrackerConfig:
                 value = True
             if re.match(r'^[a-zA-Z_]\w*$', key):
                 setattr(self, key, value)
+
+    def switch_api(self):
+        with open(os.path.join(ProjectPathConfig.SOURCE_ROOT_PATH, GlobalConstants.CONFIG_FILE_NAME), 'r') as _config:
+            content = _config.read()
+        replaced_text = "api=%s" % self.api
+        new_api = GlobalConstants.OBA_API if self.api == GlobalConstants.KCM_API else GlobalConstants.KCM_API
+        content = content.replace(replaced_text, "api=%s" % new_api)
+        with open(os.path.join(ProjectPathConfig.SOURCE_ROOT_PATH, GlobalConstants.CONFIG_FILE_NAME), 'w') as _config:
+            _config.write(content)
+        self.api = new_api
