@@ -1,0 +1,7 @@
+# Config file to control behaviour of the tracker.
+# You should at least setup correct API to use (One Bus Away / King County Metro).
+cache=True
+refresh_cache=False
+cmd_str=c
+missing_only=False
+api=OBA
