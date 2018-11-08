@@ -27,10 +27,3 @@
 2018-10-25 Thu	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
 2018-10-26 Fri	21 21 - Westwood Village Via 35th Ave SW	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40   NORTHGATE
 2018-10-29 Mon	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11 - Madison Park Via E Madison St	11 11   DOWNTOWN SEATTLE	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11   MADISON PARK	11 11 - Downtown Seattle Via E Madison St	11 11   MADISON PARK	11 11   DOWNTOWN SEATTLE	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St
-2018-10-30 Tue	18 18 - Downtown Seattle	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40   NORTHGATE
-2018-10-31 Wed	214 214 - Downtown Seattle	56 56 - Alki Via SR-99	15 15 - Blue Ridge
-2018-11-01 Thu	15 15   DOWNTOWN SEATTLE EXPRESS	56 56   DOWNTOWN SEATTLE	309 309 - Kenmore P&R Express
-2018-11-02 Fri	77 77 - Downtown Seattle Maple Leaf	77 77   NORTH CITY EXPRESS
-2018-11-04 Sun	21 21 - Downtown Seattle Via 35th Ave SW	21 Route: 21 N/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	5 Route: 5 S/B	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 S/B	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 Route: 21 N/B	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
-2018-11-05 Mon	18 18 - Downtown Seattle	214 214 - Issaquah
-2018-11-06 Tue	214 214 - Downtown Seattle

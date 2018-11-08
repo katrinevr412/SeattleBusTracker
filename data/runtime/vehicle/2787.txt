@@ -33,9 +33,3 @@
 2018-10-25 Thu	18 18 - North Beach
 2018-10-26 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	77 77   NORTH CITY EXPRESS
 2018-10-29 Mon	40 40   NORTHGATE	40 40 - Downtown Seattle Ballard	21 21 - Arbor Heights - Express
-2018-10-30 Tue	214 214 - Downtown Seattle	40 40   DOWNTOWN SEATTLE	40 40 - Crown Hill Only Fremont
-2018-10-31 Wed	214 214 - Downtown Seattle
-2018-11-04 Sun	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 Route: 21 S/B	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 Route: 5 N/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
-2018-11-05 Mon	56 Route: 56 S/B	56 56 - Alki Via SR-99	57 57 - Alaska Junction Via SR-99	57 Route: 57 S/B
-2018-11-06 Tue	994 994 - Haller Lake Special	15 15 - Downtown Seattle	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St	11 11 - Downtown Seattle Via E Madison St	11 11 - Madison Park Via E Madison St
-2018-11-07 Wed	113 113 - Downtown Seattle White Center	40 40 - Downtown Seattle Ballard	214 214   ISSAQUAH

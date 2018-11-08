@@ -25,8 +25,3 @@
 2018-10-25 Thu	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
 2018-10-26 Fri	592 592 - Seattle -  Express	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
 2018-10-29 Mon	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
-2018-10-30 Tue	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
-2018-10-31 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way
-2018-11-01 Thu	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
-2018-11-06 Tue	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
-2018-11-07 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way

@@ -30,10 +30,3 @@
 2018-10-25 Thu	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	301 301 - Aurora Village Shoreline P&R - Express
 2018-10-26 Fri	312 312 - Downtown Seattle	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express
 2018-10-29 Mon	355 355   SHORELINE CC EXPRESS
-2018-10-30 Tue	372 372 - University District Lake City	304 304 - Richmond Beach
-2018-10-31 Wed	316 316 - Downtown Seattle Green Lake	312 312 - Bothell
-2018-11-01 Thu	41 41   DOWNTOWN SEATTLE	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	316 316   MERIDIAN PARK
-2018-11-02 Fri	74 74 - Downtown Seattle	41 41 - Downtown Seattle	312 312 - Bothell
-2018-11-05 Mon	312 312 - Downtown Seattle	312 Route: 312 S/B	312 312 - Downtown Seattle	304 304 - Richmond Beach	65 Route: 65 S/B	67 67 - Northgate Roosevelt	67 Route: 67 N/B
-2018-11-06 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
-2018-11-07 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore

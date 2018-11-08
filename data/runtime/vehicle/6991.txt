@@ -32,8 +32,3 @@
 2018-10-26 Fri	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
 2018-10-27 Sat	255 255   BRICKYARD P&R	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
 2018-10-29 Mon	986 986 - Haller Lake Special
-2018-10-30 Tue	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Totem Lake Transit Center Kirkland
-2018-10-31 Wed	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	268 268 - Bear Creek P&R Via SR-520
-2018-11-01 Thu	311 311   DOWNTOWN SEATTLE	823 823 - Cougar Mountain Newport HS	257 257 - Kingsgate
-2018-11-06 Tue	311 311 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
-2018-11-07 Wed	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland

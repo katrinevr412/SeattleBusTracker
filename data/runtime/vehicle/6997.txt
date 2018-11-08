@@ -23,11 +23,3 @@
 2018-10-26 Fri	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	101 101 - S Renton P&R
 2018-10-27 Sat	101 101 - Downtown Seattle	101 101 - S Renton P&R	150 150 - Kent Southcenter	180 180 - SE Auburn	180 180 - Seattle Tacoma International Airport Kent Station
 2018-10-29 Mon	158 158   DOWNTOWN SEATTLE	150 150   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
-2018-10-30 Tue	179 179 - Downtown Seattle Federal Way Transit Center	192 192 - Seattle Military Road	179 179 - Twin Lakes P&R Federal Way Transit Center
-2018-10-31 Wed	197 197 - University District Federal Way Transit Center	190 190   REDONDO HEIGHTS P&R	179 179   TWIN LAKES P&R
-2018-11-01 Thu	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
-2018-11-02 Fri	102 102 - Downtown Seattle S Renton P&R	159 159 - Timberlane Kent Station
-2018-11-03 Sat	150 150 - Kent Southcenter	150 Route: 150 S/B	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 Route: 150 N/B	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B
-2018-11-05 Mon	158 158 - Downtown Seattle Via I-5	158 Route: 158 N/B	158 158 - Downtown Seattle Via I-5
-2018-11-06 Tue	111 111 - Lake Kathleen Via I-90
-2018-11-07 Wed	190 190 - Downtown Seattle Star Lake P&R	178 178   S FEDERAL WAY	177 177 - Federal Way, 320th P&R Via I-5

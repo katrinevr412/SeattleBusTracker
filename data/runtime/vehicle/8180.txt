@@ -28,10 +28,3 @@
 2018-10-25 Thu	218 218 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-10-26 Fri	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	212 212 - Eastgate P&R	252 252   KINGSGATE
 2018-10-29 Mon	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	252 252 - Kingsgate Via SR-520
-2018-10-30 Tue	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
-2018-10-31 Wed	212 212 - Downtown Seattle	218 218   DOWNTOWN SEATTLE	311 311 - Woodinville Via SR-520
-2018-11-01 Thu	218 218   DOWNTOWN SEATTLE	212 212   DOWNTOWN SEATTLE	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
-2018-11-02 Fri	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	257 257   KINGSGATE
-2018-11-05 Mon	212 212 - Downtown Seattle	212 Route: 212 W/B	212 212 - Eastgate P&R
-2018-11-06 Tue	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	252 252 - Kingsgate Via SR-520
-2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	257 257   KINGSGATE

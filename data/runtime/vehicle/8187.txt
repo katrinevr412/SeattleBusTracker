@@ -26,10 +26,3 @@
 2018-10-22 Mon	257 257 - Downtown Seattle	218 218 - Issaquah Highlands	257 257 - Kingsgate
 2018-10-23 Tue	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-10-24 Wed	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
-2018-10-30 Tue	218 218 - Issaquah Highlands	257 257   KINGSGATE
-2018-10-31 Wed	218 218 - Downtown Seattle	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 672 - Redmond Transit Center Overlake	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 672 - Redmond Transit Center Overlake	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 672 - Redmond Transit Center Overlake	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER
-2018-11-01 Thu	268 268   DOWNTOWN SEATTLE	311 311   DOWNTOWN SEATTLE	212 212 - Eastgate P&R
-2018-11-02 Fri	212 212 - Downtown Seattle	212 212   EASTGATE P&R	212 212 - Downtown Seattle Factoria	212 212   EASTGATE P&R
-2018-11-05 Mon	311 Route: 311 W/B	218 218 - Downtown Seattle	218 Route: 218 W/B	218 218 - Downtown Seattle	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520	268 Route: 268 E/B	268 268 - Bear Creek P&R Via SR-520
-2018-11-06 Tue	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	218 218 - Issaquah Highlands
-2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	212 212   EASTGATE P&R

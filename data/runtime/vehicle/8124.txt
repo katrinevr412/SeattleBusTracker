@@ -29,10 +29,3 @@
 2018-10-25 Thu	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	116 116 - Fauntleroy
 2018-10-26 Fri	143 143   DOWNTOWN SEATTLE EXPRESS	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express	143 143 - Renton
 2018-10-29 Mon	177 177   DOWNTOWN SEATTLE	193 193 - Federal Way Express
-2018-10-30 Tue	111 111 - Downtown Seattle	158 158 - Kent Via I-5
-2018-10-31 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	159 159   TIMBERLANE
-2018-11-01 Thu	178 178   DOWNTOWN SEATTLE	143 143 - Black Diamond Renton - Express
-2018-11-02 Fri	179 179 - Downtown Seattle Federal Way Transit Center	116 116 - Fauntleroy
-2018-11-05 Mon	179 179 - Downtown Seattle Federal Way Transit Center	177 Route: 177 S/B	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride	178 Route: 178 S/B
-2018-11-06 Tue	178 178 - Downtown Seattle Federal Way Park and Ride	179 179 - Twin Lakes P&R Federal Way Transit Center
-2018-11-07 Wed	197 197 - University District Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride

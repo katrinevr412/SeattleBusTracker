@@ -28,10 +28,3 @@
 2018-10-26 Fri	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
 2018-10-28 Sun	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
 2018-10-29 Mon	590 590 - Seattle	596 596 - Sounder Connector-Bonney
-2018-10-30 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont
-2018-10-31 Wed	592 592 - Seattle -  Express	590 590 - Tac Dome	592 592 - Lakewood/Dupont
-2018-11-01 Thu	590 590 - Seattle	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way
-2018-11-02 Fri	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
-2018-11-05 Mon	590 590 - Seattle - Tac Dome	590 590 - Tac Dome
-2018-11-06 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont
-2018-11-07 Wed	590 590 - Seattle	592 592 - Lakewood/Dupont

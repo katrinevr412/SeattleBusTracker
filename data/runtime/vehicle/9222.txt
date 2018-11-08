@@ -25,9 +25,3 @@
 2018-10-23 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont
 2018-10-24 Wed	567 567 - overlake Tc via bellevue
 2018-10-25 Thu	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
-2018-10-30 Tue	580 580 - Lakewood
-2018-10-31 Wed	567 567 - overlake Tc via bellevue	567 567 - Kent St Via Renton
-2018-11-01 Thu	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
-2018-11-02 Fri	590 590 - Seattle	592 592 - Lakewood/Dupont
-2018-11-05 Mon	590 590 - Commerce - Tac Dome
-2018-11-06 Tue	592 592 - Seattle -  Express

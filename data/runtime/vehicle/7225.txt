@@ -35,8 +35,3 @@
 2018-10-25 Thu	232 232 - Bellevue Redmond	232 232 - Redmond	232 232 - Bellevue Redmond	232 232 - Redmond	245 245 - Kirkland Crossroads
 2018-10-26 Fri	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245   FACTORIA	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245   KIRKLAND	245 245   FACTORIA
 2018-10-29 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center
-2018-10-30 Tue	245 245   KIRKLAND	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245   KIRKLAND	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
-2018-10-31 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	245 245   KIRKLAND	245 245 - Factoria Crossroads	245 245   KIRKLAND
-2018-11-01 Thu	271 271   EASTGATE	271 271   UNIVERSITY DISTRICT	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads
-2018-11-02 Fri	889 889 - International School Sammamish HS
-2018-11-07 Wed	271 271 - University District Bellevue	271 271 - Issaquah Bellevue

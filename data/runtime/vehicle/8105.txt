@@ -29,10 +29,3 @@
 2018-10-25 Thu	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-10-26 Fri	179 179 - Downtown Seattle Federal Way Transit Center	197 197   TWIN LAKES P&R
 2018-10-29 Mon	197 197 - University District Federal Way Transit Center	197 197 - Twin Lakes P&R Federal Way Transit Center
-2018-10-30 Tue	193 193   FIRST HILL EXPRESS	111 111   LAKE KATHLEEN
-2018-10-31 Wed	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
-2018-11-01 Thu	157 157   DOWNTOWN SEATTLE	197 197   UNIVERSITY DISTRICT	197 197 - Twin Lakes P&R Federal Way Transit Center
-2018-11-02 Fri	157 157   DOWNTOWN SEATTLE	952 952 - Auburn Special
-2018-11-05 Mon	159 159 - Downtown Seattle Via I-5	158 158 - Kent Via I-5	158 Route: 158 S/B
-2018-11-06 Tue	193 193 - First Hill Express	952 952 - Auburn Special
-2018-11-07 Wed	197 197 - University District Federal Way Transit Center	178 178   S FEDERAL WAY

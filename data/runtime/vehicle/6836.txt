@@ -5,8 +5,3 @@
 2018-09-21 Fri	316 316 - Downtown Seattle Green Lake	74 74 - Sand Point Ravenna
 2018-09-24 Mon	312 312 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	355 355 - Shoreline CC
 2018-09-25 Tue	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood
-2018-11-01 Thu	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	312 312   DOWNTOWN SEATTLE EXPRESS	355 355 - Shoreline CC
-2018-11-02 Fri	41 41 - Downtown Seattle	74 74 - Sand Point Ravenna
-2018-11-05 Mon	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	304 304 - Richmond Beach
-2018-11-06 Tue	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
-2018-11-07 Wed	312 312 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41   LAKE CITY	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

@@ -26,11 +26,3 @@
 2018-10-25 Thu	590 590 - Seattle - Tac Dome	596 596 - Sounder Connector-Bonney
 2018-10-26 Fri	590 590 - Seattle - Tac Dome	580 580 - Lakewood	580 580 - Puyallup Station
 2018-10-29 Mon	567 567 - overlake Tc via bellevue	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
-2018-10-30 Tue	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
-2018-10-31 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
-2018-11-01 Thu	590 590 - Seattle - Tac Dome	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome
-2018-11-02 Fri	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
-2018-11-04 Sun	580 580 - Puyallup Station
-2018-11-05 Mon	580 580 - Puyallup Station	592 592 - Lakewood/Dupont
-2018-11-06 Tue	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
-2018-11-07 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	594 594 - Lakewood -  Tacoma

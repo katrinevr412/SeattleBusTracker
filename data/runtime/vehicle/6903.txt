@@ -32,10 +32,3 @@
 2018-10-27 Sat	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
 2018-10-28 Sun	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
 2018-10-29 Mon	316 316 - Downtown Seattle Green Lake	74 74   SAND POINT	316 316 - Meridian Park Green Lake
-2018-10-30 Tue	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
-2018-10-31 Wed	304 304 - Downtown Seattle	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY
-2018-11-01 Thu	312 312   DOWNTOWN SEATTLE EXPRESS	41 41 - Northgate Northeast 125th Only
-2018-11-02 Fri	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
-2018-11-05 Mon	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 Route: 41 S/B	41 41 - Lake City Northgate
-2018-11-06 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	316 316 - Meridian Park Green Lake
-2018-11-07 Wed	316 316 - Downtown Seattle Green Lake	301 301 - Downtown Seattle - Express	41 41 - Northgate Northeast 125th Only

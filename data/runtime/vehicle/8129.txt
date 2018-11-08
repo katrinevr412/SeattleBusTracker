@@ -18,10 +18,3 @@
 2018-10-25 Thu	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
 2018-10-26 Fri	190 190 - Downtown Seattle Star Lake P&R	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-10-29 Mon	952 952 - Everett Special	177 177   FEDERAL WAY	178 178 - S Federal Way Federal Way Park and Ride
-2018-10-30 Tue	197 197   UNIVERSITY DISTRICT	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
-2018-10-31 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	190 190   REDONDO HEIGHTS P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
-2018-11-01 Thu	197 197   UNIVERSITY DISTRICT	111 111 - Lake Kathleen Via I-90
-2018-11-02 Fri	111 111 - Downtown Seattle
-2018-11-05 Mon	143 Route: 143 N/B	143 143 - Downtown Seattle Renton - Express	111 111 - Lake Kathleen Via I-90
-2018-11-06 Tue	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
-2018-11-07 Wed	111 111 - Downtown Seattle	116 116 - Downtown Seattle	158 158   KENT

@@ -15,5 +15,3 @@
 2018-10-17 Wed	P497 497 - Lakeland Hills
 2018-10-22 Mon	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
 2018-10-26 Fri	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance
-2018-10-30 Tue	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill
-2018-11-07 Wed	P48 48 - South M St - Sheridian St	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan

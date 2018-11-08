@@ -23,10 +23,3 @@
 2018-10-25 Thu	301 301 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	301 301 - Aurora Village Richmond Beach - Express
 2018-10-26 Fri	312 312 - Downtown Seattle	312 312 - Kenmore
 2018-10-29 Mon	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	373 373   UNIVERSITY DISTRICT EXPRESS	373 373 - Aurora Village Jackson Park
-2018-10-30 Tue	312 312 - Downtown Seattle	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
-2018-10-31 Wed	312 312 - Downtown Seattle	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express	312 312 - Bothell
-2018-11-01 Thu	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
-2018-11-02 Fri	41 41 - Downtown Seattle Northgate	312 312 - Kenmore
-2018-11-05 Mon	372 372 - University District Lake City	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 Route: 67 N/B	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 Route: 65 N/B	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 Route: 65 N/B	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 Route: 67 N/B
-2018-11-06 Tue	355 355 - Downtown Seattle	372 372 - UW Bothell/Cascadia College Kenmore
-2018-11-07 Wed	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	304 304 - Richmond Beach

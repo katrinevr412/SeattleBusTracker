@@ -18,10 +18,3 @@
 2018-10-12 Fri	545 545 - Redmond	545 545 - Downtown Seattle
 2018-10-15 Mon	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
 2018-10-29 Mon	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
-2018-10-30 Tue	550 550 - Seattle	545 545 - Downtown Seattle	550 550   BELLEVUE EXPRESS
-2018-10-31 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS
-2018-11-01 Thu	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle
-2018-11-02 Fri	542 542   GREEN LAKE P&R EXPRESS	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542   REDMOND EXPRESS	542 542 - Green Lake P&R University District	542 542 - Redmond
-2018-11-05 Mon	550 550 - Seattle	550 Route: 550 E/B	550 550 - Bellevue	550 Route: 550 E/B	550 550 - Seattle	550 Route: 550 E/B	550 550 - Seattle	550 550 - Bellevue	550 Route: 550 E/B	550 550 - Seattle	550 550 - Bellevue	550 Route: 550 E/B	550 550 - Bellevue	550 550 - Seattle	550 Route: 550 W/B	550 550 - Seattle	550 550 - Bellevue
-2018-11-06 Tue	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
-2018-11-07 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue

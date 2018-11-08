@@ -24,7 +24,3 @@
 2018-10-25 Thu	143 143 - Downtown Seattle Renton - Express	193 193 - Federal Way Express
 2018-10-26 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	190 190 - Redondo Heights P&R Star Lake P&R	179 179   TWIN LAKES P&R
 2018-10-29 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	952 952 - Kennydale Via I-405
-2018-10-30 Tue	158 158   DOWNTOWN SEATTLE	143 143 - Black Diamond Renton - Express	143 143 - Renton
-2018-10-31 Wed	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	158 158 - Kent Via I-5
-2018-11-01 Thu	116 116 - Fauntleroy
-2018-11-02 Fri	193 193 - First Hill Express	177 177   FEDERAL WAY

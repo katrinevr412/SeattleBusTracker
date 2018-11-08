@@ -26,11 +26,3 @@
 2018-10-25 Thu	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-10-26 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Brickyard P&R Kirkland
 2018-10-29 Mon	268 268   DOWNTOWN SEATTLE	255 255   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland
-2018-10-30 Tue	257 257 - Downtown Seattle	255 255   KIRKLAND TRANSIT CENTER	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
-2018-10-31 Wed	895 895 - Lake Washington High School	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R
-2018-11-01 Thu	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
-2018-11-02 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	311 311 - Woodinville Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
-2018-11-04 Sun	255 255 - Brickyard P&R Kirkland	255 Route: 255 E/B	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 Route: 255 W/B	255 255 - Brickyard P&R Kirkland	255 Route: 255 E/B	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 Route: 255 E/B
-2018-11-05 Mon	219 219 - Downtown Seattle Eastgate
-2018-11-06 Tue	268 268 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
-2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520	252 252   KINGSGATE

@@ -21,10 +21,3 @@
 2018-10-12 Fri	179 179 - Downtown Seattle Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	193 193 - Federal Way Express
 2018-10-26 Fri	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore
 2018-10-29 Mon	312 312 - Bothell
-2018-10-30 Tue	312 312 - Downtown Seattle	312 312 - Kenmore
-2018-10-31 Wed	301 301 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	74 74 - Sand Point Ravenna	316 316   MERIDIAN PARK
-2018-11-01 Thu	74 74   DOWNTOWN SEATTLE	312 312 - Kenmore
-2018-11-02 Fri	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City
-2018-11-05 Mon	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	41 41 - Lake City Northgate	41 Route: 41 N/B	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 Route: 41 S/B	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 Route: 41 S/B	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
-2018-11-06 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
-2018-11-07 Wed	372 372 - University District Lake City	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

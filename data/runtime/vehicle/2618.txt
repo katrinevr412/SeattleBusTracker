@@ -38,10 +38,3 @@
 2018-10-27 Sat	7 7   RAINIER BEACH	7 7   DOWNTOWN SEATTLE	7 7   PRENTICE ST	7 7   DOWNTOWN SEATTLE	7 7   RAINIER BEACH	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
 2018-10-28 Sun	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7   PRENTICE ST	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7   DOWNTOWN SEATTLE	49 49   UNIVERSITY DISTRICT	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
 2018-10-29 Mon	214 214 - Downtown Seattle	55 55 - Admiral District Alaska Junction
-2018-10-30 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	21 21   ARBOR HEIGHTS EXPRESS
-2018-10-31 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge
-2018-11-01 Thu	214 214   DOWNTOWN SEATTLE	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
-2018-11-02 Fri	40 40   DOWNTOWN SEATTLE	40 40   CROWN HILL ONLY
-2018-11-05 Mon	214 214 - Downtown Seattle	15 15 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
-2018-11-06 Tue	21 21 - Downtown Seattle - Express	309 309 - Kenmore P&R Express
-2018-11-07 Wed	21 21 - Downtown Seattle - Express	18 18   NORTH BEACH EXPRESS

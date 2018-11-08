@@ -27,10 +27,3 @@
 2018-10-25 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90
 2018-10-26 Fri	111 111 - Downtown Seattle	193 193   FEDERAL WAY EXPRESS
 2018-10-29 Mon	158 158 - Kent Via I-5
-2018-10-30 Tue	952 952 - Everett Special	177 177 - Federal Way, 320th P&R Via I-5	178 178   S FEDERAL WAY
-2018-10-31 Wed	179 179 - Downtown Seattle Federal Way Transit Center	193 193 - Federal Way Express
-2018-11-01 Thu	111 111   DOWNTOWN SEATTLE	111 111 - Lake Kathleen Via I-90
-2018-11-02 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
-2018-11-05 Mon	157 157 - Downtown Seattle East Hill	157 Route: 157 N/B
-2018-11-06 Tue	159 159 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride
-2018-11-07 Wed	193 193 - First Hill Express	190 190 - Downtown Seattle Star Lake P&R	111 111   LAKE KATHLEEN

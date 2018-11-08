@@ -15,9 +15,3 @@
 2018-10-11 Thu	592 592 - Seattle -  Express	590 590 - Tac Dome	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
 2018-10-12 Fri	590 590 - Seattle	594 594 - Lakewood -  Tacoma	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome
 2018-10-15 Mon	592 592 - Seattle -  Express	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
-2018-10-31 Wed	596 596 - Sounder Connector-Sumner Stat	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
-2018-11-01 Thu	590 590 - Seattle	590 590 - Tac Dome
-2018-11-02 Fri	590 590 - Seattle	595 595 - Gig Harbor -  Narrows
-2018-11-05 Mon	590 590 - Seattle	594 594 - Lakewood -  Tacoma	580 580 - Puyallup Station	580 580 - Lakewood	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
-2018-11-06 Tue	592 592 - Seattle -  Express	596 596 - Sounder Connector-Bonney
-2018-11-07 Wed	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport

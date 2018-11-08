@@ -29,10 +29,3 @@
 2018-10-25 Thu	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	221 221 - Eastgate P&R	221 221 - Education Hill
 2018-10-26 Fri	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R
 2018-10-29 Mon	240 240   RENTON	240 240 - Bellevue Transit Center	277 277 - Juanita Houghton P&R
-2018-10-30 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
-2018-10-31 Wed	237 237 - Bellevue Via I-405	271 271   UNIVERSITY DISTRICT	240 240   RENTON	240 240 - Bellevue Transit Center
-2018-11-01 Thu	245 245   FACTORIA	245 245   KIRKLAND	245 245   FACTORIA	245 245   KIRKLAND	245 245   FACTORIA	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
-2018-11-02 Fri	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
-2018-11-05 Mon	277 Route: 277 W/B	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 Route: 271 W/B	271 271 - Eastgate P&R Bellevue
-2018-11-06 Tue	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
-2018-11-07 Wed	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads

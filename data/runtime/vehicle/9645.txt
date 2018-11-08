@@ -20,10 +20,3 @@
 2018-10-26 Fri	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550   BELLEVUE EXPRESS
 2018-10-28 Sun	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah
 2018-10-29 Mon	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
-2018-10-30 Tue	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS
-2018-10-31 Wed	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS
-2018-11-01 Thu	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550 - Bellevue
-2018-11-02 Fri	550 550 - Seattle	545 545 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
-2018-11-05 Mon	550 550 - Seattle	545 545 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	216 Route: 216 E/B
-2018-11-06 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Bothell
-2018-11-07 Wed	556 556 - Northgate	555 555 - Issaquah	556 556 - Northgate	555 555 - Northgate	556 556   ISSAQUAH EXPRESS

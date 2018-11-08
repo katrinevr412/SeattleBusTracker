@@ -30,10 +30,3 @@
 2018-10-26 Fri	101 101 - Downtown Seattle	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE
 2018-10-27 Sat	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
 2018-10-29 Mon	158 158   DOWNTOWN SEATTLE	158 158 - Kent Via I-5
-2018-10-30 Tue	101 101 - S Renton P&R	102 102   DOWNTOWN SEATTLE	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	193 193   FEDERAL WAY EXPRESS
-2018-10-31 Wed	179 179 - Downtown Seattle Federal Way Transit Center	102 102 - Fairwood S Renton P&R
-2018-11-01 Thu	159 159   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
-2018-11-02 Fri	158 158   DOWNTOWN SEATTLE	177 177 - Federal Way, 320th P&R Via I-5	193 193 - Federal Way Express
-2018-11-05 Mon	158 Route: 158 N/B	158 158 - Downtown Seattle Via I-5	102 102 - Fairwood S Renton P&R
-2018-11-06 Tue	190 190 - Downtown Seattle Star Lake P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter
-2018-11-07 Wed	150 150 - Downtown Seattle Southcenter	102 102 - Fairwood S Renton P&R

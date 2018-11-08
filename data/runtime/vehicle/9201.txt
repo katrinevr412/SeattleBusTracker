@@ -18,6 +18,3 @@
 2018-10-23 Tue	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
 2018-10-24 Wed	592 592 - Seattle -  Express	566 566 - Kent Station
 2018-10-25 Thu	590 590 - Seattle	592 592 - Lakewood/Dupont
-2018-11-05 Mon	596 596 - Sounder Connector-Bonney
-2018-11-06 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Renton	566 566 - Auburn Stn Via Renton	566 566 - Renton	567 567 - Kent St Via Renton	590 590 - Tac Dome
-2018-11-07 Wed	567 567 - Kent St Via Renton

@@ -21,10 +21,3 @@
 2018-10-25 Thu	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-10-26 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540   KIRKLAND EXPRESS	540 540   UNIVERSITY DISTRICT EXPRESS	540 540 - Kirkland
 2018-10-29 Mon	541 541   OVERLAKE EXPRESS	541 541   UNIVERSITY DISTRICT EXPRESS	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
-2018-10-30 Tue	540 540 - University District	540 540   KIRKLAND EXPRESS	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
-2018-10-31 Wed	542 542 - Redmond	542 542 - Green Lake P&R University District
-2018-11-01 Thu	542 542   REDMOND EXPRESS	542 542   GREEN LAKE P&R EXPRESS	542 542   REDMOND EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle
-2018-11-02 Fri	540 540 - Kirkland	540 540 - University District	540 540   KIRKLAND EXPRESS
-2018-11-05 Mon	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	540 540 - Kirkland	540 540 - University District	540 Route: 540 W/B	540 540 - Kirkland	540 540 - University District	540 Route: 540 W/B	540 540 - Kirkland	540 Route: 540 E/B
-2018-11-06 Tue	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
-2018-11-07 Wed	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake

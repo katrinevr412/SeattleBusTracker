@@ -29,7 +29,3 @@
 2018-10-25 Thu	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia
 2018-10-26 Fri	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
 2018-10-29 Mon	308 308   DOWNTOWN SEATTLE	121 121 - Downtown Seattle Via SR-509	121 121   HIGHLINE COLLEGE
-2018-10-30 Tue	28 28 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	19 19 - West Magnolia
-2018-10-31 Wed	308 308 - Downtown Seattle Via I-5
-2018-11-06 Tue	308 308 - Downtown Seattle Via I-5	28 28 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
-2018-11-07 Wed	122 122 - Downtown Seattle Via SR-509	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express

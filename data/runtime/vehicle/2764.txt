@@ -36,12 +36,3 @@
 2018-10-25 Thu	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	77 77 - North City Maple Leaf
 2018-10-26 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	21 21   ARBOR HEIGHTS EXPRESS
 2018-10-29 Mon	15 15 - Downtown Seattle	55 55   DOWNTOWN SEATTLE	77 77 - North City Maple Leaf
-2018-10-30 Tue	987 987 - Haller Lake Special	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express
-2018-10-31 Wed	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE
-2018-11-01 Thu	114 114   DOWNTOWN SEATTLE	5 5   DOWNTOWN SEATTLE EXPRESS	21 21 - Arbor Heights - Express
-2018-11-02 Fri	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood
-2018-11-03 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 Route: 21 S/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 Route: 5 S/B	21 21 - Westwood Village Via 35th Ave SW	5 Route: 5 N/B
-2018-11-04 Sun	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 N/B	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
-2018-11-05 Mon	214 Route: 214 W/B	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only	214 Route: 214 E/B
-2018-11-06 Tue	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
-2018-11-07 Wed	309 309 - First Hill Express	40 40 - Downtown Seattle Fremont	55 55 - Admiral District Alaska Junction

@@ -26,10 +26,3 @@
 2018-10-25 Thu	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - Eastgate P&R Bellevue
 2018-10-26 Fri	894 894 - Mercer Island HS Island Crest Way	271 271 - Issaquah Transit Center Bellevue	271 271   UNIVERSITY DISTRICT
 2018-10-29 Mon	240 240 - Renton	277 277   JUANITA	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
-2018-10-30 Tue	889 889 - International School Sammamish HS	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
-2018-10-31 Wed	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
-2018-11-01 Thu	237 237   BELLEVUE	271 271   UNIVERSITY DISTRICT	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
-2018-11-02 Fri	232 232 - Bellevue Redmond	232 232 - Redmond
-2018-11-05 Mon	891 891 - Mercer Island HS	240 240 - Renton	240 240 - Bellevue Transit Center	240 Route: 240 N/B
-2018-11-06 Tue	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
-2018-11-07 Wed	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue

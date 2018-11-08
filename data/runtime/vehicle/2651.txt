@@ -32,10 +32,3 @@
 2018-10-26 Fri	57 57   DOWNTOWN SEATTLE	18 18 - Downtown Seattle	214 214 - Issaquah	5 5   GREENWOOD EXPRESS
 2018-10-28 Sun	40 40 - Downtown Seattle Ballard	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-10-29 Mon	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge
-2018-10-30 Tue	5 5   DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah
-2018-10-31 Wed	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	17 17 - Sunset Hill
-2018-11-01 Thu	21 21   TO DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah
-2018-11-02 Fri	21 21   TO DOWNTOWN SEATTLE EXPRESS	57 57 - Alaska Junction Via SR-99	21 21 - Arbor Heights - Express
-2018-11-05 Mon	214 214 - Downtown Seattle	18 18 - North Beach	18 Route: 18 N/B	18 18 - North Beach
-2018-11-06 Tue	21 21 - Downtown Seattle - Express	56 56 - Alki Via SR-99
-2018-11-07 Wed	214 214 - Downtown Seattle	15 15 - Downtown Seattle	40 40   NORTHGATE	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont

@@ -34,10 +34,3 @@
 2018-10-27 Sat	120 120   DOWNTOWN SEATTLE	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
 2018-10-28 Sun	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120   DOWNTOWN SEATTLE	120 120 - Burien Transit Center Westwood Village	120 120   DOWNTOWN SEATTLE	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village
 2018-10-29 Mon	214 214 - Downtown Seattle	21 21   ARBOR HEIGHTS EXPRESS	5 5 - Greenwood - Express
-2018-10-30 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
-2018-10-31 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	214 214 - Issaquah	5 5   GREENWOOD EXPRESS
-2018-11-01 Thu	15 15   DOWNTOWN SEATTLE EXPRESS	56 56   DOWNTOWN SEATTLE
-2018-11-02 Fri	5 5 - Downtown Seattle - Express	15 15 - Blue Ridge
-2018-11-05 Mon	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express	5 Route: 5 N/B
-2018-11-06 Tue	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Arbor Heights - Express
-2018-11-07 Wed	55 55 - Downtown Seattle Alaska Junction	56 56   ALKI	15 15 - Blue Ridge

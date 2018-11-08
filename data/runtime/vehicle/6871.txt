@@ -24,7 +24,3 @@
 2018-10-25 Thu	157 157 - Downtown Seattle East Hill	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-10-26 Fri	179 179 - Downtown Seattle Federal Way Transit Center	178 178 - S Federal Way Federal Way Park and Ride	177 177   FEDERAL WAY
 2018-10-29 Mon	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	102 102 - Fairwood S Renton P&R
-2018-10-30 Tue	190 190 - Downtown Seattle Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
-2018-10-31 Wed	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
-2018-11-01 Thu	157 157 - Lake Meridian East Hill
-2018-11-02 Fri	179 179 - Downtown Seattle Federal Way Transit Center	192 192   SEATTLE

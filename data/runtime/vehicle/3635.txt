@@ -33,8 +33,3 @@
 2018-10-27 Sat	13 13   DOWNTOWN SEATTLE	2 2   DOWNTOWN SEATTLE	13 13   SEATTLE PACIFIC UNIVERSITY	2 2   DOWNTOWN SEATTLE
 2018-10-28 Sun	3 3 - Downtown Only	3 3 - Madrona and 34th Ave Via E Cherry St	3 3 - Downtown Only	3 3 - Madrona and 34th Ave Via E Cherry St	3 3   DOWNTOWN SEATTLE	13 13 - Seattle Pacific University Seattle Center W	3 3   DOWNTOWN SEATTLE	13 13 - Downtown Seattle	4 4 - Judkins Park Via 23rd Ave	4 4 - Downtown Seattle East Jefferson Street	3 3 - Downtown Seattle	13 13 - Seattle Pacific University Seattle Center W	3 3   DOWNTOWN SEATTLE	13 13 - Seattle Pacific University Seattle Center W	4 4   DOWNTOWN SEATTLE	4 4 - Judkins Park Via 23rd Ave	4 4 - Downtown Seattle East Jefferson Street	3 3 - Downtown Seattle	13 13 - Seattle Pacific University Seattle Center W	3 3   DOWNTOWN SEATTLE	3 3 - Madrona and 34th Ave Via E Cherry St	13 13 - Seattle Pacific University Seattle Center W	3 3   DOWNTOWN SEATTLE	13 13 - Seattle Pacific University Seattle Center W	3 3   DOWNTOWN SEATTLE	13 13 - Downtown Seattle	3 3 - Madrona and 34th Ave Via E Cherry St	3 3 - Downtown Only	3 3 - Madrona and 34th Ave Via E Cherry St	3 3 - Downtown Only
 2018-10-29 Mon	24 24 - Downtown Seattle	121 121 - Highline College Via SR-509
-2018-10-30 Tue	28 28 - Downtown Seattle	167 167 - S Renton P&R Via I-405
-2018-10-31 Wed	64 64 - Jackson Park Wedgwood
-2018-11-02 Fri	121 121 - Burien Transit Center Via SR-509
-2018-11-06 Tue	63 63 - Northgate East Green Lake
-2018-11-07 Wed	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	308 308 - Horizon View

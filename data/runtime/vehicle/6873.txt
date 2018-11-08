@@ -31,7 +31,3 @@
 2018-10-25 Thu	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	312 312 - Downtown Seattle	355 355 - Shoreline CC
 2018-10-26 Fri	372 372 - University District Lake City	74 74 - Downtown Seattle	74 74 - Sand Point Ravenna
 2018-10-29 Mon	41 41 - Downtown Seattle	316 316 - Meridian Park Green Lake
-2018-10-30 Tue	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
-2018-10-31 Wed	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf
-2018-11-02 Fri	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood
-2018-11-07 Wed	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate

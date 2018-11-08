@@ -27,11 +27,3 @@
 2018-10-25 Thu	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	240 240 - Renton	240 240 - Bellevue Transit Center
 2018-10-26 Fri	893 893 - Lake Washington High School	277 277   JUANITA
 2018-10-29 Mon	277 277   UNIVERSITY DISTRICT	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
-2018-10-30 Tue	277 277   UNIVERSITY DISTRICT	271 271 - Issaquah Transit Center Bellevue	271 271   UNIVERSITY DISTRICT	271 271 - Eastgate P&R Bellevue
-2018-10-31 Wed	889 889 - International School Sammamish HS	232 232   BELLEVUE	232 232 - Duvall Redmond
-2018-11-01 Thu	243 243   KENMORE P&R EXPRESS	244 244   OVERLAKE TRANSIT CENTER	277 277   UNIVERSITY DISTRICT	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
-2018-11-02 Fri	232 232 - Bellevue Redmond	277 277 - Juanita Houghton P&R
-2018-11-03 Sat	269 Route: 269 S/B	269 269 - Issaquah Highlands Sammamish	269 Route: 269 N/B	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 Route: 269 S/B	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish
-2018-11-05 Mon	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 Route: 271 E/B	271 271 - Eastgate P&R Bellevue
-2018-11-06 Tue	887 887 - International School	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
-2018-11-07 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	342 342 - Shoreline P&R Bellevue

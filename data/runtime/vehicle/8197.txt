@@ -29,6 +29,3 @@
 2018-10-25 Thu	219 219 - Downtown Seattle Eastgate	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
 2018-10-26 Fri	212 212 - Downtown Seattle	986 986 - Houghton P&R Special	216 216   BEAR CREEK P&R
 2018-10-29 Mon	212 212 - Downtown Seattle	212 212   EASTGATE P&R
-2018-11-05 Mon	268 268 - Downtown Seattle Via SR-520	219 219 - Redmond Issaquah Highlands Park & Ride	219 Route: 219 E/B
-2018-11-06 Tue	218 218 - Downtown Seattle	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
-2018-11-07 Wed	311 311   WOODINVILLE

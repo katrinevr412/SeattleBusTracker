@@ -30,8 +30,3 @@
 2018-10-26 Fri	311 311 - Downtown Seattle Via SR-520	255 255 - Totem Lake Transit Center Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-10-28 Sun	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-10-29 Mon	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255   TOTEM LAKE TRANSIT CENTER	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
-2018-10-30 Tue	311 311 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
-2018-10-31 Wed	888 888 - Vasa Park Interlake HS	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
-2018-11-01 Thu	252 252   DOWNTOWN SEATTLE	255 255   KIRKLAND TRANSIT CENTER	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
-2018-11-02 Fri	311 311 - Downtown Seattle Via SR-520	257 257 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
-2018-11-07 Wed	219 219 - Downtown Seattle Eastgate	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland

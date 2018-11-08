@@ -27,10 +27,3 @@
 2018-10-25 Thu	271 271 - Eastgate Bellevue	271 271 - University District Bellevue
 2018-10-26 Fri	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271   UNIVERSITY DISTRICT
 2018-10-29 Mon	894 894 - Mercer Island HS Island Crest Way	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
-2018-10-30 Tue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	221 221 - Eastgate P&R	221 221 - Education Hill
-2018-10-31 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	245 245 - Factoria Crossroads
-2018-11-01 Thu	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
-2018-11-02 Fri	271 271 - Eastgate Bellevue	245 245   FACTORIA
-2018-11-05 Mon	886 886 - International School Bellevue HS	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
-2018-11-06 Tue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	237 237 - Woodinville Via I-405
-2018-11-07 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads

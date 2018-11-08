@@ -29,10 +29,3 @@
 2018-10-25 Thu	143 143 - Black Diamond	143 143 - Downtown Seattle Renton - Express
 2018-10-26 Fri	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express
 2018-10-29 Mon	157 157 - Downtown Seattle East Hill	107 107   BEACON HILL STATION	157 157 - Lake Meridian East Hill
-2018-10-30 Tue	178 178   DOWNTOWN SEATTLE	197 197 - Twin Lakes P&R Federal Way Transit Center
-2018-10-31 Wed	111 111 - Downtown Seattle	143 143 - Black Diamond Renton - Express	143 143   RENTON
-2018-11-01 Thu	177 177   DOWNTOWN SEATTLE	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
-2018-11-02 Fri	179 179 - Downtown Seattle Federal Way Transit Center	143 143   BLACK DIAMOND EXPRESS
-2018-11-05 Mon	193 Route: 193 N/B	193 193 - First Hill Express	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
-2018-11-06 Tue	193 193 - First Hill Express	143 143 - Black Diamond Renton - Express
-2018-11-07 Wed	177 177 - Downtown Seattle Via I-5	193 193 - Federal Way Express

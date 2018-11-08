@@ -36,10 +36,3 @@
 2018-10-25 Thu	62 62 - Downtown Seattle Fremont	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
 2018-10-26 Fri	63 63 - First Hill South Lake Union	27 27 - Colman Park Yesler	27 27   DOWNTOWN SEATTLE	33 33   E MAGNOLIA	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124   TUKWILA LINK STATION	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
 2018-10-29 Mon	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	45 45   LOYAL HEIGHTS	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
-2018-10-30 Tue	124 124 - Tukwila Link Station Georgetown	124 124   DOWNTOWN SEATTLE	9 9 - Broadway Express	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
-2018-10-31 Wed	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle	29 29 - Ballard Queen Anne
-2018-11-01 Thu	62 62   DOWNTOWN SEATTLE	9 9   RAINIER BEACH STATION EXPRESS	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
-2018-11-02 Fri	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
-2018-11-05 Mon	63 63 - First Hill South Lake Union	63 Route: 63 S/B
-2018-11-06 Tue	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	19 19 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	26 26 - Northgate Transit Center East Green Lake	26 26 - Downtown Seattle	28 28 - Carkeek Park	28 28 - Downtown Seattle
-2018-11-07 Wed	62 62 - Sand Point East Green Lake

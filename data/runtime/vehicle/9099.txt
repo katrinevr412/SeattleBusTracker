@@ -25,4 +25,3 @@
 2018-10-25 Thu	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma
 2018-10-26 Fri	590 590 - Seattle	594 594 - Lakewood -  Tacoma	580 580 - Puyallup Station
 2018-10-29 Mon	577 577 - Seattle	590 590 - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
-2018-10-30 Tue	592 592 - Seattle -  Express	586 586 - Tacoma -  Express

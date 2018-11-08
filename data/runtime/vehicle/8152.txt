@@ -28,9 +28,3 @@
 2018-10-25 Thu	982 982 - Haller Lake Special	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-10-26 Fri	218 218 - Downtown Seattle	212 212 - Eastgate P&R
 2018-10-29 Mon	252 252 - Downtown Seattle Via SR-520	216 216   BEAR CREEK P&R	219 219 - Redmond Issaquah Highlands Park & Ride
-2018-10-30 Tue	218 218 - Downtown Seattle	212 212 - Eastgate P&R
-2018-10-31 Wed	219 219 - Downtown Seattle Eastgate	218 218 - Issaquah Highlands
-2018-11-01 Thu	218 218   DOWNTOWN SEATTLE	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
-2018-11-02 Fri	219 219 - Downtown Seattle Eastgate	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
-2018-11-05 Mon	212 Route: 212 W/B	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	217 Route: 217 W/B
-2018-11-06 Tue	218 218 - Downtown Seattle	212 212 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R

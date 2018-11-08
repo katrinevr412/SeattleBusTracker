@@ -27,10 +27,3 @@
 2018-10-25 Thu	252 252 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-10-26 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520
 2018-10-29 Mon	218 218   DOWNTOWN SEATTLE	218 218   ISSAQUAH HIGHLANDS
-2018-10-30 Tue	311 311 - Downtown Seattle Via SR-520	218 218   DOWNTOWN SEATTLE	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
-2018-10-31 Wed	311 311 - Downtown Seattle Via SR-520	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
-2018-11-01 Thu	311 311   DOWNTOWN SEATTLE	212 212   DOWNTOWN SEATTLE	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
-2018-11-02 Fri	219 219 - Downtown Seattle Eastgate	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
-2018-11-05 Mon	212 212 - Downtown Seattle	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520
-2018-11-06 Tue	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
-2018-11-07 Wed	986 986 - Haller Lake Special	889 889 - Bridle Trails Sammamish HS	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520

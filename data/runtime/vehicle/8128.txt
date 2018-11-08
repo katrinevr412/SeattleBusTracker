@@ -29,9 +29,3 @@
 2018-10-25 Thu	952 952 - Everett Special	143 143 - Black Diamond Renton - Express
 2018-10-26 Fri	177 177 - Downtown Seattle Via I-5	178 178   S FEDERAL WAY
 2018-10-29 Mon	193 193 - First Hill Express	111 111 - Lake Kathleen Via I-90
-2018-10-30 Tue	111 111   DOWNTOWN SEATTLE	676 RAPIDRIDE F LINE TO BURIEN
-2018-10-31 Wed	197 197 - University District Federal Way Transit Center
-2018-11-01 Thu	179 179   DOWNTOWN SEATTLE	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
-2018-11-02 Fri	178 178 - Downtown Seattle Federal Way Park and Ride
-2018-11-05 Mon	177 177 - Downtown Seattle Via I-5	177 Route: 177 N/B	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express	143 Route: 143 S/B	143 143 - Black Diamond Renton - Express
-2018-11-07 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	193 193 - Federal Way Express

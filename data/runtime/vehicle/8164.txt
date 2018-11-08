@@ -27,10 +27,3 @@
 2018-10-25 Thu	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
 2018-10-26 Fri	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER	672 672 - Bellevue Transit Center Crossroads
 2018-10-29 Mon	212 212 - Downtown Seattle	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
-2018-10-30 Tue	982 982 - Haller Lake Special	252 252 - Kingsgate Via SR-520
-2018-10-31 Wed	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212   DOWNTOWN SEATTLE	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride
-2018-11-01 Thu	216 216   DOWNTOWN SEATTLE	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
-2018-11-02 Fri	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
-2018-11-05 Mon	982 982 - Haller Lake Special	257 257 - Kingsgate
-2018-11-06 Tue	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
-2018-11-07 Wed	268 268 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R

@@ -25,4 +25,3 @@
 2018-10-25 Thu	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton	566 566 - Kent Station
 2018-10-26 Fri	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome
 2018-10-29 Mon	592 592 - Seattle -  Express	566 566 - Kent Station
-2018-10-30 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont

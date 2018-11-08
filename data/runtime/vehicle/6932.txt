@@ -29,11 +29,3 @@
 2018-10-25 Thu	257 257 - Downtown Seattle	255 255 - Downtown Seattle Kirkland	252 252 - Kingsgate Via SR-520
 2018-10-26 Fri	311 311 - Downtown Seattle Via SR-520	257 257 - Kingsgate
 2018-10-29 Mon	252 252 - Downtown Seattle Via SR-520	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	218 218 - Issaquah Highlands	212 212 - Eastgate P&R
-2018-10-30 Tue	219 219 - Downtown Seattle Eastgate	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	219 219 - Redmond Issaquah Highlands Park & Ride
-2018-10-31 Wed	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
-2018-11-01 Thu	311 311   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255   DOWNTOWN SEATTLE	255 255   TOTEM LAKE TRANSIT CENTER	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland
-2018-11-02 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland
-2018-11-03 Sat	255 255 - Brickyard P&R Kirkland	255 Route: 255 E/B	255 255 - Downtown Seattle Kirkland	255 Route: 255 W/B	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 Route: 255 E/B	255 255 - Brickyard P&R Kirkland
-2018-11-05 Mon	257 Route: 257 W/B	257 257 - Downtown Seattle	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
-2018-11-06 Tue	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
-2018-11-07 Wed	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland

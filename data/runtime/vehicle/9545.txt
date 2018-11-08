@@ -26,9 +26,3 @@
 2018-10-25 Thu	522 522 - Downtown Seattle	556 556 - Issaquah	555 555 - Northgate
 2018-10-26 Fri	540 540 - University District	540 540 - Kirkland	540 540   UNIVERSITY DISTRICT EXPRESS	522 522 - Downtown Seattle	545 545   REDMOND EXPRESS
 2018-10-29 Mon	522 522   DOWNTOWN SEATTLE EXPRESS	522 522 - Woodinville	522 522 - Bothell
-2018-10-30 Tue	545 545 - Downtown Seattle	522 522   WOODINVILLE EXPRESS
-2018-10-31 Wed	522 522 - Downtown Seattle	545 545 - Downtown Seattle	545 545 - Redmond
-2018-11-01 Thu	556 556   NORTHGATE EXPRESS	555 555   BELLEVUE TRANSIT CENTER EXPRESS	522 522 - Bothell
-2018-11-02 Fri	522 522 - Downtown Seattle
-2018-11-05 Mon	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520	311 Route: 311 E/B	311 311 - Woodinville Via SR-520
-2018-11-07 Wed	219 219 - Redmond Issaquah Highlands Park & Ride

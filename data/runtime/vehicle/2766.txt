@@ -36,11 +36,3 @@
 2018-10-26 Fri	5 5 - Downtown Seattle - Express	57 57 - Alaska Junction Via SR-99	21 21   ARBOR HEIGHTS EXPRESS
 2018-10-27 Sat	5 5   SHORELINE	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW	5 5   SHORELINE	21 21   DOWNTOWN SEATTLE	5 5   SHORELINE	5 5   DOWNTOWN SEATTLE	21 21   WESTWOOD VILLAGE	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
 2018-10-29 Mon	309 309 - First Hill Express	214 214   ISSAQUAH TRANSIT CENTER
-2018-10-30 Tue	988 988 - Haller Lake Special	56 56 - Alki Via SR-99
-2018-10-31 Wed	57 57   DOWNTOWN SEATTLE	18 18 - Downtown Seattle	214 214 - Issaquah
-2018-11-01 Thu	214 214   DOWNTOWN SEATTLE	18 18   DOWNTOWN SEATTLE EXPRESS	77 77 - North City Maple Leaf
-2018-11-02 Fri	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
-2018-11-03 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 S/B	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 S/B	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 N/B	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 Route: 49 S/B	49 49 - Downtown Seattle Broadway
-2018-11-05 Mon	17 17 - Downtown Seattle	15 15 - Downtown Seattle
-2018-11-06 Tue	40 40 - Downtown Seattle Fremont	17 17 - Sunset Hill
-2018-11-07 Wed	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	57 57 - Alaska Junction Via SR-99

@@ -32,11 +32,3 @@
 2018-10-24 Wed	214 214   DOWNTOWN SEATTLE
 2018-10-26 Fri	18 18 - Downtown Seattle	113 113 - Shorewood White Center	113 113 - White Center Shuttle	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21   WESTWOOD VILLAGE	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW
 2018-10-29 Mon	21 21   TO DOWNTOWN SEATTLE EXPRESS	15 15 - Downtown Seattle	56 56 - Alki Via SR-99
-2018-10-30 Tue	56 56   DOWNTOWN SEATTLE	15 15 - Downtown Seattle
-2018-10-31 Wed	309 309 - First Hill Express	57 57 - Alaska Junction Via SR-99
-2018-11-01 Thu	21 21   TO DOWNTOWN SEATTLE EXPRESS	56 56 - Alki Via SR-99
-2018-11-02 Fri	21 21 - Westwood Village Via 35th Ave SW	21 21   TO DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah
-2018-11-03 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 N/B	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 N/B	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 S/B	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 Route: 7 N/B	49 49 - University District Broadway	49 Route: 49 S/B	49 49 - Broadway
-2018-11-05 Mon	214 Route: 214 W/B	214 214 - Downtown Seattle	77 77 - North City Maple Leaf	77 Route: 77 N/B
-2018-11-06 Tue	17 17 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
-2018-11-07 Wed	21 21 - Downtown Seattle - Express	21 21   ARBOR HEIGHTS EXPRESS	17 17 - Sunset Hill

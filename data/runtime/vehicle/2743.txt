@@ -18,9 +18,3 @@
 2018-10-10 Wed	355 355 - Downtown Seattle	372 372 - UW Bothell/Cascadia College Kenmore
 2018-10-11 Thu	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
 2018-10-12 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
-2018-10-31 Wed	372 372 - University District Lake City	74 74 - Downtown Seattle
-2018-11-01 Thu	301 301   DOWNTOWN SEATTLE EXPRESS	75 75   UNIVERSITY DISTRICT	32 32   SEATTLE CENTER	75 75   NORTHGATE	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32   UNIVERSITY DISTRICT	75 75 - Northgate Lake City	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	75 75 - Northgate Lake City	75 75 - University District Lake City	32 32 - Seattle Center Fremont	32 32 - University District Fremont	75 75 - Northgate Lake City
-2018-11-02 Fri	301 301 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	312 312   KENMORE EXPRESS
-2018-11-05 Mon	372 372 - University District Lake City	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
-2018-11-06 Tue	41 41 - Downtown Seattle	312 312 - Kenmore
-2018-11-07 Wed	301 301 - Downtown Seattle - Express	301 301   AURORA VILLAGE EXPRESS	301 301 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express

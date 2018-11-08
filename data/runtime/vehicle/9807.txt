@@ -30,6 +30,3 @@
 2018-10-25 Thu	556 556 - Northgate	555 555 - Bellevue Transit Center	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
 2018-10-26 Fri	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542   GREEN LAKE P&R EXPRESS	542 542   REDMOND EXPRESS	542 542   UNIVERSITY DISTRICT EXPRESS	542 542 - Redmond	542 542   UNIVERSITY DISTRICT EXPRESS	542 542 - Redmond	542 542   UNIVERSITY DISTRICT EXPRESS	542 542 - Redmond	542 542   GREEN LAKE P&R EXPRESS
 2018-10-29 Mon	555 555 - Issaquah	554 554 - Downtown Seattle	541 541   OVERLAKE EXPRESS	541 541 - University District University Of Washington Station	541 541 - Overlake
-2018-10-30 Tue	555 555 - Issaquah	554 554 - Downtown Seattle	522 522 - Bothell
-2018-11-05 Mon	541 541 - University District University Of Washington Station	541 Route: 541 W/B	541 541 - Overlake
-2018-11-07 Wed	252 252 - Kingsgate Via SR-520
