@@ -20,3 +20,8 @@
 2018-10-25 Thu	590 590 - Commerce - Tac Dome
 2018-10-26 Fri	596 596 - Sounder Connector-Sumner Stat
 2018-10-29 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
+2018-10-30 Tue	596 596 - Sounder Connector-Sumner Stat	567 567 - Kent St Via Renton
+2018-11-02 Fri	592 592 - Seattle -  Express	590 590 - Commerce - Tac Dome
+2018-11-05 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
+2018-11-06 Tue	567 567 - Kent St Via Renton
+2018-11-07 Wed	596 596 - Sounder Connector-Sumner Stat	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome

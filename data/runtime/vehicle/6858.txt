@@ -36,3 +36,8 @@
 2018-10-26 Fri	179 179 - Downtown Seattle Federal Way Transit Center	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	150 150 - Kent Southcenter
 2018-10-28 Sun	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150   KENT	180 180 - Auburn Station	150 150   KENT	180 180 - Seattle Tacoma International Airport Kent Station
 2018-10-29 Mon	180 180   SEATTLE TACOMA INTERNATIONAL AIRPORT	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-10-30 Tue	101 101   DOWNTOWN SEATTLE	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-10-31 Wed	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150   DOWNTOWN SEATTLE	150 150   KENT	150 150 - Downtown Seattle Southcenter	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R
+2018-11-01 Thu	158 158   DOWNTOWN SEATTLE	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-02 Fri	159 159 - Downtown Seattle Via I-5	101 101 - S Renton P&R
+2018-11-05 Mon	159 159 - Downtown Seattle Via I-5	159 Route: 159 N/B	159 159 - Downtown Seattle Via I-5	177 177 - Downtown Seattle Via I-5	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center	179 Route: 179 S/B

@@ -29,3 +29,10 @@
 2018-10-25 Thu	218 218 - Downtown Seattle
 2018-10-26 Fri	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	212 212 - Eastgate P&R
 2018-10-29 Mon	218 218 - Downtown Seattle
+2018-10-30 Tue	212 212   DOWNTOWN SEATTLE	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-10-31 Wed	212 212 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218   ISSAQUAH HIGHLANDS	217 217 - Downtown Seattle Eastgate	212 212   EASTGATE P&R
+2018-11-01 Thu	252 252 - Kingsgate Via SR-520	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-02 Fri	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-11-05 Mon	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	218 Route: 218 W/B	218 218 - Issaquah Highlands	218 Route: 218 E/B	252 252 - Kingsgate Via SR-520	252 Route: 252 E/B	672 Route: 672 W/B	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 Route: 672 E/B	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 Route: 672 W/B	672 672 - Redmond Transit Center Overlake
+2018-11-06 Tue	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	252 252 - Kingsgate Via SR-520
+2018-11-07 Wed	218 218 - Downtown Seattle	212 212 - Eastgate P&R

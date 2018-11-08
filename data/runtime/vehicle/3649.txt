@@ -28,3 +28,4 @@
 2018-10-22 Mon	24 24 - Downtown Seattle	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
 2018-10-23 Tue	308 308 - Horizon View
 2018-10-24 Wed	19 19 - Downtown Seattle	63 63 - First Hill South Lake Union
+2018-11-07 Wed	19 19 - West Magnolia

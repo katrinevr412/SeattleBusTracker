@@ -25,3 +25,10 @@
 2018-10-25 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	179 179 - Twin Lakes P&R Federal Way Transit Center
 2018-10-26 Fri	190 190 - Downtown Seattle Star Lake P&R	192 192 - Star Lake Military Road	143 143   BLACK DIAMOND EXPRESS
 2018-10-29 Mon	111 111 - Downtown Seattle	190 190   REDONDO HEIGHTS P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-10-30 Tue	952 952 - Everett Special	952 952 - Kennydale Via I-405
+2018-10-31 Wed	179 179 - Downtown Seattle Federal Way Transit Center	952 952 - Auburn Special
+2018-11-01 Thu	158 158   DOWNTOWN SEATTLE	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-02 Fri	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-05 Mon	192 192 - Seattle Military Road	143 143 - Black Diamond Renton - Express	143 Route: 143 S/B	143 143 - Renton
+2018-11-06 Tue	179 179 - Downtown Seattle Federal Way Transit Center	952 952 - Kennydale Via I-405
+2018-11-07 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	179 179   TWIN LAKES P&R

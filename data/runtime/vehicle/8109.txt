@@ -28,3 +28,10 @@
 2018-10-25 Thu	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	952 952 - Auburn Special
 2018-10-26 Fri	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-10-29 Mon	190 190 - Downtown Seattle Star Lake P&R	143 143   BLACK DIAMOND EXPRESS
+2018-10-30 Tue	157 157 - Downtown Seattle East Hill	952 952 - Auburn Special
+2018-10-31 Wed	190 190 - Downtown Seattle Star Lake P&R	111 111 - Lake Kathleen Via I-90
+2018-11-01 Thu	111 111   DOWNTOWN SEATTLE	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express
+2018-11-02 Fri	178 178 - Downtown Seattle Federal Way Park and Ride	143 143 - Black Diamond Renton - Express
+2018-11-05 Mon	193 193 - First Hill Express	179 179 - Twin Lakes P&R Federal Way Transit Center	111 Route: 111 S/B	111 111 - Lake Kathleen Via I-90	111 Route: 111 S/B
+2018-11-06 Tue	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-07 Wed	179 179 - Downtown Seattle Federal Way Transit Center	197 197   TWIN LAKES P&R

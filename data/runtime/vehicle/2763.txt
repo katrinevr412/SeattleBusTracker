@@ -29,3 +29,12 @@
 2018-10-25 Thu	114 114 - Renton Highlands
 2018-10-26 Fri	56 56   DOWNTOWN SEATTLE	5 5 - Downtown Seattle - Express	56 56 - Alki Via SR-99	56 56   ALKI	56 56 - Alki Via SR-99	57 57   ALASKA JUNCTION
 2018-10-29 Mon	55 55   DOWNTOWN SEATTLE	77 77   NORTH CITY EXPRESS
+2018-10-30 Tue	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont
+2018-10-31 Wed	21 21 - Arbor Heights - Express
+2018-11-01 Thu	77 77   DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-02 Fri	40 40 - Downtown Seattle Fremont	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-11-03 Sat	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 N/B	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard
+2018-11-04 Sun	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 Route: 5 N/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	5 Route: 5 N/B	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B
+2018-11-05 Mon	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont
+2018-11-06 Tue	56 56 - Downtown Seattle Via SR-99	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-11-07 Wed	988 988 - Haller Lake Special	309 309   KENMORE P&R EXPRESS

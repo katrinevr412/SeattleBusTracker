@@ -31,3 +31,11 @@
 2018-10-25 Thu	15 15 - Downtown Seattle	56 56   DOWNTOWN SEATTLE	56 56 - Alki Via SR-99
 2018-10-26 Fri	214 214 - Downtown Seattle	214 214 - Issaquah
 2018-10-29 Mon	56 56   DOWNTOWN SEATTLE	5 5 - Downtown Seattle - Express	18 18 - North Beach
+2018-10-31 Wed	21 21   TO DOWNTOWN SEATTLE EXPRESS	56 56 - Alki Via SR-99
+2018-11-01 Thu	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   DOWNTOWN SEATTLE	18 18   DOWNTOWN SEATTLE EXPRESS	57 57 - Alaska Junction Via SR-99	21 21 - Arbor Heights - Express
+2018-11-02 Fri	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction	77 77 - North City Maple Leaf
+2018-11-03 Sat	43 43 - To Route 43 Via Broadway	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 Route: 44 N/B	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
+2018-11-04 Sun	49 49 - To Route 49 Via Broadway	49 49 - Downtown Seattle Broadway	49 Route: 49 S/B	49 49 - University District Broadway	49 Route: 49 N/B	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 Route: 49 S/B	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 Route: 49 S/B	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	7 Route: 7 N/B	7 7 - Rainier Beach Via Rainier Ave S	7 Route: 7 N/B	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - S Jackson St	7 Route: 7 N/B
+2018-11-05 Mon	57 57 - Downtown Seattle Via SR-99	18 18 - Downtown Seattle	214 214 - Issaquah
+2018-11-06 Tue	18 18 - Downtown Seattle	21 21 - Downtown Seattle - Express	21 21 - Arbor Heights - Express
+2018-11-07 Wed	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle

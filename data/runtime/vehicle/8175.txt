@@ -29,3 +29,10 @@
 2018-10-25 Thu	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	889 889 - Bridle Trails Sammamish HS	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-10-26 Fri	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217   DOWNTOWN SEATTLE
 2018-10-29 Mon	989 989 - Haller Lake Special	218 218   ISSAQUAH HIGHLANDS	217 217 - Downtown Seattle Eastgate
+2018-10-30 Tue	252 252 - Downtown Seattle Via SR-520	889 889 - Bridle Trails Sammamish HS	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-31 Wed	268 268 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219   REDMOND
+2018-11-01 Thu	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER	672 RAPIDRIDE B LINE TO BELLEVUE TRANSIT CENTER	672 RAPIDRIDE B LINE TO REDMOND TRANSIT CENTER	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads
+2018-11-02 Fri	212 212   DOWNTOWN SEATTLE	311 311 - Woodinville Via SR-520
+2018-11-05 Mon	252 252 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	218 Route: 218 W/B	893 893 - Forbes Creek	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	216 Route: 216 E/B
+2018-11-06 Tue	212 212 - Downtown Seattle	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2018-11-07 Wed	212 212 - Downtown Seattle	894 894 - Mercer Village Shopping Center Island Crest Way	311 311   WOODINVILLE

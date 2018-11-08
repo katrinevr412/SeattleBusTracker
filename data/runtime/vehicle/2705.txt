@@ -36,3 +36,10 @@
 2018-10-26 Fri	113 113   DOWNTOWN SEATTLE	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge	21 21 - Arbor Heights - Express
 2018-10-27 Sat	40 40   NORTHGATE	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-10-29 Mon	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-10-30 Tue	77 77   DOWNTOWN SEATTLE EXPRESS
+2018-10-31 Wed	56 56   DOWNTOWN SEATTLE	5 5 - Downtown Seattle - Express	40 40 - Northgate Fremont
+2018-11-01 Thu	55 55   DOWNTOWN SEATTLE	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-11-02 Fri	994 994 - Haller Lake Special	15 15   DOWNTOWN SEATTLE EXPRESS	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-05 Mon	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	113 113 - Shorewood White Center	113 113 - White Center Shuttle	21 Route: 21 N/B	5 5 - Shoreline Greenwood	5 Route: 5 N/B	5 5 - Downtown Seattle Greenwood	21 Route: 21 S/B	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 Route: 21 S/B
+2018-11-06 Tue	214 214 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-07 Wed	21 21 - Downtown Seattle - Express	214 214 - Issaquah Transit Center Transit Center Only

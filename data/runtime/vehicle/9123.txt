@@ -20,3 +20,11 @@
 2018-10-25 Thu	592 592 - Seattle -  Express	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
 2018-10-26 Fri	590 590 - Seattle	566 566 - Kent Station
 2018-10-29 Mon	590 590 - Seattle	594 594 - Lakewood -  Tacoma	566 566 - Auburn Stn Via Renton
+2018-10-30 Tue	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	590 590 - Tac Dome	590 590 - Seattle
+2018-10-31 Wed	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-11-01 Thu	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-11-02 Fri	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-11-03 Sat	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
+2018-11-05 Mon	586 586 - U District -  Express	567 567 - Kent St Via Renton
+2018-11-06 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton
+2018-11-07 Wed	592 592 - Seattle -  Express	590 590 - Seattle	566 566 - Kent Station

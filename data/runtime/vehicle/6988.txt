@@ -29,3 +29,10 @@
 2018-10-25 Thu	311 311 - Downtown Seattle Via SR-520	218 218 - Issaquah Highlands
 2018-10-26 Fri	268 268 - Downtown Seattle Via SR-520	218 218 - Issaquah Highlands
 2018-10-29 Mon	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	257 257   KINGSGATE	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-10-30 Tue	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-10-31 Wed	311 311 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle Kirkland	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255   DOWNTOWN SEATTLE
+2018-11-01 Thu	252 252   DOWNTOWN SEATTLE	255 255 - Totem Lake Transit Center Kirkland
+2018-11-02 Fri	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Brickyard P&R Kirkland
+2018-11-05 Mon	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 Route: 255 W/B	255 255 - Downtown Seattle Kirkland	255 Route: 255 W/B	255 255 - Brickyard P&R Kirkland	255 Route: 255 E/B
+2018-11-06 Tue	895 895 - Lake Washington High School	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
+2018-11-07 Wed	895 895 - Lake Washington High School	255 255 - Downtown Seattle	257 257   KINGSGATE

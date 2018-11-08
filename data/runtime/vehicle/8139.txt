@@ -29,3 +29,10 @@
 2018-10-25 Thu	157 157 - Downtown Seattle East Hill	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-10-26 Fri	111 111 - Downtown Seattle	116 116 - Downtown Seattle	116 116 - Fauntleroy	159 159   TIMBERLANE
 2018-10-29 Mon	952 952 - Everett Special	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
+2018-10-30 Tue	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	190 190   REDONDO HEIGHTS P&R
+2018-10-31 Wed	197 197 - University District Federal Way Transit Center	178 178   S FEDERAL WAY	177 177   FEDERAL WAY
+2018-11-01 Thu	177 177   DOWNTOWN SEATTLE	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-02 Fri	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	111 111   LAKE KATHLEEN
+2018-11-05 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	143 143 - Black Diamond Renton - Express	143 Route: 143 S/B	143 143 - Black Diamond Renton - Express
+2018-11-06 Tue	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	952 952 - Auburn Special
+2018-11-07 Wed	111 111 - Downtown Seattle	158 158   KENT

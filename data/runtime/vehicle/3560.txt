@@ -29,3 +29,10 @@
 2018-10-25 Thu	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
 2018-10-26 Fri	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245   KIRKLAND	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245   KIRKLAND
 2018-10-29 Mon	240 240 - Renton	240 240 - Bellevue Transit Center	245 245   KIRKLAND	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-10-30 Tue	342 342   BELLEVUE	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245   KIRKLAND	245 245 - Factoria Crossroads	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-10-31 Wed	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271   UNIVERSITY DISTRICT	271 271   EASTGATE P&R	271 271 - University District Bellevue	271 271   EASTGATE P&R	271 271 - University District Bellevue	271 271   EASTGATE P&R
+2018-11-01 Thu	269 269   ISSAQUAH TRANSIT CENTER	269 269   OVERLAKE	269 269   ISSAQUAH TRANSIT CENTER	269 269   OVERLAKE	269 269   ISSAQUAH TRANSIT CENTER	269 269 - Overlake	269 269   ISSAQUAH TRANSIT CENTER	269 269 - Overlake	269 269 - Issaquah Transit Center
+2018-11-02 Fri	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	342 342 - Shoreline P&R Bellevue
+2018-11-05 Mon	244 244 - Kenmore Kingsgate P&R	244 Route: 244 N/B	243 243 - Overlake Transit Center	243 Route: 243 S/B
+2018-11-06 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	245 245 - Kirkland Crossroads
+2018-11-07 Wed	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	277 277   JUANITA	244 244 - Kenmore Kingsgate P&R

@@ -24,3 +24,10 @@
 2018-10-25 Thu	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
 2018-10-26 Fri	590 590 - Commerce - Tac Dome
 2018-10-29 Mon	592 592 - Seattle -  Express	567 567 - Kent St Via Renton
+2018-10-30 Tue	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-10-31 Wed	567 567 - Kent St Via Renton	566 566 - Renton	567 567 - Kent St Via Renton
+2018-11-01 Thu	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-11-02 Fri	592 592 - Seattle -  Express	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-11-05 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-11-06 Tue	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-11-07 Wed	590 590 - Commerce - Tac Dome

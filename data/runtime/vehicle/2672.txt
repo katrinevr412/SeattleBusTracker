@@ -32,3 +32,11 @@
 2018-10-25 Thu	56 56   DOWNTOWN SEATTLE	15 15 - Downtown Seattle	18 18 - North Beach	55 55 - Admiral District Alaska Junction
 2018-10-26 Fri	15 15 - Downtown Seattle	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE
 2018-10-29 Mon	114 114   DOWNTOWN SEATTLE	5 5 - Downtown Seattle - Express	309 309   KENMORE P&R EXPRESS
+2018-10-30 Tue	77 77 - Downtown Seattle Maple Leaf	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-10-31 Wed	55 55   DOWNTOWN SEATTLE	21 21 - Arbor Heights - Express
+2018-11-01 Thu	309 309   FIRST HILL EXPRESS	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
+2018-11-02 Fri	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	57 57 - Alaska Junction Via SR-99
+2018-11-03 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 Route: 120 N/B	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-05 Mon	56 Route: 56 N/B	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express
+2018-11-06 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	988 988 - Central District Madrona	18 18 - North Beach
+2018-11-07 Wed	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	21 21 - Arbor Heights - Express

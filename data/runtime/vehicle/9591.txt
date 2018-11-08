@@ -30,3 +30,10 @@
 2018-10-27 Sat	522 522   DOWNTOWN SEATTLE EXPRESS	522 522   WOODINVILLE EXPRESS	522 522   DOWNTOWN SEATTLE EXPRESS	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
 2018-10-28 Sun	522 522   DOWNTOWN SEATTLE EXPRESS	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
 2018-10-29 Mon	554 554 - Downtown Seattle	554 554 - Issaquah	556 556 - Northgate	522 522   WOODINVILLE EXPRESS	522 522 - Downtown Seattle
+2018-10-30 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545   REDMOND EXPRESS
+2018-10-31 Wed	556 556 - Northgate	555 555   BELLEVUE TRANSIT CENTER EXPRESS	555 555   NORTHGATE EXPRESS	556 556   ISSAQUAH EXPRESS
+2018-11-01 Thu	545 545   DOWNTOWN SEATTLE EXPRESS	545 545   REDMOND EXPRESS	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2018-11-02 Fri	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545   REDMOND EXPRESS	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-05 Mon	540 540 - University District	540 540 - Kirkland	540 540 - University District	522 522 - Woodinville	522 Route: 522 N/B
+2018-11-06 Tue	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-07 Wed	540 540 - University District	540 540 - Kirkland	540 540 - University District	556 556 - Issaquah	555 555   NORTHGATE EXPRESS	556 556 - Issaquah

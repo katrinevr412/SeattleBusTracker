@@ -29,3 +29,10 @@
 2018-10-25 Thu	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
 2018-10-26 Fri	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
 2018-10-29 Mon	232 232   BELLEVUE	232 232 - Redmond	271 271   ISSAQUAH TRANSIT CENTER	271 271 - University District Bellevue
+2018-10-30 Tue	269 269   OVERLAKE	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269   OVERLAKE	269 269   ISSAQUAH TRANSIT CENTER	269 269 - Overlake	269 269 - Issaquah Transit Center
+2018-10-31 Wed	221 221 - Education Hill	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271   UNIVERSITY DISTRICT	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271   UNIVERSITY DISTRICT	271 271 - Eastgate P&R Bellevue
+2018-11-01 Thu	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	271 271   UNIVERSITY DISTRICT	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271   ISSAQUAH TRANSIT CENTER	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-02 Fri	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-05 Mon	894 894 - Mercer Island HS Island Crest Way	342 Route: 342 N/B	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-11-06 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-11-07 Wed	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271   EASTGATE P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue	271 271 - University District Bellevue

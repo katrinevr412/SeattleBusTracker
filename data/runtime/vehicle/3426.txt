@@ -29,3 +29,8 @@
 2018-10-25 Thu	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	237 237 - Woodinville Via I-405
 2018-10-26 Fri	232 232 - Bellevue Redmond	221 221   EASTGATE P&R	221 221 - Education Hill
 2018-10-29 Mon	237 237   BELLEVUE	271 271 - University District Bellevue	245 245   FACTORIA
+2018-10-30 Tue	271 271   ISSAQUAH TRANSIT CENTER	271 271   UNIVERSITY DISTRICT	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-10-31 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	277 277 - Juanita Houghton P&R
+2018-11-05 Mon	245 245 - Kirkland Crossroads	245 Route: 245 S/B	245 245 - Factoria Crossroads	245 Route: 245 S/B	277 277 - Juanita Houghton P&R	277 Route: 277 E/B	277 277 - Juanita Houghton P&R
+2018-11-06 Tue	208 208 - North Bend Snoqualmie Ridge	208 208 - Issaquah Snoqualmie Ridge	208 208 - North Bend Snoqualmie Ridge	208 208 - Issaquah Snoqualmie Ridge	208 208 - North Bend Snoqualmie Ridge	208 208 - Issaquah Snoqualmie Ridge	208 208 - North Bend Snoqualmie Ridge	208 208 - Issaquah Snoqualmie Ridge	208 208 - North Bend Snoqualmie Ridge	208 208 - Issaquah Snoqualmie Ridge	208 208 - North Bend Snoqualmie Ridge
+2018-11-07 Wed	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue

@@ -1,0 +1,4 @@
+2018-11-02 Fri	232 232 - Bellevue Via SR-520	232 232   DUVALL
+2018-11-05 Mon	271 271 - Eastgate Bellevue
+2018-11-06 Tue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-07 Wed	887 887 - International School	271 271 - University District Bellevue	271 271 - Issaquah Bellevue

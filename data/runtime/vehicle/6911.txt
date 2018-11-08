@@ -28,3 +28,10 @@
 2018-10-23 Tue	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	301 301 - Aurora Village Shoreline P&R - Express
 2018-10-24 Wed	301 301 - Downtown Seattle - Express	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna
 2018-10-29 Mon	373 373   UNIVERSITY DISTRICT EXPRESS	373 373 - Aurora Village Jackson Park
+2018-10-30 Tue	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-10-31 Wed	355 355 - Downtown Seattle	301 301   AURORA VILLAGE EXPRESS
+2018-11-01 Thu	301 301   DOWNTOWN SEATTLE EXPRESS	41 41 - Northgate Northeast 125th Only
+2018-11-02 Fri	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	355 355 - Shoreline CC
+2018-11-05 Mon	342 342 - Renton Bellevue	342 Route: 342 S/B	167 167 - University District Via SR-520	41 41 - Downtown Seattle Northgate	41 Route: 41 N/B	41 41 - Northgate Northeast 125th Only	301 301 - Aurora Village Shoreline P&R - Express
+2018-11-06 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-11-07 Wed	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park

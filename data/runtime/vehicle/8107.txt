@@ -28,3 +28,10 @@
 2018-10-25 Thu	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
 2018-10-26 Fri	197 197 - University District Federal Way Transit Center	952 952 - Auburn Special
 2018-10-29 Mon	179 179 - Downtown Seattle Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-10-30 Tue	178 178   DOWNTOWN SEATTLE	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-10-31 Wed	197 197 - University District Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-01 Thu	178 178   DOWNTOWN SEATTLE	193 193 - Federal Way Express
+2018-11-02 Fri	143 143 - Downtown Seattle Renton - Express	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express
+2018-11-05 Mon	111 111 - Downtown Seattle	111 Route: 111 N/B	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	178 178 - S Federal Way Federal Way Park and Ride	178 Route: 178 S/B	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-06 Tue	111 111 - Downtown Seattle	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-07 Wed	193 193 - First Hill Express	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5

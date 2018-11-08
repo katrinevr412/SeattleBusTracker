@@ -1,1 +1,4 @@
 2018-10-29 Mon	214 214   DOWNTOWN SEATTLE	15 15 - Downtown Seattle
+2018-11-05 Mon	77 77 - North City Maple Leaf
+2018-11-06 Tue	5 5 - Downtown Seattle - Express
+2018-11-07 Wed	18 18 - Downtown Seattle	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Crown Hill Only Fremont

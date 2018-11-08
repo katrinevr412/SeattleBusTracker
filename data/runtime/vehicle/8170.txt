@@ -27,3 +27,10 @@
 2018-10-25 Thu	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle
 2018-10-26 Fri	257 257 - Downtown Seattle	891 891 - W Mercer Island	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
 2018-10-29 Mon	311 311 - Downtown Seattle Via SR-520	218 218   DOWNTOWN SEATTLE	218 218   ISSAQUAH HIGHLANDS	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-10-30 Tue	219 219   DOWNTOWN SEATTLE
+2018-10-31 Wed	218 218 - Downtown Seattle	892 892 - N Mercer Island	268 268 - Bear Creek P&R Via SR-520
+2018-11-01 Thu	257 257   DOWNTOWN SEATTLE	311 311   DOWNTOWN SEATTLE	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-11-02 Fri	823 823 - Cougar Mountain Newport HS	257 257 - Kingsgate
+2018-11-05 Mon	268 268 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520
+2018-11-06 Tue	892 892 - Mercer Island HS	218 218 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
