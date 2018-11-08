@@ -27,3 +27,10 @@
 2018-10-25 Thu	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Brickyard P&R Kirkland
 2018-10-26 Fri	219 219 - Downtown Seattle Eastgate	252 252 - Kingsgate Via SR-520
 2018-10-29 Mon	255 255   DOWNTOWN SEATTLE	255 255   BRICKYARD P&R	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland
+2018-10-30 Tue	311 311   DOWNTOWN SEATTLE	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255   DOWNTOWN SEATTLE	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland
+2018-10-31 Wed	824 824 - Newcastle Newport HS	212 212 - Eastgate P&R	257 257   KINGSGATE
+2018-11-01 Thu	219 219   DOWNTOWN SEATTLE	255 255   DOWNTOWN SEATTLE	252 252 - Kingsgate Via SR-520
+2018-11-02 Fri	252 252 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	311 311 - Woodinville Via SR-520
+2018-11-05 Mon	311 311 - Downtown Seattle Via SR-520	268 268 - Bear Creek P&R Via SR-520
+2018-11-06 Tue	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-11-07 Wed	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	257 257 - Kingsgate

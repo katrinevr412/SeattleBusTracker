@@ -33,3 +33,11 @@
 2018-10-27 Sat	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
 2018-10-28 Sun	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
 2018-10-29 Mon	P63 63 - Downtown Tacoma	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-10-30 Tue	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-10-31 Wed	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2018-11-01 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P63 63 - NE Tacoma Downtown
+2018-11-02 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-11-04 Sun	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC
+2018-11-05 Mon	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P102 102 - Gig Harbor - Express-Purdy
+2018-11-06 Tue	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P63 63 - NE Tacoma Downtown
+2018-11-07 Wed	P63 63 - Downtown Tacoma	P102 102 - Gig Harbor - Express-Purdy

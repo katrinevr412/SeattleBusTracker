@@ -5,3 +5,11 @@
 2018-10-25 Thu	550 550 - Seattle	522 522 - Downtown Seattle
 2018-10-26 Fri	550 550 - Seattle	522 522 - Downtown Seattle	522 522   WOODINVILLE EXPRESS
 2018-10-29 Mon	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545   REDMOND EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545   REDMOND EXPRESS	545 545 - Downtown Seattle	545 545 - Redmond
+2018-10-30 Tue	550 550 - Seattle	522 522 - Woodinville	545 545 - Redmond	545 545 - Downtown Seattle	522 522   WOODINVILLE EXPRESS
+2018-10-31 Wed	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	554 554   ISSAQUAH EXPRESS	554 554   DOWNTOWN SEATTLE EXPRESS
+2018-11-01 Thu	550 550   SEATTLE EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS
+2018-11-02 Fri	550 550 - Seattle	522 522   DOWNTOWN SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS
+2018-11-03 Sat	554 554 - Issaquah	554 554 - Downtown Seattle	550 Route: 550 E/B	550 550 - Bellevue	550 Route: 550 W/B	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 Route: 550 E/B	550 550 - Bellevue	550 550 - Seattle	550 Route: 550 W/B	550 550 - Bellevue	550 550 - Seattle
+2018-11-05 Mon	550 550 - Seattle	545 545 - Downtown Seattle	550 550 - Bellevue	550 Route: 550 E/B
+2018-11-06 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-07 Wed	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond

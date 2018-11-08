@@ -28,3 +28,10 @@
 2018-10-25 Thu	179 179 - Downtown Seattle Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
 2018-10-26 Fri	143 143 - Downtown Seattle Renton - Express	116 116 - Fauntleroy
 2018-10-29 Mon	197 197 - University District Federal Way Transit Center	158 158   KENT
+2018-10-30 Tue	197 197 - University District Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-10-31 Wed	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
+2018-11-01 Thu	111 111   DOWNTOWN SEATTLE	111 111 - Lake Kathleen Via I-90
+2018-11-02 Fri	111 111 - Downtown Seattle	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-05 Mon	111 111 - Downtown Seattle	111 Route: 111 N/B	111 111 - Downtown Seattle	111 Route: 111 N/B	111 111 - Lake Kathleen Via I-90
+2018-11-06 Tue	157 157 - Downtown Seattle East Hill	197 197 - Twin Lakes P&R Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-11-07 Wed	197 197 - University District Federal Way Transit Center	197 197 - Twin Lakes P&R Federal Way Transit Center

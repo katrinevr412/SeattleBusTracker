@@ -28,3 +28,10 @@
 2018-10-25 Thu	212 212 - Downtown Seattle	218 218 - Downtown Seattle	212 212 - Eastgate P&R
 2018-10-26 Fri	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	268 268   BEAR CREEK P&R
 2018-10-29 Mon	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-30 Tue	218 218   DOWNTOWN SEATTLE	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	212 212   EASTGATE P&R	252 252 - Kingsgate Via SR-520
+2018-10-31 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	218 218 - Issaquah Highlands
+2018-11-01 Thu	218 218   DOWNTOWN SEATTLE	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-02 Fri	311 311 - Downtown Seattle Via SR-520	212 212   DOWNTOWN SEATTLE	824 824 - Newcastle Newport HS	311 311 - Woodinville Via SR-520
+2018-11-05 Mon	218 218 - Downtown Seattle	218 Route: 218 W/B	887 887 - Newport Hills Newport HS	257 257 - Kingsgate	257 Route: 257 E/B
+2018-11-06 Tue	888 888 - International School Interlake HS	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-07 Wed	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R

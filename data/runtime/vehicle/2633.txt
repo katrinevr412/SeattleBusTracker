@@ -29,3 +29,5 @@
 2018-10-25 Thu	301 301 - Downtown Seattle - Express	312 312 - Bothell
 2018-10-26 Fri	312 312 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express	301 301   DOWNTOWN SEATTLE	301 301 - Aurora Village Shoreline P&R - Express
 2018-10-29 Mon	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2018-10-30 Tue	355 355   DOWNTOWN SEATTLE EXPRESS	316 316 - Downtown Seattle Green Lake	316 316 - Meridian Park Green Lake
+2018-10-31 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS

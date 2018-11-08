@@ -27,3 +27,8 @@
 2018-10-25 Thu	179 179 - Downtown Seattle Federal Way Transit Center	158 158 - Kent Via I-5
 2018-10-26 Fri	193 193 - First Hill Express	952 952 - Auburn Special
 2018-10-29 Mon	177 177 - Downtown Seattle Via I-5	116 116   FAUNTLEROY EXPRESS
+2018-10-30 Tue	197 197 - University District Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-31 Wed	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-01 Thu	193 193   FIRST HILL EXPRESS	193 193 - Federal Way Express
+2018-11-02 Fri	111 111 - Downtown Seattle	178 178   S FEDERAL WAY	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-05 Mon	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5	178 Route: 178 S/B	178 178 - S Federal Way Federal Way Park and Ride

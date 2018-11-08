@@ -27,3 +27,10 @@
 2018-10-25 Thu	197 197 - University District Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
 2018-10-26 Fri	952 952 - Everett Special	177 177 - Federal Way, 320th P&R Via I-5	178 178   S FEDERAL WAY
 2018-10-29 Mon	197 197 - University District Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-10-30 Tue	179 179 - Downtown Seattle Federal Way Transit Center	177 177   FEDERAL WAY
+2018-10-31 Wed	143 143 - Downtown Seattle Renton - Express	197 197   TWIN LAKES P&R
+2018-11-01 Thu	193 193   FIRST HILL EXPRESS	193 193 - Federal Way Express
+2018-11-02 Fri	157 157 - Downtown Seattle East Hill	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-05 Mon	952 952 - Everett Special	181 181 - Auburn Station	197 Route: 197 S/B	197 197 - Twin Lakes P&R Federal Way Transit Center	197 Route: 197 S/B	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-06 Tue	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-07 Wed	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride

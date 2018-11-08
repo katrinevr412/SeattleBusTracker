@@ -10,3 +10,9 @@
 2018-10-25 Thu	886 886 - International School Bellevue HS
 2018-10-26 Fri	277 277 - Juanita Houghton P&R	232 232   BELLEVUE	232 232   DUVALL
 2018-10-29 Mon	277 277 - University District Houghton P&R	271 271   EASTGATE P&R
+2018-10-30 Tue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271   UNIVERSITY DISTRICT	277 277 - Juanita Houghton P&R
+2018-11-01 Thu	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-02 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-11-05 Mon	277 Route: 277 W/B	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	245 245 - Kirkland Crossroads	245 Route: 245 N/B	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 Route: 245 N/B	245 245 - Kirkland Crossroads
+2018-11-06 Tue	232 232 - Bellevue Redmond	232 232 - Redmond	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-11-07 Wed	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond

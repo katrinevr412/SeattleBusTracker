@@ -31,3 +31,10 @@
 2018-10-25 Thu	18 18 - Downtown Seattle	309 309 - Kenmore P&R Express
 2018-10-26 Fri	77 77 - Downtown Seattle Maple Leaf	214 214 - Issaquah Transit Center Transit Center Only
 2018-10-29 Mon	214 214   DOWNTOWN SEATTLE	214 214   ISSAQUAH	5 5 - Greenwood - Express
+2018-10-30 Tue	18 18 - Downtown Seattle	21 21   TO DOWNTOWN SEATTLE EXPRESS	18 18 - North Beach	56 56 - Alki Via SR-99
+2018-10-31 Wed	15 15 - Downtown Seattle	17 17   SUNSET HILL EXPRESS	55 55 - Admiral District Alaska Junction
+2018-11-01 Thu	5 5   DOWNTOWN SEATTLE EXPRESS	21 21 - Arbor Heights - Express
+2018-11-02 Fri	214 214 - Downtown Seattle	18 18 - Downtown Seattle	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-11-03 Sat	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard
+2018-11-04 Sun	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont
+2018-11-05 Mon	5 5 - Downtown Seattle - Express

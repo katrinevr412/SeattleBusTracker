@@ -29,3 +29,5 @@
 2018-10-24 Wed	550 550   BELLEVUE EXPRESS	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-10-25 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
 2018-10-26 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-11-06 Tue	554 554   DOWNTOWN SEATTLE EXPRESS	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah
+2018-11-07 Wed	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle

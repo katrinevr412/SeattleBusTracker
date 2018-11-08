@@ -32,3 +32,7 @@
 2018-10-26 Fri	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Bothell
 2018-10-27 Sat	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate
 2018-10-29 Mon	355 355   DOWNTOWN SEATTLE EXPRESS	41 41   DOWNTOWN SEATTLE	41 41   NORTHGATE	301 301 - Aurora Village Shoreline P&R - Express
+2018-10-30 Tue	355 355 - Shoreline CC
+2018-10-31 Wed	372 372 - University District Lake City	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY
+2018-11-01 Thu	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41   LAKE CITY	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-11-02 Fri	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	74 74 - Sand Point Ravenna

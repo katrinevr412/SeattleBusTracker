@@ -28,3 +28,10 @@
 2018-10-25 Thu	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
 2018-10-26 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219   REDMOND
 2018-10-29 Mon	257 257   DOWNTOWN SEATTLE	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-10-30 Tue	218 218 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-10-31 Wed	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	216 216   BEAR CREEK P&R	219 219   REDMOND
+2018-11-01 Thu	219 219   DOWNTOWN SEATTLE	216 216   DOWNTOWN SEATTLE	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
+2018-11-02 Fri	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219   REDMOND
+2018-11-05 Mon	216 216 - Downtown Seattle Eastgate	216 Route: 216 W/B	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride	219 Route: 219 E/B	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-06 Tue	982 982 - Haller Lake Special	257 257 - Kingsgate
+2018-11-07 Wed	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	218 218   ISSAQUAH HIGHLANDS	212 212 - Eastgate P&R

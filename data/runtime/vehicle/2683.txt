@@ -30,3 +30,12 @@
 2018-10-25 Thu	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express
 2018-10-26 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	17 17   SUNSET HILL EXPRESS
 2018-10-29 Mon	21 21   TO DOWNTOWN SEATTLE EXPRESS	77 77   NORTH CITY EXPRESS
+2018-10-30 Tue	5 5 - Downtown Seattle - Express	77 77   NORTH CITY EXPRESS
+2018-10-31 Wed	5 5 - Downtown Seattle Greenwood	21 21   WESTWOOD VILLAGE	21 21   DOWNTOWN SEATTLE	5 5 - Shoreline Greenwood	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW	21 21   DOWNTOWN SEATTLE	5 5   SHORELINE	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW	5 5   GREENWOOD EXPRESS
+2018-11-01 Thu	56 56   DOWNTOWN SEATTLE	309 309 - Kenmore P&R Express
+2018-11-02 Fri	57 57   DOWNTOWN SEATTLE	18 18 - Downtown Seattle	21 21 - Arbor Heights - Express
+2018-11-03 Sat	7 Route: 7 S/B	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 S/B	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 N/B	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 S/B	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 Route: 7 S/B	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 S/B	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 N/B	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S
+2018-11-04 Sun	7 7 - Rainier Beach Via Rainier Ave S	7 Route: 7 N/B	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 N/B	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 Route: 7 N/B	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 Route: 7 N/B
+2018-11-05 Mon	56 Route: 56 N/B	15 15 - Downtown Seattle	55 55 - Alaska Junction	18 18 - North Beach	18 Route: 18 N/B
+2018-11-06 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge	21 21 - Arbor Heights - Express
+2018-11-07 Wed	309 309 - First Hill Express	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction

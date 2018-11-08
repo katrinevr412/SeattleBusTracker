@@ -33,3 +33,10 @@
 2018-10-25 Thu	545 545 - Redmond	545 545 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
 2018-10-26 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue
 2018-10-29 Mon	550 550 - Seattle	550 550   BELLEVUE EXPRESS
+2018-10-30 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-10-31 Wed	550 550 - Bellevue
+2018-11-01 Thu	545 545   DOWNTOWN SEATTLE EXPRESS	545 545   REDMOND EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	545 545   REDMOND EXPRESS	545 545 - Downtown Seattle
+2018-11-02 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-05 Mon	545 545 - Downtown Seattle	545 Route: 545 W/B	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 Route: 545 E/B	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-06 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-07 Wed	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550 - Bellevue

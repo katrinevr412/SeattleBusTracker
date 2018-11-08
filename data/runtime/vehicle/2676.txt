@@ -29,3 +29,4 @@
 2018-10-22 Mon	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
 2018-10-23 Tue	214 214 - Downtown Seattle	18 18 - Downtown Seattle	15 15 - Blue Ridge
 2018-10-29 Mon	40 40 - Northgate Fremont
+2018-10-30 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge

@@ -21,3 +21,5 @@
 2018-10-20 Sat	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-10-21 Sun	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah
 2018-10-22 Mon	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-11-05 Mon	212 212 - Eastgate P&R	257 257 - Kingsgate	257 Route: 257 E/B
+2018-11-07 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond

@@ -28,3 +28,7 @@
 2018-10-25 Thu	111 111 - Downtown Seattle	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-10-26 Fri	193 193 - First Hill Express	190 190 - Downtown Seattle Star Lake P&R	193 193   FEDERAL WAY EXPRESS
 2018-10-29 Mon	178 178   DOWNTOWN SEATTLE	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-30 Tue	111 111   DOWNTOWN SEATTLE	178 178 - S Federal Way Federal Way Park and Ride
+2018-10-31 Wed	143 143 - Downtown Seattle Renton - Express	111 111 - Lake Kathleen Via I-90
+2018-11-01 Thu	178 178   DOWNTOWN SEATTLE	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-02 Fri	179 179 - Downtown Seattle Federal Way Transit Center	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 RAPIDRIDE A LINE TO TUKWILA LINK STATION	671 671 - Federal Way Transit Center International Boulevard

@@ -28,3 +28,4 @@
 2018-10-24 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
 2018-10-25 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
 2018-10-26 Fri	522 522 - Downtown Seattle
+2018-11-07 Wed	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	541 541 - Overlake	541 541   UNIVERSITY DISTRICT EXPRESS	541 541 - Overlake

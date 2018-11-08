@@ -33,3 +33,8 @@
 2018-10-27 Sat	4 4 - Seattle Pacific University Queen Anne	3 3   DOWNTOWN SEATTLE	4 4 - Downtown Seattle	3 3 - Downtown Seattle	4 4 - Downtown Seattle
 2018-10-28 Sun	2 2 - Downtown Seattle	13 13 - Seattle Pacific University Seattle Center W	13 13   DOWNTOWN SEATTLE	3 3   MADRONA AND 34TH AVE	3 3 - Downtown Seattle East Jefferson Street
 2018-10-29 Mon	122 122   HIGHLINE COLLEGE
+2018-10-30 Tue	9 9 - Broadway Express	63 63 - Northgate East Green Lake
+2018-10-31 Wed	62 62 - Downtown Seattle Fremont	24 24 - Magnolia
+2018-11-04 Sun	33 Route: 33 S/B	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 Route: 33 N/B	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 Route: 33 S/B	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 Route: 33 N/B	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia
+2018-11-05 Mon	26 Route: 26 S/B	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	63 63 - Northgate East Green Lake
+2018-11-06 Tue	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express

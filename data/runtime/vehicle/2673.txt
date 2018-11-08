@@ -31,3 +31,10 @@
 2018-10-25 Thu	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-10-26 Fri	309 309 - First Hill Express	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-10-29 Mon	77 77   DOWNTOWN SEATTLE EXPRESS	15 15 - Blue Ridge
+2018-10-30 Tue	309 309   FIRST HILL EXPRESS	214 214   ISSAQUAH
+2018-10-31 Wed	15 15 - Downtown Seattle	55 55   DOWNTOWN SEATTLE	56 56 - Alki Via SR-99
+2018-11-01 Thu	309 309   FIRST HILL EXPRESS	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-02 Fri	56 56   DOWNTOWN SEATTLE	18 18   NORTH BEACH EXPRESS
+2018-11-03 Sat	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B	5 5 - Downtown Seattle Greenwood	21 Route: 21 S/B	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 Route: 5 N/B
+2018-11-04 Sun	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-05 Mon	77 77 - Downtown Seattle Maple Leaf

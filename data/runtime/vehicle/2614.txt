@@ -34,3 +34,10 @@
 2018-10-26 Fri	309 309   FIRST HILL EXPRESS	18 18   NORTH BEACH EXPRESS	56 56   ALKI
 2018-10-27 Sat	40 40   DOWNTOWN SEATTLE	40 40   NORTHGATE	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-10-29 Mon	57 57   DOWNTOWN SEATTLE	18 18 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-10-30 Tue	15 15 - Blue Ridge	21 21 - Arbor Heights - Express
+2018-10-31 Wed	77 77 - Downtown Seattle Maple Leaf	56 56 - Alki Via SR-99	56 56   ALKI
+2018-11-01 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-02 Fri	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18   DOWNTOWN SEATTLE EXPRESS	309 309   KENMORE P&R EXPRESS
+2018-11-03 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 Route: 120 S/B	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 Route: 120 N/B	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	7 7 - Downtown Seattle Via Rainier Ave S	49 Route: 49 N/B	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 Route: 49 S/B
+2018-11-05 Mon	18 18 - Downtown Seattle	21 21 - Downtown Seattle - Express	21 Route: 21 N/B	15 15 - Blue Ridge
+2018-11-07 Wed	17 17 - Sunset Hill

@@ -29,3 +29,10 @@
 2018-10-25 Thu	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R
 2018-10-26 Fri	240 240 - Renton	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
 2018-10-29 Mon	271 271   UNIVERSITY DISTRICT	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-10-30 Tue	240 240 - Renton	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-10-31 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER
+2018-11-01 Thu	240 240   BELLEVUE TRANSIT CENTER	240 240   RENTON	240 240   BELLEVUE TRANSIT CENTER	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-11-02 Fri	240 240 - Bellevue Transit Center	240 240 - Renton	271 271   EASTGATE P&R
+2018-11-05 Mon	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	237 237 - Woodinville Via I-405	236 Route: 236 N/B	238 238 - Kirkland Totem Lake	238 Route: 238 S/B	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake	236 Route: 236 N/B	248 248 - Avondale	248 248 - Kirkland Transit Center Redmond Transit Center	248 248 - Avondale	248 248 - Kirkland Transit Center Redmond Transit Center	248 248 - Avondale	248 Route: 248 E/B
+2018-11-06 Tue	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	342 342 - Shoreline P&R Bellevue
+2018-11-07 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	244 244   KENMORE	243 243 - Overlake Transit Center

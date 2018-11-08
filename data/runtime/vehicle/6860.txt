@@ -20,3 +20,11 @@
 2018-10-26 Fri	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101 - Downtown Seattle	101 101   S RENTON P&R
 2018-10-27 Sat	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-10-29 Mon	158 158 - Downtown Seattle Via I-5	102 102   S RENTON P&R	102 102 - Fairwood S Renton P&R
+2018-10-30 Tue	179 179 - Downtown Seattle Federal Way Transit Center	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
+2018-10-31 Wed	158 158 - Downtown Seattle Via I-5
+2018-11-01 Thu	150 150   KENT	150 150   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101   DOWNTOWN SEATTLE	101 101   S RENTON P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
+2018-11-02 Fri	190 190 - Downtown Seattle Star Lake P&R	150 150 - Kent Southcenter
+2018-11-03 Sat	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 Route: 150 S/B	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 Route: 150 S/B	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B	150 150 - Kent Southcenter	150 Route: 150 S/B	150 150 - Kent Southcenter
+2018-11-05 Mon	158 158 - Downtown Seattle Via I-5	158 Route: 158 N/B	158 158 - Downtown Seattle Via I-5	190 190 - Downtown Seattle Star Lake P&R	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 Route: 101 S/B	101 101 - Downtown Seattle	101 Route: 101 N/B	101 101 - Downtown Seattle	101 Route: 101 S/B	101 101 - Downtown Seattle	101 Route: 101 S/B	101 101 - S Renton P&R
+2018-11-06 Tue	179 179 - Downtown Seattle Federal Way Transit Center	192 192 - Seattle Military Road	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
+2018-11-07 Wed	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter

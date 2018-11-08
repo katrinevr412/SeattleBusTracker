@@ -33,3 +33,9 @@
 2018-10-26 Fri	62 62 - Downtown Seattle Fremont	63 63 - Northgate East Green Lake	19 19   WEST MAGNOLIA
 2018-10-27 Sat	27 27   DOWNTOWN SEATTLE	33 33   E MAGNOLIA	33 33   DOWNTOWN SEATTLE	27 27   COLMAN PARK	124 124   TUKWILA LINK STATION	27 27   COLMAN PARK	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler
 2018-10-29 Mon	24 24 - Downtown Seattle	124 124   TUKWILA LINK STATION	124 124 - Downtown Seattle Georgetown	63 63   NORTHGATE EXPRESS	19 19 - West Magnolia
+2018-10-30 Tue	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	63 63   NORTHGATE EXPRESS
+2018-10-31 Wed	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	63 63   NORTHGATE EXPRESS
+2018-11-01 Thu	62 62   DOWNTOWN SEATTLE
+2018-11-05 Mon	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 Route: 33 N/B	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 Route: 124 S/B	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	124 Route: 124 N/B	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 Route: 124 S/B	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 Route: 24 N/B
+2018-11-06 Tue	62 62 - Downtown Seattle Fremont	303 303 - Shoreline P&R Northgate
+2018-11-07 Wed	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	308 308 - Horizon View

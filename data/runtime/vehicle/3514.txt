@@ -29,3 +29,11 @@
 2018-10-25 Thu	893 893 - Lake Washington High School	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland
 2018-10-26 Fri	271 271 - Eastgate Bellevue	245 245   KIRKLAND
 2018-10-29 Mon	243 243   KENMORE P&R EXPRESS	244 244 - Overlake Transit Center Kenmore P&R	221 221 - Eastgate P&R	221 221 - Education Hill
+2018-10-30 Tue	277 277 - University District Houghton P&R	244 244   OVERLAKE TRANSIT CENTER	342 342 - Shoreline P&R Bellevue
+2018-10-31 Wed	887 887 - International School	244 244 - Kenmore Kingsgate P&R	243 243   OVERLAKE TRANSIT CENTER EXPRESS
+2018-11-01 Thu	241 241   BELLEVUE TRANSIT CENTER	226 226   EASTGATE P&R	226 226   BELLEVUE TRANSIT CENTER	241 241   EASTGATE P&R	226 226   BELLEVUE TRANSIT CENTER	221 221 - Eastgate P&R	221 221 - Education Hill
+2018-11-02 Fri	240 240 - Renton	237 237 - Woodinville Via I-405
+2018-11-04 Sun	235 235 - Bellevue Transit Center Kirkland	235 Route: 235 S/B	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 Route: 235 N/B	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 Route: 235 S/B	235 235 - Kingsgate P&R Kirkland	235 Route: 235 S/B	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 Route: 235 N/B	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 Route: 235 N/B	235 235 - Bellevue Transit Center Kirkland
+2018-11-05 Mon	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	244 Route: 244 S/B	244 244 - Overlake Transit Center Kenmore P&R	244 244 - Kenmore Kingsgate P&R	243 Route: 243 S/B	243 243 - Overlake Transit Center
+2018-11-06 Tue	277 277 - University District Houghton P&R	277 277 - Juanita Houghton P&R
+2018-11-07 Wed	232 232 - Bellevue Redmond
