@@ -1,6 +1,0 @@
-2018-09-18 Tue	40 40   DOWNTOWN SEATTLE
-2018-09-19 Wed	17 17   DOWNTOWN SEATTLE EXPRESS	56 56   DOWNTOWN SEATTLE	40 40   NORTHGATE
-2018-09-20 Thu	5 5   DOWNTOWN SEATTLE EXPRESS	21 21   DOWNTOWN SEATTLE EXPRESS
-2018-09-25 Tue	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	15 15 - Downtown Seattle	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
-2018-09-26 Wed	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
-2018-09-27 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
