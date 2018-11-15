@@ -36,3 +36,7 @@
 2018-11-05 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	271 Route: 271 E/B	271 271 - Eastgate Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R	244 Route: 244 N/B
 2018-11-06 Tue	886 886 - International School Bellevue HS	221 221 - Eastgate P&R	221 221 - Education Hill
 2018-11-07 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-08 Thu	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-12 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue
+2018-11-13 Tue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-14 Wed	245 245 - Kirkland Crossroads

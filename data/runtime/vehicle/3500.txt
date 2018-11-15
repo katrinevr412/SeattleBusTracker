@@ -34,3 +34,8 @@
 2018-11-05 Mon	886 886 - International School Bellevue HS	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-11-06 Tue	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	237 237 - Woodinville Via I-405
 2018-11-07 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-08 Thu	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	221 221 - Eastgate P&R	221 221 - Education Hill
+2018-11-09 Fri	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-12 Mon	232 232 - Bellevue Redmond	232 232 - Redmond	271 271   EASTGATE P&R	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue	271 271 - University District Bellevue
+2018-11-13 Tue	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-14 Wed	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue

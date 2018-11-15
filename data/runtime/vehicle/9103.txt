@@ -33,3 +33,8 @@
 2018-11-05 Mon	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	590 590 - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
 2018-11-06 Tue	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
 2018-11-07 Wed	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-11-08 Thu	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-11-09 Fri	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-11-12 Mon	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma
+2018-11-13 Tue	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-11-14 Wed	596 596 - Sounder Connector-Sumner Stat	578 578 - Seattle via Federal way	590 590 - Tac Dome

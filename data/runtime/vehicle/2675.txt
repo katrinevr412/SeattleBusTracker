@@ -38,3 +38,7 @@
 2018-11-03 Sat	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard
 2018-11-04 Sun	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont
 2018-11-05 Mon	5 5 - Downtown Seattle - Express
+2018-11-09 Fri	77 77 - Downtown Seattle Maple Leaf	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-12 Mon	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
+2018-11-13 Tue	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-14 Wed	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction

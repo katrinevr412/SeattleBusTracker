@@ -42,3 +42,8 @@
 2018-11-05 Mon	28 28 - Downtown Seattle	19 19 - West Magnolia	122 122 - Highline College Via SR-509	122 Route: 122 S/B
 2018-11-06 Tue	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	19 19 - West Magnolia
 2018-11-07 Wed	122 122 - Downtown Seattle Via SR-509	121 121   HIGHLINE COLLEGE
+2018-11-08 Thu	122 122 - Downtown Seattle Via SR-509	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-11-09 Fri	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	167 167 - S Renton P&R Via I-405
+2018-11-12 Mon	26 26 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	9 9   RAINIER BEACH STATION EXPRESS	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-13 Tue	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-11-14 Wed	37 37 - Downtown Seattle Alki - Express	28 28 - Downtown Seattle	308 308 - Horizon View

@@ -37,3 +37,8 @@
 2018-11-05 Mon	40 40 - Downtown Seattle Fremont	40 Route: 40 S/B	5 5 - Greenwood - Express
 2018-11-06 Tue	77 77 - Downtown Seattle Maple Leaf	18 18 - North Beach
 2018-11-07 Wed	214 214 - Downtown Seattle	214 214 - Issaquah	5 5 - Greenwood - Express
+2018-11-08 Thu	15 15 - Blue Ridge
+2018-11-09 Fri	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express
+2018-11-10 Sat	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill
+2018-11-12 Mon	77 77 - North City Maple Leaf
+2018-11-14 Wed	55 55 - Admiral District Alaska Junction	17 17 - Sunset Hill	56 56 - Alki Via SR-99

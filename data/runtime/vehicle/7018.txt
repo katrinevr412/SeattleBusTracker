@@ -41,3 +41,8 @@
 2018-11-05 Mon	28 28 - Downtown Seattle	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509	122 Route: 122 S/B
 2018-11-06 Tue	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	167 167 - S Renton P&R Via I-405	132 132 - Downtown Seattle South Park
 2018-11-07 Wed	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	37 37 - Alaska Junction Alki
+2018-11-08 Thu	62 62 - Downtown Seattle Fremont	29 29 - Ballard Queen Anne
+2018-11-09 Fri	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle	29 29 - Ballard Queen Anne
+2018-11-12 Mon	63 63 - First Hill South Lake Union	121 121 - Downtown Seattle Via SR-509
+2018-11-13 Tue	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle
+2018-11-14 Wed	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	123 123   DOWNTOWN SEATTLE	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont

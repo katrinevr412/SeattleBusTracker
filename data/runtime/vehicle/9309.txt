@@ -36,3 +36,9 @@
 2018-11-05 Mon	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	566 566 - Kent Station
 2018-11-06 Tue	567 567 - overlake Tc via bellevue	566 566 - Overlake TC via Renton	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont
 2018-11-07 Wed	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-11-08 Thu	590 590 - Seattle	595 595 - Gig Harbor -  Narrows
+2018-11-09 Fri	567 567 - overlake Tc via bellevue	566 566 - Overlake TC via Renton	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont
+2018-11-11 Sun	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-11-12 Mon	574 574 - SeaTac Airport via Tacoma Via Fedway	578 578 - Puyallup via federal way	586 586 - U District -  Express	586 586 - Tacoma -  Express	592 592 - Seattle -  Express
+2018-11-13 Tue	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Seattle -  Express
+2018-11-14 Wed	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont

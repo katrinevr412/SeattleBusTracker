@@ -35,3 +35,8 @@
 2018-11-05 Mon	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	311 Route: 311 W/B	212 212 - Eastgate P&R	212 Route: 212 E/B
 2018-11-06 Tue	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
 2018-11-07 Wed	257 257 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-11-08 Thu	556 556 - Northgate	555 555 - Issaquah	556 556 - Northgate	823 823 - Cougar Mountain Newport HS	257 257 - Kingsgate
+2018-11-09 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
+2018-11-12 Mon	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	311 311 - Woodinville Via SR-520
+2018-11-13 Tue	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-14 Wed	216 216 - Downtown Seattle Eastgate	894 894 - Mercer Village Shopping Center Island Crest Way	311 311 - Woodinville Via SR-520

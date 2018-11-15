@@ -36,3 +36,7 @@
 2018-11-05 Mon	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 Route: 312 N/B	312 312 - Bothell
 2018-11-06 Tue	312 312 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
 2018-11-07 Wed	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Kenmore
+2018-11-08 Thu	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna	312 312 - Bothell
+2018-11-09 Fri	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna
+2018-11-13 Tue	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	74 74 - Sand Point Ravenna
+2018-11-14 Wed	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express

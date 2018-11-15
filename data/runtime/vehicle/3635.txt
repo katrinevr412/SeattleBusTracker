@@ -38,3 +38,8 @@
 2018-11-02 Fri	121 121 - Burien Transit Center Via SR-509
 2018-11-06 Tue	63 63 - Northgate East Green Lake
 2018-11-07 Wed	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	308 308 - Horizon View
+2018-11-08 Thu	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District
+2018-11-09 Fri	132 132 - Downtown Seattle South Park	45 45 - Loyal Heights Greenwood	29 29 - Ballard Queen Anne
+2018-11-12 Mon	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-11-13 Tue	28 28 - Downtown Seattle	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
+2018-11-14 Wed	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	29 29 - Ballard Queen Anne

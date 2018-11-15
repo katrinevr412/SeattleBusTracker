@@ -21,3 +21,8 @@
 2018-11-02 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS
 2018-11-05 Mon	550 550 - Bellevue	550 550 - Seattle	550 Route: 550 E/B	550 550 - Bellevue	550 Route: 550 E/B	550 550 - Bellevue
 2018-11-06 Tue	550 550 - Seattle
+2018-11-08 Thu	522 522 - Downtown Seattle	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-11-09 Fri	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-12 Mon	556 556 - Northgate	555 555 - Issaquah	556 556 - Northgate	550 550 - Bellevue
+2018-11-13 Tue	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-14 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle

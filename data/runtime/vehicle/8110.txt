@@ -36,3 +36,8 @@
 2018-11-05 Mon	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90	111 Route: 111 S/B	111 111 - Lake Kathleen Via I-90
 2018-11-06 Tue	197 197 - University District Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
 2018-11-07 Wed	177 177 - Downtown Seattle Via I-5	143 143   BLACK DIAMOND EXPRESS	143 143 - Renton
+2018-11-08 Thu	197 197 - University District Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-11-09 Fri	952 952 - Everett Special	111 111 - Downtown Seattle	143 143 - Black Diamond Renton - Express
+2018-11-12 Mon	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-11-13 Tue	193 193 - First Hill Express	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-14 Wed	179 179 - Downtown Seattle Federal Way Transit Center	111 111 - Lake Kathleen Via I-90

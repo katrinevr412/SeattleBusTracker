@@ -43,3 +43,8 @@
 2018-11-05 Mon	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
 2018-11-06 Tue	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
 2018-11-07 Wed	372 372 - University District Lake City	74 74 - Downtown Seattle	74 74 - Sand Point Ravenna
+2018-11-08 Thu	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	312 312 - Downtown Seattle	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
+2018-11-09 Fri	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	316 316 - Meridian Park Green Lake
+2018-11-12 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	41 41 - Northgate Northeast 125th Only
+2018-11-13 Tue	74 74 - Downtown Seattle	312 312 - Kenmore	74 74 - Sand Point Ravenna
+2018-11-14 Wed	41 41 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express

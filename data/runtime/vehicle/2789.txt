@@ -41,3 +41,9 @@
 2018-11-05 Mon	17 17 - Downtown Seattle	309 309 - Kenmore P&R Express	309 Route: 309 N/B
 2018-11-06 Tue	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	57 57 - Alaska Junction Via SR-99
 2018-11-07 Wed	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	55 55   ADMIRAL DISTRICT	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-08 Thu	57 57 - Downtown Seattle Via SR-99	21 21 - Arbor Heights - Express
+2018-11-09 Fri	18 18 - Downtown Seattle	21 21 - Downtown Seattle - Express	18 18 - North Beach	56 56 - Alki Via SR-99
+2018-11-10 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5   DOWNTOWN SEATTLE	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood
+2018-11-11 Sun	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-12 Mon	55 55 - Downtown Seattle Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-14 Wed	21 21 - Downtown Seattle - Express	214 214 - Issaquah

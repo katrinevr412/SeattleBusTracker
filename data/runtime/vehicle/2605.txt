@@ -33,3 +33,4 @@
 2018-10-29 Mon	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village
 2018-10-31 Wed	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	44 44 - Ballard Wallingford	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	44 44 - Ballard Wallingford	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   CAPITOL HILL
 2018-11-01 Thu	120 120   DOWNTOWN SEATTLE
+2018-11-13 Tue	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village

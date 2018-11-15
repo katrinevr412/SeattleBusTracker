@@ -35,3 +35,5 @@
 2018-11-01 Thu	545 545   REDMOND EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS
 2018-11-02 Fri	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Bothell
 2018-11-05 Mon	550 550 - Seattle	550 550 - Bellevue
+2018-11-12 Mon	550 550 - Bellevue	550 550 - Seattle
+2018-11-14 Wed	545 545 - Redmond	545 545 - Downtown Seattle	550 550 - Bellevue

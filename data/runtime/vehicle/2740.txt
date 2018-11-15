@@ -26,3 +26,10 @@
 2018-11-05 Mon	55 55 - Downtown Seattle Alaska Junction	40 40 - Crown Hill Only Fremont	40 Route: 40 N/B	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
 2018-11-06 Tue	40 40 - Downtown Seattle Ballard	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
 2018-11-07 Wed	214 214 - Downtown Seattle	56 56 - Alki Via SR-99
+2018-11-08 Thu	214 214 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-09 Fri	21 21 - Downtown Seattle - Express	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-11-10 Sat	43 43 - To Route 43 Via Broadway	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
+2018-11-11 Sun	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway
+2018-11-12 Mon	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	309 309 - Kenmore P&R Express
+2018-11-13 Tue	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-14 Wed	5 5 - Downtown Seattle - Express	56 56 - Alki Via SR-99	15 15 - Blue Ridge

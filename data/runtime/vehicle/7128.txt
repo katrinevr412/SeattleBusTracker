@@ -44,3 +44,8 @@
 2018-11-05 Mon	124 Route: 124 N/B	24 24 - West Magnolia	19 19 - Downtown Seattle	62 62 - Sand Point East Green Lake	62 Route: 62 N/B	62 62 - Sand Point East Green Lake
 2018-11-06 Tue	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
 2018-11-07 Wed	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	123 123   DOWNTOWN SEATTLE	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	27 27 - Colman Park Yesler	63 63 - Northgate East Green Lake
+2018-11-08 Thu	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle	167 167 - S Renton P&R Via I-405	132 132 - Downtown Seattle South Park
+2018-11-09 Fri	63 63 - First Hill South Lake Union	63 63 - Northgate East Green Lake
+2018-11-12 Mon	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
+2018-11-13 Tue	62 62 - Downtown Seattle Fremont	167 167 - S Renton P&R Via I-405	132 132 - Downtown Seattle South Park
+2018-11-14 Wed	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	9 9 - Broadway Express	63 63 - Northgate East Green Lake

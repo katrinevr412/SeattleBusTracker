@@ -39,3 +39,8 @@
 2018-11-05 Mon	268 Route: 268 W/B	255 255 - Downtown Seattle	311 311 - Woodinville Via SR-520	255 255 - Downtown Seattle Kirkland	255 Route: 255 W/B	255 255 - Downtown Seattle Kirkland	255 Route: 255 E/B	255 255 - Totem Lake Transit Center Kirkland
 2018-11-06 Tue	824 824 - International School Newport HS	212 212 - Downtown Seattle
 2018-11-07 Wed	252 252 - Downtown Seattle Via SR-520	255 255 - Kirkland Transit Center S Kirkland P&R	886 886 - Newport HS	212 212 - Eastgate P&R	257 257 - Kingsgate
+2018-11-08 Thu	252 252 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-11-09 Fri	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-11-12 Mon	311 311 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-11-13 Tue	219 219 - Downtown Seattle Eastgate	255 255 - Totem Lake Transit Center Kirkland
+2018-11-14 Wed	824 824 - International School Newport HS	212 212 - Downtown Seattle	212 212 - Eastgate P&R	257 257 - Kingsgate

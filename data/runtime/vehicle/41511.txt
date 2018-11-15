@@ -33,3 +33,8 @@
 2018-11-05 Mon	590 590 - Seattle	590 590 - Tac Dome	592 592 - Lakewood/Dupont
 2018-11-06 Tue	590 590 - Seattle	596 596 - Sounder Connector-Bonney
 2018-11-07 Wed	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-11-08 Thu	567 567 - overlake Tc via bellevue	590 590 - Commerce - Tac Dome
+2018-11-09 Fri	590 590 - Seattle
+2018-11-12 Mon	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome
+2018-11-13 Tue	590 590 - Seattle	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way
+2018-11-14 Wed	590 590 - Seattle	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way

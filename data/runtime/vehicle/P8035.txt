@@ -17,3 +17,7 @@
 2018-10-26 Fri	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance
 2018-10-30 Tue	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill
 2018-11-07 Wed	P48 48 - South M St - Sheridian St	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan
+2018-11-08 Thu	P102 102 - Gig Harbor - Express-Purdy
+2018-11-09 Fri	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-11-12 Mon	P500 500 - Tacoma	P57 57 - Tacoma Mall	P57 57 - Downtown - Tacoma	P500 500 - Federal Way
+2018-11-14 Wed	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P3 3 - Lakewood	P3 3 - Downtown - Tacoma

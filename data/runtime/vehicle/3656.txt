@@ -40,3 +40,8 @@
 2018-11-05 Mon	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 Route: 9 N/B	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 Route: 9 S/B	9 9 - Rainier Beach Station Express
 2018-11-06 Tue	28 28 - Downtown Seattle	122 122 - Highline College Via SR-509
 2018-11-07 Wed	62 62 - Downtown Seattle Fremont	167 167   S RENTON P&R
+2018-11-08 Thu	121 121 - Highline College Via SR-509
+2018-11-09 Fri	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-12 Mon	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	24 24 - Magnolia	62 62 - Sand Point East Green Lake
+2018-11-13 Tue	37 37 - Downtown Seattle Alki - Express	63 63 - Northgate East Green Lake
+2018-11-14 Wed	19 19 - Downtown Seattle	63 63 - First Hill South Lake Union	121 121 - Burien Transit Center Via SR-509

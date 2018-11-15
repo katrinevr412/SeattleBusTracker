@@ -34,3 +34,8 @@
 2018-11-05 Mon	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
 2018-11-06 Tue	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome
 2018-11-07 Wed	592 592 - Seattle -  Express	590 590 - Tac Dome	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-11-08 Thu	578 578 - Seattle via Federal way	567 567 - overlake Tc via bellevue	580 580 - Lakewood
+2018-11-09 Fri	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
+2018-11-12 Mon	592 592 - Seattle -  Express	567 567 - Kent St Via Renton
+2018-11-13 Tue	580 580 - Puyallup Station	578 578 - Puyallup via federal way	580 580 - Lakewood	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-11-14 Wed	580 580 - Puyallup Station	567 567 - Kent St Via Renton

@@ -15,3 +15,9 @@
 2018-11-05 Mon	545 545 - Downtown Seattle	545 545 - Redmond	556 Route: 556 E/B	555 555 - Northgate	556 Route: 556 E/B	556 556 - Issaquah	556 Route: 556 E/B
 2018-11-06 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	556 556 - Issaquah	555 555 - Northgate
 2018-11-07 Wed	542 542 - Green Lake P&R University District	542 542 - Redmond	522 522 - Woodinville
+2018-11-08 Thu	545 545 - Downtown Seattle	545 545 - Redmond	556 556 - Issaquah	555 555 - Northgate
+2018-11-09 Fri	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-11 Sun	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-12 Mon	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	522 522 - Woodinville
+2018-11-13 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	555 555 - Northgate	556 556 - Issaquah
+2018-11-14 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle

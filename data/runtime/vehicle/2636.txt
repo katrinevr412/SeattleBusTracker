@@ -44,3 +44,7 @@
 2018-11-03 Sat	120 120 - Downtown Seattle Westwood Village	120 Route: 120 N/B	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 Route: 120 N/B	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 Route: 120 S/B	120 120 - Burien Transit Center Westwood Village
 2018-11-05 Mon	675 675 - Downtown Seattle	120 120 - Burien Transit Center Westwood Village	120 Route: 120 S/B	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 Route: 120 S/B
 2018-11-06 Tue	120 120 - Downtown Seattle Westwood Village
+2018-11-09 Fri	43 43 - NE 45th St and Brooklyn Ave NE	120 120 - Burien Transit Center Westwood Village
+2018-11-12 Mon	675 675 - Downtown Seattle	675 675 - Aurora Village Transit Center
+2018-11-13 Tue	675 675 - Aurora Village Transit Center
+2018-11-14 Wed	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village

@@ -35,3 +35,8 @@
 2018-11-05 Mon	218 218 - Downtown Seattle	212 212 - Downtown Seattle	212 Route: 212 W/B	216 Route: 216 E/B	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride	219 Route: 219 E/B	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-11-06 Tue	219 219 - Downtown Seattle Eastgate	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-11-07 Wed	216 216 - Downtown Seattle Eastgate	891 891 - W Mercer Island	212 212   DOWNTOWN SEATTLE	212 212 - Eastgate P&R
+2018-11-08 Thu	216 216 - Downtown Seattle Eastgate	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-09 Fri	212 212 - Downtown Seattle	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-11-12 Mon	522 522 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-11-13 Tue	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
+2018-11-14 Wed	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520

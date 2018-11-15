@@ -31,3 +31,8 @@
 2018-11-05 Mon	158 158 - Downtown Seattle Via I-5	158 Route: 158 N/B	158 158 - Downtown Seattle Via I-5
 2018-11-06 Tue	111 111 - Lake Kathleen Via I-90
 2018-11-07 Wed	190 190 - Downtown Seattle Star Lake P&R	178 178   S FEDERAL WAY	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-08 Thu	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102 - Fairwood S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	180 180 - SE Auburn	150 150   KENT	180 180 - SE Auburn	180 180 - Seattle Tacoma International Airport Kent Station	180 180 - SE Auburn	180 180 - Seattle Tacoma International Airport Kent Station
+2018-11-09 Fri	179 179 - Downtown Seattle Federal Way Transit Center	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-11-12 Mon	150 150 - Downtown Seattle Southcenter	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-13 Tue	150 150 - Downtown Seattle Southcenter	157 157 - Lake Meridian East Hill
+2018-11-14 Wed	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter

@@ -27,3 +27,6 @@
 2018-10-26 Fri	550 550 - Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS	550 550 - Bellevue
 2018-10-27 Sat	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
 2018-10-28 Sun	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554   ISSAQUAH EXPRESS	554 554 - Downtown Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle
+2018-11-12 Mon	556 556 - Northgate	555 555 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-13 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	556 556 - Northgate	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Bothell
+2018-11-14 Wed	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah

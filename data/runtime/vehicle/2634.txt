@@ -44,3 +44,6 @@
 2018-11-05 Mon	309 Route: 309 S/B	309 309 - First Hill Express	309 Route: 309 S/B	57 57 - Alaska Junction Via SR-99
 2018-11-06 Tue	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	56 56 - Alki Via SR-99	56 56   ALKI	56 56 - Alki Via SR-99	57 57 - Alaska Junction Via SR-99
 2018-11-07 Wed	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-08 Thu	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-09 Fri	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-14 Wed	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW

@@ -40,3 +40,8 @@
 2018-11-05 Mon	9 Route: 9 N/B	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 Route: 48 S/B
 2018-11-06 Tue	63 63 - Northgate East Green Lake
 2018-11-07 Wed	9 9 - Broadway Express	121 121   HIGHLINE COLLEGE
+2018-11-08 Thu	122 122 - Downtown Seattle Via SR-509	19 19 - West Magnolia	24 24 - Downtown Seattle	19 19 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown
+2018-11-09 Fri	64 64 - First Hill South Lake Union	63 63 - First Hill South Lake Union	121 121 - Highline College Via SR-509
+2018-11-12 Mon	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	37 37 - Alaska Junction Alki
+2018-11-13 Tue	122 122 - Downtown Seattle Via SR-509	308 308 - Horizon View
+2018-11-14 Wed	121 121 - Downtown Seattle Via SR-509

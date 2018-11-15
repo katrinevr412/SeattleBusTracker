@@ -33,3 +33,6 @@
 2018-11-02 Fri	22 22 - Alaska Junction Gatewood	22 22   ARBOR HEIGHTS	22 22   ALASKA JUNCTION	22 22 - Arbor Heights Gatewood	22 22 - Alaska Junction Gatewood	22 22 - Arbor Heights Gatewood	22 22 - Alaska Junction Gatewood	22 22 - Arbor Heights Gatewood	22 22   ALASKA JUNCTION	22 22 - Arbor Heights Gatewood	22 22 - Alaska Junction Gatewood	22 22 - Arbor Heights Gatewood	22 22 - Alaska Junction Gatewood	22 22   ARBOR HEIGHTS	22 22 - Alaska Junction Gatewood	159 159 - Timberlane Kent Station
 2018-11-06 Tue	190 190 - Downtown Seattle Star Lake P&R	157 157 - Lake Meridian East Hill
 2018-11-07 Wed	190 190 - Downtown Seattle Star Lake P&R
+2018-11-08 Thu	180 180 - Burien Transit Center Seattle Tacoma International Airport	116 116 - Downtown Seattle	180 180 - SE Auburn Kent Station
+2018-11-09 Fri	180 180 - Burien Transit Center Seattle Tacoma International Airport	116 116 - Fauntleroy
+2018-11-13 Tue	190 190 - Downtown Seattle Star Lake P&R

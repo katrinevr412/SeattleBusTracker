@@ -35,3 +35,7 @@
 2018-11-05 Mon	193 193 - First Hill Express	193 193 - Federal Way Express	193 Route: 193 S/B	193 193 - Federal Way Express
 2018-11-06 Tue	193 193 - First Hill Express	190 190 - Downtown Seattle Star Lake P&R	143 143 - Black Diamond Renton - Express	143 143 - Renton
 2018-11-07 Wed	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center	143 143   BLACK DIAMOND EXPRESS
+2018-11-08 Thu	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-12 Mon	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-13 Tue	159 159 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-14 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90

@@ -1,3 +1,8 @@
 2018-11-05 Mon	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard	40 Route: 40 N/B	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-11-06 Tue	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	77 77 - North City Maple Leaf
 2018-11-07 Wed	214 214 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-08 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-09 Fri	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	57 57 - Alaska Junction Via SR-99	21 21 - Arbor Heights - Express
+2018-11-12 Mon	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle - Express	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-11-13 Tue	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	5 5 - Greenwood - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-14 Wed	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	15 15 - Blue Ridge

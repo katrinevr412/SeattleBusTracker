@@ -39,3 +39,4 @@
 2018-11-05 Mon	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 Route: 522 S/B	522 522 - Downtown Seattle	522 Route: 522 N/B	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 Route: 522 S/B	522 522 - Downtown Seattle	522 Route: 522 S/B	522 522 - Downtown Seattle
 2018-11-06 Tue	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-07 Wed	522 522 - Downtown Seattle	545 545 - Redmond	522 522 - Downtown Seattle	545 545 - Redmond
+2018-11-08 Thu	522 522 - Downtown Seattle	545 545 - Redmond	522 522 - Bothell

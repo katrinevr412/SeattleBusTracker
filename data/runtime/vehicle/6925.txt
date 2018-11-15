@@ -34,3 +34,8 @@
 2018-11-05 Mon	311 311 - Downtown Seattle Via SR-520	268 268 - Bear Creek P&R Via SR-520
 2018-11-06 Tue	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-11-07 Wed	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	257 257 - Kingsgate
+2018-11-08 Thu	311 311 - Downtown Seattle Via SR-520
+2018-11-09 Fri	311 311 - Downtown Seattle Via SR-520	252 252 - Kingsgate Via SR-520
+2018-11-12 Mon	268 268 - Downtown Seattle Via SR-520	257 257 - Kingsgate
+2018-11-13 Tue	311 311 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-11-14 Wed	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland

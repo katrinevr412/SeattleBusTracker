@@ -42,3 +42,8 @@
 2018-11-05 Mon	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Tac Dome
 2018-11-06 Tue	586 586 - U District -  Express	594 594 - Seattle - Tacoma	586 586 - Tacoma -  Express	574 574 - SeaTac Airport via Tacoma Via Fedway
 2018-11-07 Wed	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	586 586 - Tacoma -  Express	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma
+2018-11-08 Thu	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	590 590 - Seattle - Tac Dome	590 590 - Tac Dome	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-11-09 Fri	586 586 - U District -  Express	594 594 - Seattle - Tacoma	590 590 - Tac Dome	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-11-10 Sat	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	594 594 - Lakewood -  Tacoma
+2018-11-11 Sun	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-11-12 Mon	586 586 - U District -  Express	586 586 - Tacoma -  Express

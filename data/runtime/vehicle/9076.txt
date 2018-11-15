@@ -25,3 +25,8 @@
 2018-11-05 Mon	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 Route: 542 E/B
 2018-11-06 Tue	212 212 - Downtown Seattle	218 218 - Downtown Seattle	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
 2018-11-07 Wed	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542   REDMOND EXPRESS	542 542 - Green Lake P&R University District
+2018-11-08 Thu	257 257 - Downtown Seattle	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-11-09 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-11-12 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	540 540   KIRKLAND EXPRESS	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-11-13 Tue	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-11-14 Wed	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland

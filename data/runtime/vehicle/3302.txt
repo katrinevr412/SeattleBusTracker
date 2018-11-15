@@ -33,3 +33,8 @@
 2018-11-05 Mon	891 891 - Mercer Island HS	240 240 - Renton	240 240 - Bellevue Transit Center	240 Route: 240 N/B
 2018-11-06 Tue	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
 2018-11-07 Wed	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-08 Thu	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center
+2018-11-09 Fri	891 891 - Mercer Island HS	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-12 Mon	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-13 Tue	342 342 - Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-14 Wed	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center

@@ -42,3 +42,4 @@
 2018-11-05 Mon	542 542 - Green Lake P&R University District	542 542 - Redmond
 2018-11-06 Tue	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-11-07 Wed	556 556 - Northgate	555 555 - Bellevue Transit Center	555 555 - Northgate	556 556 - Issaquah
+2018-11-13 Tue	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride

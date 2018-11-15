@@ -36,3 +36,8 @@
 2018-11-05 Mon	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 Route: 271 W/B	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R
 2018-11-06 Tue	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
 2018-11-07 Wed	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	234 234 - Kenmore Kirkland
+2018-11-08 Thu	232 232 - Bellevue Redmond	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-09 Fri	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	342 342 - Shoreline P&R Bellevue
+2018-11-12 Mon	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-13 Tue	891 891 - Mercer Island HS	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-11-14 Wed	277 277 - University District Houghton P&R

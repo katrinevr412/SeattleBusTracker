@@ -10,3 +10,8 @@
 2018-11-05 Mon	522 Route: 522 N/B	522 522 - Bothell	522 Route: 522 N/B
 2018-11-06 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-07 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Bothell
+2018-11-08 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-09 Fri	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-12 Mon	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-13 Tue	555 555 - Northgate	556 556 - Issaquah
+2018-11-14 Wed	545 545 - Redmond

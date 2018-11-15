@@ -38,3 +38,8 @@
 2018-11-05 Mon	522 522 - Downtown Seattle	545 Route: 545 W/B	545 545 - Downtown Seattle	545 Route: 545 E/B	545 545 - Redmond	545 Route: 545 E/B
 2018-11-06 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	555 555 - Northgate	556 556 - Issaquah
 2018-11-07 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-08 Thu	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-09 Fri	522 522 - Downtown Seattle	555 555 - Northgate	556 556 - Issaquah	555 555 - Northgate
+2018-11-12 Mon	522 522 - Downtown Seattle	545 545 - Redmond	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-11-13 Tue	555 555 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-14 Wed	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle

@@ -39,3 +39,8 @@
 2018-11-05 Mon	102 Route: 102 N/B	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 Route: 150 N/B	150 150 - Downtown Seattle Southcenter	150 Route: 150 S/B	150 150 - Kent Southcenter	150 Route: 150 S/B	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 Route: 150 N/B	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 Route: 150 N/B	150 150 - Downtown Seattle Southcenter	150 Route: 150 N/B	101 101 - S Renton P&R	101 Route: 101 S/B	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-11-06 Tue	102 102 - Downtown Seattle S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
 2018-11-07 Wed	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	102 102   FAIRWOOD
+2018-11-08 Thu	179 179 - Downtown Seattle Federal Way Transit Center
+2018-11-09 Fri	197 197 - University District Federal Way Transit Center	157 157 - Lake Meridian East Hill
+2018-11-10 Sat	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101   DOWNTOWN SEATTLE	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-11-12 Mon	158 158 - Downtown Seattle Via I-5
+2018-11-14 Wed	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter

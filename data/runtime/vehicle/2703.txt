@@ -40,3 +40,8 @@
 2018-11-05 Mon	214 Route: 214 W/B	214 214 - Downtown Seattle	77 77 - North City Maple Leaf	77 Route: 77 N/B
 2018-11-06 Tue	17 17 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-11-07 Wed	21 21 - Downtown Seattle - Express	21 21   ARBOR HEIGHTS EXPRESS	17 17 - Sunset Hill
+2018-11-08 Thu	21 21 - Downtown Seattle - Express	21 21 - Arbor Heights - Express	15 15 - Blue Ridge
+2018-11-09 Fri	21 21 - Downtown Seattle - Express	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-12 Mon	18 18 - Downtown Seattle	21 21 - Downtown Seattle - Express	77 77 - North City Maple Leaf
+2018-11-13 Tue	56 56 - Downtown Seattle Via SR-99	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-14 Wed	55 55 - Downtown Seattle Alaska Junction	77 77 - North City Maple Leaf

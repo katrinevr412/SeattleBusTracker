@@ -20,3 +20,8 @@
 2018-10-31 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-06 Tue	522 522 - Downtown Seattle	545 545 - Redmond	556 556 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
 2018-11-07 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-08 Thu	540 540 - University District	540 540 - Kirkland	540 540 - University District	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-09 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-11-12 Mon	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-11-13 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	556 556 - Issaquah	555 555 - Northgate
+2018-11-14 Wed	545 545 - Downtown Seattle	545 545 - Redmond	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake

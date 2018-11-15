@@ -42,3 +42,9 @@
 2018-11-05 Mon	987 987 - Haller Lake Special	18 18 - North Beach	55 55 - Admiral District Alaska Junction
 2018-11-06 Tue	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	15 15 - Blue Ridge
 2018-11-07 Wed	77 77 - Downtown Seattle Maple Leaf	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-08 Thu	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-10 Sat	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-11 Sun	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-12 Mon	987 987 - Haller Lake Special	57 57 - Alaska Junction Via SR-99	5 5 - Greenwood - Express
+2018-11-13 Tue	5 5 - Downtown Seattle - Express	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-11-14 Wed	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only

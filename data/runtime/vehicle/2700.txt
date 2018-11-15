@@ -40,3 +40,10 @@
 2018-11-02 Fri	214 214 - Downtown Seattle
 2018-11-06 Tue	114 114 - Downtown Seattle	5 5 - Downtown Seattle - Express	309 309 - Kenmore P&R Express
 2018-11-07 Wed	17 17 - Downtown Seattle	15 15 - Downtown Seattle	40 40   DOWNTOWN SEATTLE	40 40 - Crown Hill Only Fremont
+2018-11-08 Thu	309 309 - First Hill Express	17 17 - Sunset Hill	56 56 - Alki Via SR-99
+2018-11-09 Fri	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express
+2018-11-10 Sat	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-11 Sun	40 40   NORTHGATE	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-12 Mon	21 21 - Downtown Seattle - Express	15 15 - Blue Ridge
+2018-11-13 Tue	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-14 Wed	17 17 - Downtown Seattle	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21   DOWNTOWN SEATTLE	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood	5 5   STADIUM STATION

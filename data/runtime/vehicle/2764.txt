@@ -45,3 +45,9 @@
 2018-11-05 Mon	214 Route: 214 W/B	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only	214 Route: 214 E/B
 2018-11-06 Tue	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
 2018-11-07 Wed	309 309 - First Hill Express	40 40 - Downtown Seattle Fremont	55 55 - Admiral District Alaska Junction
+2018-11-08 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	77 77 - North City Maple Leaf
+2018-11-09 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	214 214 - Issaquah
+2018-11-10 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-12 Mon	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	55 55 - Admiral District Alaska Junction
+2018-11-13 Tue	17 17 - Downtown Seattle	214 214 - Issaquah
+2018-11-14 Wed	214 214 - Downtown Seattle	21 21 - Arbor Heights - Express	15 15 - Blue Ridge

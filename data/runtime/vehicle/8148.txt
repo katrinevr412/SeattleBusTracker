@@ -34,3 +34,8 @@
 2018-11-05 Mon	157 157 - Downtown Seattle East Hill	157 Route: 157 N/B
 2018-11-06 Tue	159 159 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-07 Wed	193 193 - First Hill Express	190 190 - Downtown Seattle Star Lake P&R	111 111   LAKE KATHLEEN
+2018-11-08 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	111 111 - Lake Kathleen Via I-90
+2018-11-09 Fri	193 193 - First Hill Express	111 111 - Lake Kathleen Via I-90
+2018-11-12 Mon	111 111 - Downtown Seattle	193 193 - Federal Way Express
+2018-11-13 Tue	111 111 - Downtown Seattle	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-14 Wed	193 193 - First Hill Express	181 181 - Green River Coll Auburn Station	193 193 - Federal Way Express

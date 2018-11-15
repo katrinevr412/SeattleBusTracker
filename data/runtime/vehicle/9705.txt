@@ -43,3 +43,9 @@
 2018-11-05 Mon	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont
 2018-11-06 Tue	586 586 - U District -  Express	590 590 - Commerce - Tac Dome
 2018-11-07 Wed	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-11-08 Thu	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-09 Fri	595 595 - Seattle - Narrows	586 586 - Tacoma -  Express
+2018-11-10 Sat	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-11-11 Sun	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way
+2018-11-12 Mon	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	577 577 - Federal Way TC
+2018-11-13 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way

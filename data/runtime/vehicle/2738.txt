@@ -41,3 +41,8 @@
 2018-11-05 Mon	21 21 - Downtown Seattle - Express	214 Route: 214 E/B	214 214 - Issaquah	5 5 - Greenwood - Express	5 Route: 5 N/B
 2018-11-06 Tue	214 214 - Downtown Seattle	21 21 - Arbor Heights - Express
 2018-11-07 Wed	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-11-08 Thu	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-10 Sat	43 43 - To Route 43 Via Broadway	44 44   BALLARD	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
+2018-11-12 Mon	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-13 Tue	77 77 - Downtown Seattle Maple Leaf	56 56 - Alki Via SR-99
+2018-11-14 Wed	214 214 - Downtown Seattle	15 15 - Downtown Seattle	18 18 - North Beach

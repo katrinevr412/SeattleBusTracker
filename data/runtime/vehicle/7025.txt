@@ -44,3 +44,8 @@
 2018-11-05 Mon	45 45 - Loyal Heights Greenwood
 2018-11-06 Tue	122 122 - Downtown Seattle Via SR-509	63 63 - Northgate East Green Lake
 2018-11-07 Wed	63 63 - First Hill South Lake Union	29 29 - Ballard Queen Anne
+2018-11-08 Thu	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown
+2018-11-09 Fri	62 62 - Downtown Seattle Fremont	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown
+2018-11-12 Mon	132 132 - Downtown Seattle South Park	122 122 - Downtown Seattle Via SR-509	167 167 - S Renton P&R Via I-405	132 132 - Downtown Seattle South Park
+2018-11-13 Tue	121 121 - Downtown Seattle Via SR-509
+2018-11-14 Wed	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown

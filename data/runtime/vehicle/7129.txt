@@ -40,3 +40,8 @@
 2018-11-05 Mon	62 62 - Downtown Seattle Fremont	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 Route: 45 W/B
 2018-11-06 Tue	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	9 9 - Broadway Express	63 63 - Northgate East Green Lake
 2018-11-07 Wed	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	9 9 - Broadway Express	63 63 - Northgate East Green Lake
+2018-11-08 Thu	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	19 19 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown
+2018-11-09 Fri	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	45 45 - Loyal Heights Greenwood
+2018-11-12 Mon	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
+2018-11-13 Tue	63 63 - First Hill South Lake Union	63 63 - Northgate East Green Lake
+2018-11-14 Wed	62 62 - Downtown Seattle Fremont	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509

@@ -37,3 +37,7 @@
 2018-11-02 Fri	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Kenmore
 2018-11-05 Mon	355 355 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	316 Route: 316 S/B	41 41 - Northgate Northeast 125th Only
 2018-11-06 Tue	74 74 - Downtown Seattle	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-11-08 Thu	342 342 - Renton Bellevue	167 167 - University District Via SR-520	372 372 - University District Lake City	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express
+2018-11-12 Mon	41 41 - Downtown Seattle Northgate	312 312   BOTHELL EXPRESS
+2018-11-13 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-11-14 Wed	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt

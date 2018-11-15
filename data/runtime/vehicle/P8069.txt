@@ -5,3 +5,6 @@
 2018-10-09 Tue	P102 102 - Gig Harbor - Express-Purdy
 2018-10-10 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
 2018-10-11 Thu	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC
+2018-11-09 Fri	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P52 52 - Tacoma Mall	P52 52 - TCC	P52 52 - Tacoma Mall	P52 52 - TCC	P52 52 - Tacoma Mall	P52 52 - TCC
+2018-11-12 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-11-14 Wed	P102 102 - Gig Harbor - Express-Purdy

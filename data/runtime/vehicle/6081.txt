@@ -35,3 +35,5 @@
 2018-10-23 Tue	673 RAPIDRIDE C LINE TO SOUTH LAKE UNION	673 RAPIDRIDE C LINE TO WEST SEATTLE
 2018-10-24 Wed	675 675 - Downtown Seattle	675 675 - Aurora Village Transit Center	675 675 - Downtown Seattle	675 675 - Aurora Village Transit Center	675 675 - Downtown Seattle	675 675 - Aurora Village Transit Center	675 675 - Downtown Seattle	675 675 - Aurora Village Transit Center
 2018-10-25 Thu	675 675 - Downtown Seattle
+2018-11-08 Thu	675 675 - Aurora Village Transit Center
+2018-11-09 Fri	675 675 - Aurora Village Transit Center	675 675 - Downtown Seattle

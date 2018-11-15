@@ -35,3 +35,8 @@
 2018-11-05 Mon	74 Route: 74 S/B	74 74 - Downtown Seattle
 2018-11-06 Tue	355 355 - Downtown Seattle	355 355 - Shoreline CC
 2018-11-07 Wed	41 41 - Downtown Seattle Northgate	312 312   BOTHELL EXPRESS
+2018-11-08 Thu	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-11-09 Fri	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2018-11-12 Mon	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-11-13 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-11-14 Wed	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf

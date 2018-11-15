@@ -8,3 +8,7 @@
 2018-11-05 Mon	111 Route: 111 N/B	111 111 - Downtown Seattle	952 952 - Auburn Special
 2018-11-06 Tue	179 179 - Downtown Seattle Federal Way Transit Center	193 193 - Federal Way Express
 2018-11-07 Wed	193 193 - First Hill Express	107 107 - Beacon Hill Station Rainier Beach Station	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-08 Thu	143 143 - Downtown Seattle Renton - Express	193 193 - First Hill Express	193 193 - Federal Way Express
+2018-11-12 Mon	192 192 - Star Lake Military Road
+2018-11-13 Tue	111 111 - Downtown Seattle	116 116 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-14 Wed	952 952 - Everett Special	143 143 - Black Diamond Renton - Express	143 143 - Renton

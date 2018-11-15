@@ -39,3 +39,6 @@
 2018-11-05 Mon	243 243 - Kenmore P&R	243 Route: 243 N/B	244 244 - Overlake Transit Center Kenmore P&R	277 277 - University District Houghton P&R	277 Route: 277 W/B
 2018-11-06 Tue	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center
 2018-11-07 Wed	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	240 240 - Renton	240 240 - Bellevue Transit Center	240 240   RENTON	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-11-08 Thu	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-11-09 Fri	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-11-14 Wed	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads

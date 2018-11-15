@@ -39,3 +39,8 @@
 2018-11-05 Mon	555 555 - Issaquah	554 554 - Downtown Seattle	554 Route: 554 E/B	554 554 - Issaquah	554 Route: 554 E/B	554 554 - Downtown Seattle	554 Route: 554 W/B	554 554 - Issaquah	554 554 - Downtown Seattle	554 Route: 554 W/B	554 554 - Issaquah	555 555 - Northgate	555 Route: 555 W/B	555 555 - Northgate
 2018-11-06 Tue	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
 2018-11-07 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-08 Thu	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-09 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-11-12 Mon	555 555 - Northgate	556 556 - Issaquah
+2018-11-13 Tue	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-14 Wed	556 556 - Northgate	555 555 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	550 550 - Bellevue	550 550 - Seattle

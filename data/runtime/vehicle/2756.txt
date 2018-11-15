@@ -32,3 +32,8 @@
 2018-11-05 Mon	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
 2018-11-06 Tue	312 312 - Downtown Seattle	312 312 - Bothell	316 316 - Meridian Park Green Lake
 2018-11-07 Wed	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	312 312 - Bothell	316 316 - Meridian Park Green Lake
+2018-11-08 Thu	312 312 - Downtown Seattle	312 312 - Kenmore
+2018-11-09 Fri	316 316 - Downtown Seattle Green Lake	312 312 - Bothell
+2018-11-12 Mon	301 301 - Downtown Seattle - Express	74 74 - Downtown Seattle
+2018-11-13 Tue	41 41 - Downtown Seattle Northgate	312 312 - Bothell
+2018-11-14 Wed	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only	301 301 - Aurora Village Shoreline P&R - Express

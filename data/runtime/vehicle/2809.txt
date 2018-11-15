@@ -39,3 +39,10 @@
 2018-11-05 Mon	15 15 - Downtown Seattle	56 Route: 56 N/B	56 56 - Downtown Seattle Via SR-99	56 56 - Alki Via SR-99
 2018-11-06 Tue	5 5 - Downtown Seattle - Express	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
 2018-11-07 Wed	55 55 - Downtown Seattle Alaska Junction	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-11-08 Thu	18 18 - Downtown Seattle	57 57 - Alaska Junction Via SR-99	21 21 - Arbor Heights - Express
+2018-11-09 Fri	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	77 77 - North City Maple Leaf
+2018-11-10 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-11 Sun	7 7   RAINIER BEACH	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
+2018-11-12 Mon	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	57 57 - Alaska Junction Via SR-99
+2018-11-13 Tue	55 55 - Downtown Seattle Alaska Junction	309 309 - Kenmore P&R Express
+2018-11-14 Wed	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	56 56 - Alki Via SR-99

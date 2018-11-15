@@ -36,3 +36,8 @@
 2018-11-05 Mon	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 Route: 271 W/B
 2018-11-06 Tue	889 889 - International School Sammamish HS	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
 2018-11-07 Wed	886 886 - International School Bellevue HS	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-08 Thu	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-09 Fri	894 894 - Mercer Island HS Island Crest Way	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-12 Mon	277 277 - Juanita Houghton P&R
+2018-11-13 Tue	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center
+2018-11-14 Wed	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	271 271 - University District Bellevue	271 271 - Issaquah Bellevue

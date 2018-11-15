@@ -34,3 +34,8 @@
 2018-11-05 Mon	952 952 - Everett Special	181 181 - Auburn Station	197 Route: 197 S/B	197 197 - Twin Lakes P&R Federal Way Transit Center	197 Route: 197 S/B	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-11-06 Tue	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-11-07 Wed	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-08 Thu	143 143 - Downtown Seattle Renton - Express	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-09 Fri	143 143 - Downtown Seattle Renton - Express	143 143 - Black Diamond Renton - Express
+2018-11-12 Mon	177 177 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-13 Tue	193 193 - First Hill Express	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express
+2018-11-14 Wed	177 177 - Downtown Seattle Via I-5	197 197 - Twin Lakes P&R Federal Way Transit Center

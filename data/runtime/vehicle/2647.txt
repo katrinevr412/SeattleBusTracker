@@ -27,3 +27,9 @@
 2018-11-05 Mon	987 987 - Rainier Beach Special	17 17 - Sunset Hill	17 Route: 17 N/B
 2018-11-06 Tue	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
 2018-11-07 Wed	21 21 - Downtown Seattle - Express	40 40 - Downtown Seattle Fremont	56 56 - Alki Via SR-99
+2018-11-08 Thu	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-11-09 Fri	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	21 21 - Arbor Heights - Express
+2018-11-10 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120   DOWNTOWN SEATTLE	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-12 Mon	77 77 - Downtown Seattle Maple Leaf
+2018-11-13 Tue	21 21 - Downtown Seattle - Express	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-14 Wed	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	214 214 - Issaquah Transit Center Transit Center Only

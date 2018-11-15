@@ -41,3 +41,7 @@
 2018-11-05 Mon	124 124 - Tukwila Link Station Georgetown	124 Route: 124 S/B	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	37 37 - Alaska Junction Alki	28 28 - Broadview	28 Route: 28 N/B	28 28 - Broadview
 2018-11-06 Tue	28 28 - Downtown Seattle	19 19 - West Magnolia	122 122 - Highline College Via SR-509
 2018-11-07 Wed	28 28 - Downtown Seattle	121 121 - Highline College Via SR-509
+2018-11-08 Thu	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	308 308 - Horizon View
+2018-11-09 Fri	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	308 308 - Horizon View
+2018-11-12 Mon	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	121 121 - Highline College Via SR-509
+2018-11-13 Tue	26 26 - Downtown Seattle	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express

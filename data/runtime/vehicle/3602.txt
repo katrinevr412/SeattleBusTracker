@@ -33,3 +33,8 @@
 2018-10-31 Wed	308 308 - Downtown Seattle Via I-5
 2018-11-06 Tue	308 308 - Downtown Seattle Via I-5	28 28 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
 2018-11-07 Wed	122 122 - Downtown Seattle Via SR-509	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-08 Thu	26 26 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park
+2018-11-09 Fri	24 24 - Downtown Seattle	121 121 - Burien Transit Center Via SR-509
+2018-11-12 Mon	122 122 - Downtown Seattle Via SR-509	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District
+2018-11-13 Tue	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake
+2018-11-14 Wed	122 122 - Downtown Seattle Via SR-509	308 308 - Horizon View

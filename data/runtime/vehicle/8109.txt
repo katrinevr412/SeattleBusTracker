@@ -35,3 +35,8 @@
 2018-11-05 Mon	193 193 - First Hill Express	179 179 - Twin Lakes P&R Federal Way Transit Center	111 Route: 111 S/B	111 111 - Lake Kathleen Via I-90	111 Route: 111 S/B
 2018-11-06 Tue	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
 2018-11-07 Wed	179 179 - Downtown Seattle Federal Way Transit Center	197 197   TWIN LAKES P&R
+2018-11-08 Thu	193 193 - First Hill Express	157 157 - Lake Meridian East Hill
+2018-11-09 Fri	177 177 - Downtown Seattle Via I-5	952 952 - Auburn Special
+2018-11-12 Mon	177 177 - Downtown Seattle Via I-5	116 116 - Fauntleroy	159 159 - Timberlane Kent Station
+2018-11-13 Tue	177 177 - Downtown Seattle Via I-5	952 952 - Auburn Special
+2018-11-14 Wed	197 197 - University District Federal Way Transit Center	111 111 - Lake Kathleen Via I-90

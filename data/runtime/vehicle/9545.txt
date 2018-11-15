@@ -32,3 +32,5 @@
 2018-11-02 Fri	522 522 - Downtown Seattle
 2018-11-05 Mon	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520	311 Route: 311 E/B	311 311 - Woodinville Via SR-520
 2018-11-07 Wed	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-08 Thu	522 522 - Woodinville
+2018-11-13 Tue	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond

@@ -33,3 +33,7 @@
 2018-11-01 Thu	197 197   UNIVERSITY DISTRICT	197 197   TWIN LAKES P&R
 2018-11-02 Fri	177 177 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-05 Mon	111 111 - Downtown Seattle
+2018-11-09 Fri	111 111 - Lake Kathleen Via I-90
+2018-11-12 Mon	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-13 Tue	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-14 Wed	143 143 - Downtown Seattle Renton - Express	143 143 - Black Diamond Renton - Express

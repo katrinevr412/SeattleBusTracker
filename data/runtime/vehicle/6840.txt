@@ -36,3 +36,8 @@
 2018-11-05 Mon	301 301 - Downtown Seattle - Express	41 41 - Northgate Northeast 125th Only	41 Route: 41 N/B
 2018-11-06 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
 2018-11-07 Wed	312 312 - Downtown Seattle	74 74   SAND POINT	316 316 - Meridian Park Green Lake
+2018-11-08 Thu	312 312 - Downtown Seattle	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-11-09 Fri	41 41 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-11-12 Mon	41 41 - Downtown Seattle	41 41 - Lake City Northgate
+2018-11-13 Tue	312 312 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
+2018-11-14 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	41 41 - Northgate Northeast 125th Only	74 74 - Sand Point Ravenna

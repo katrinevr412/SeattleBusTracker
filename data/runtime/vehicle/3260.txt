@@ -36,3 +36,8 @@
 2018-11-05 Mon	894 894 - Mercer Island HS Island Crest Way	342 Route: 342 N/B	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
 2018-11-06 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
 2018-11-07 Wed	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271   EASTGATE P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue	271 271 - University District Bellevue
+2018-11-08 Thu	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-09 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-11-12 Mon	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-13 Tue	886 886 - International School Bellevue HS	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-14 Wed	342 342 - Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue

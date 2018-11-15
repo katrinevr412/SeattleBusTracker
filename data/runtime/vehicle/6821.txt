@@ -36,3 +36,8 @@
 2018-11-05 Mon	316 316 - Downtown Seattle Green Lake	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express	301 Route: 301 S/B	75 Route: 75 N/B	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
 2018-11-06 Tue	355 355 - Downtown Seattle	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
 2018-11-07 Wed	355 355 - Downtown Seattle
+2018-11-08 Thu	41 41 - Northgate Northeast 125th Only	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-11-09 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-12 Mon	342 342 - Renton Bellevue	167 167 - University District Via SR-520	372 372 - University District Lake City	32 32 - University District Fremont	75 75 - Northgate Lake City	74 74 - Sand Point Ravenna
+2018-11-13 Tue	312 312 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street
+2018-11-14 Wed	304 304 - Richmond Beach

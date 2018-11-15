@@ -37,3 +37,5 @@
 2018-11-05 Mon	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	244 Route: 244 S/B	244 244 - Overlake Transit Center Kenmore P&R	244 244 - Kenmore Kingsgate P&R	243 Route: 243 S/B	243 243 - Overlake Transit Center
 2018-11-06 Tue	277 277 - University District Houghton P&R	277 277 - Juanita Houghton P&R
 2018-11-07 Wed	232 232 - Bellevue Redmond
+2018-11-09 Fri	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-13 Tue	245 245 - Kirkland Crossroads

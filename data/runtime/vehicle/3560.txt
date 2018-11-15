@@ -36,3 +36,9 @@
 2018-11-05 Mon	244 244 - Kenmore Kingsgate P&R	244 Route: 244 N/B	243 243 - Overlake Transit Center	243 Route: 243 S/B
 2018-11-06 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	245 245 - Kirkland Crossroads
 2018-11-07 Wed	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	277 277   JUANITA	244 244 - Kenmore Kingsgate P&R
+2018-11-08 Thu	232 232 - Bellevue Redmond	232 232 - Redmond	245 245 - Factoria Crossroads
+2018-11-09 Fri	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	245 245 - Factoria Crossroads
+2018-11-11 Sun	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland
+2018-11-12 Mon	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-13 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-14 Wed	889 889 - International School Sammamish HS	342 342 - Shoreline P&R Bellevue

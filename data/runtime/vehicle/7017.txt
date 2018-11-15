@@ -42,3 +42,8 @@
 2018-11-05 Mon	24 24 - Downtown Seattle	62 Route: 62 S/B	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 Route: 62 N/B	62 62 - Sand Point East Green Lake	62 Route: 62 N/B	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 Route: 62 S/B	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
 2018-11-06 Tue	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont
 2018-11-07 Wed	63 63   NORTHGATE EXPRESS
+2018-11-08 Thu	24 24 - Downtown Seattle	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
+2018-11-09 Fri	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	123 123   DOWNTOWN SEATTLE	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-11-12 Mon	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	19 19 - Downtown Seattle	29 29 - Ballard Queen Anne
+2018-11-13 Tue	63 63 - First Hill South Lake Union	303 303 - Shoreline P&R Northgate
+2018-11-14 Wed	63 63 - First Hill South Lake Union	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express

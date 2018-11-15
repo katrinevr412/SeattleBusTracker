@@ -31,3 +31,8 @@
 2018-10-31 Wed	232 232 - Bellevue Redmond	232 232 - Redmond	271 271   ISSAQUAH TRANSIT CENTER	271 271 - University District Bellevue
 2018-11-06 Tue	891 891 - Mercer Island HS	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake	236 236 - Kirkland Totem Lake	238 238 - Woodinville UW Bothell/Cascadia College	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake
 2018-11-07 Wed	277 277 - University District Houghton P&R	245 245   FACTORIA
+2018-11-08 Thu	277 277 - University District Houghton P&R	271 271 - Eastgate P&R Bellevue
+2018-11-09 Fri	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-11-12 Mon	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-13 Tue	887 887 - International School	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-11-14 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - Eastgate P&R Bellevue

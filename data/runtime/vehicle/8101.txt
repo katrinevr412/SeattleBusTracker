@@ -35,3 +35,8 @@
 2018-11-05 Mon	193 193 - First Hill Express	193 Route: 193 N/B	190 190 - Downtown Seattle Star Lake P&R	193 193 - Federal Way Express	193 Route: 193 S/B
 2018-11-06 Tue	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-07 Wed	143 143 - Downtown Seattle Renton - Express	157 157   LAKE MERIDIAN
+2018-11-08 Thu	111 111 - Downtown Seattle	952 952 - Kennydale Via I-405
+2018-11-09 Fri	111 111 - Downtown Seattle	192 192 - Star Lake Military Road	143 143 - Black Diamond Renton - Express
+2018-11-12 Mon	157 157 - Downtown Seattle East Hill	111 111 - Lake Kathleen Via I-90
+2018-11-13 Tue	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
+2018-11-14 Wed	193 193 - First Hill Express	197 197 - Twin Lakes P&R Federal Way Transit Center

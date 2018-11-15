@@ -43,3 +43,8 @@
 2018-11-05 Mon	62 62 - Downtown Seattle Fremont
 2018-11-06 Tue	63 63 - First Hill South Lake Union	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
 2018-11-07 Wed	132 132 - Downtown Seattle South Park	122 122 - Downtown Seattle Via SR-509	123 123 - Gregory Heights Via SR-509
+2018-11-08 Thu	63 63 - First Hill South Lake Union	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-11-09 Fri	24 24 - Downtown Seattle	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
+2018-11-12 Mon	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
+2018-11-13 Tue	63 63 - First Hill South Lake Union	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
+2018-11-14 Wed	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509

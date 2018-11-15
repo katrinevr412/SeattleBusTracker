@@ -12,3 +12,4 @@
 2018-11-02 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	15 15 - Blue Ridge
 2018-11-05 Mon	5 5 - Downtown Seattle - Express	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard
 2018-11-06 Tue	40 40 - Downtown Seattle Fremont	18 18 - North Beach
+2018-11-08 Thu	40 40 - Downtown Seattle Fremont

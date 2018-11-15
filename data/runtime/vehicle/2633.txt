@@ -31,3 +31,6 @@
 2018-10-29 Mon	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
 2018-10-30 Tue	355 355   DOWNTOWN SEATTLE EXPRESS	316 316 - Downtown Seattle Green Lake	316 316 - Meridian Park Green Lake
 2018-10-31 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS	372 372   UNIVERSITY DISTRICT EXPRESS	372 372   UW BOTHELL/CASCADIA COLLEGE EXPRESS
+2018-11-12 Mon	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	312 312 - Bothell
+2018-11-13 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-14 Wed	316 316 - Downtown Seattle Green Lake	301 301 - Downtown Seattle - Express	312 312 - Bothell

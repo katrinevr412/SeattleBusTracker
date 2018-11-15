@@ -13,3 +13,8 @@
 2018-11-05 Mon	522 522 - Downtown Seattle	555 555 - Northgate	555 Route: 555 W/B	556 556 - Issaquah	556 Route: 556 E/B	556 556 - Issaquah	555 Route: 555 W/B	555 555 - Northgate
 2018-11-06 Tue	545 545 - Downtown Seattle	545 545 - Redmond	522 522 - Downtown Seattle	545 545 - Redmond
 2018-11-07 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-08 Thu	522 522 - Woodinville
+2018-11-09 Fri	556 556 - Northgate	555 555 - Bellevue Transit Center	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-12 Mon	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-13 Tue	556 556 - Northgate	555 555 - Issaquah	522 522 - Bothell
+2018-11-14 Wed	522 522 - Downtown Seattle	545 545 - Redmond	522 522 - Bothell

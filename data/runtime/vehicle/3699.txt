@@ -38,3 +38,6 @@
 2018-11-04 Sun	33 Route: 33 S/B	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 Route: 33 N/B	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 Route: 33 S/B	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 Route: 33 N/B	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia
 2018-11-05 Mon	26 Route: 26 S/B	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	63 63 - Northgate East Green Lake
 2018-11-06 Tue	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express
+2018-11-09 Fri	76 76 - Downtown Seattle Via I-5/NE 65 St	63 63 - Northgate East Green Lake
+2018-11-13 Tue	19 19 - West Magnolia
+2018-11-14 Wed	121 121 - Highline College Via SR-509

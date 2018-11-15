@@ -33,3 +33,8 @@
 2018-11-05 Mon	311 Route: 311 W/B	218 218 - Downtown Seattle	218 Route: 218 W/B	218 218 - Downtown Seattle	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520	268 Route: 268 E/B	268 268 - Bear Creek P&R Via SR-520
 2018-11-06 Tue	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	672 672 - Bellevue Transit Center Crossroads	672 672 - Redmond Transit Center Overlake	218 218 - Issaquah Highlands
 2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	212 212   EASTGATE P&R
+2018-11-08 Thu	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-09 Fri	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	218 218 - Issaquah Highlands
+2018-11-12 Mon	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-11-13 Tue	218 218 - Downtown Seattle	823 823 - Cougar Mountain Newport HS	257 257 - Kingsgate
+2018-11-14 Wed	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	218 218 - Issaquah Highlands	252 252 - Kingsgate Via SR-520

@@ -43,3 +43,10 @@
 2018-11-05 Mon	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Downtown Seattle Ballard	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction	55 Route: 55 S/B
 2018-11-06 Tue	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
 2018-11-07 Wed	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-08 Thu	214 214 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-09 Fri	309 309 - First Hill Express	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-10 Sat	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-11 Sun	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-12 Mon	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	56 56 - Alki Via SR-99
+2018-11-13 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	56 56 - Alki Via SR-99
+2018-11-14 Wed	77 77 - Downtown Seattle Maple Leaf

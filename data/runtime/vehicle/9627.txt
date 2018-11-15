@@ -36,3 +36,10 @@
 2018-11-05 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 Route: 545 W/B	545 545 - Downtown Seattle	545 545 - Redmond	545 Route: 545 E/B	545 545 - Downtown Seattle	545 545 - Redmond	545 Route: 545 E/B	545 545 - Redmond	545 545 - Downtown Seattle	545 Route: 545 W/B	545 545 - Redmond	545 Route: 545 E/B	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-06 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
 2018-11-07 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS
+2018-11-08 Thu	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-09 Fri	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-10 Sat	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-11-11 Sun	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-11-12 Mon	556 556 - Northgate	555 555 - Bellevue Transit Center	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-13 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-11-14 Wed	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle

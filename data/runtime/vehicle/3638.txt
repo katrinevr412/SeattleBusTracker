@@ -29,3 +29,5 @@
 2018-11-05 Mon	308 308 - Horizon View
 2018-11-06 Tue	24 24 - Downtown Seattle	308 308 - Horizon View
 2018-11-07 Wed	64 64 - First Hill South Lake Union	63 63 - First Hill South Lake Union
+2018-11-12 Mon	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124   DOWNTOWN SEATTLE	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia	24 24 - Downtown Seattle
+2018-11-13 Tue	19 19 - Downtown Seattle	63 63 - First Hill South Lake Union

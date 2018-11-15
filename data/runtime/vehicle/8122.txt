@@ -35,3 +35,8 @@
 2018-11-05 Mon	111 111 - Downtown Seattle	111 Route: 111 N/B	111 111 - Downtown Seattle	111 Route: 111 N/B	111 111 - Lake Kathleen Via I-90
 2018-11-06 Tue	157 157 - Downtown Seattle East Hill	197 197 - Twin Lakes P&R Federal Way Transit Center	143 143 - Black Diamond Renton - Express
 2018-11-07 Wed	197 197 - University District Federal Way Transit Center	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-08 Thu	157 157 - Downtown Seattle East Hill	158 158 - Kent Via I-5
+2018-11-09 Fri	111 111 - Downtown Seattle	116 116 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
+2018-11-12 Mon	179 179 - Downtown Seattle Federal Way Transit Center	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard
+2018-11-13 Tue	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-11-14 Wed	197 197 - University District Federal Way Transit Center	179 179 - Twin Lakes P&R Federal Way Transit Center
