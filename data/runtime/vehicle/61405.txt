@@ -34,3 +34,8 @@
 2018-11-12 Mon	577 577 - Seattle	577 577 - Federal Way TC
 2018-11-13 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
 2018-11-14 Wed	577 577 - Federal Way TC
+2018-11-15 Thu	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-16 Fri	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-19 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-20 Tue	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-21 Wed	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC

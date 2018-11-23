@@ -33,3 +33,8 @@
 2018-11-12 Mon	257 257 - Downtown Seattle	212 212 - Downtown Seattle	255 255 - Downtown Seattle Kirkland	255 255   TOTEM LAKE TRANSIT CENTER	255 255 - Downtown Seattle	255 255 - Brickyard P&R Kirkland
 2018-11-13 Tue	255 255 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-11-14 Wed	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-11-15 Thu	268 268 - Downtown Seattle Via SR-520	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland
+2018-11-16 Fri	257 257 - Downtown Seattle	255 255 - Kirkland Transit Center S Kirkland P&R
+2018-11-19 Mon	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland
+2018-11-20 Tue	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	311 311 - Woodinville Via SR-520
+2018-11-21 Wed	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Kirkland Transit Center S Kirkland P&R	218 218 - Issaquah Highlands	212 212 - Eastgate P&R

@@ -12,3 +12,6 @@
 2018-11-06 Tue	P202 202 - Lakewood	P212 212 - Steilacoom - Pierce College	P212 212 - Pierce College - Lakewood	P214 214 - VA Hospital-Pierce College	P212 212 - Lakewood	P214 214 - VA Hospital-Pierce College	P212 212 - Pierce College	P214 214 - Lakewood-VA Hospital	P212 212 - Steilacoom - Pierce College	P212 212 - Pierce College - Lakewood	P214 214 - VA Hospital-Pierce College	P212 212 - Lakewood	P214 214 - VA Hospital-Pierce College	P214 214 - Lakewood-VA Hospital	P214 214 - VA Hospital-Pierce College
 2018-11-13 Tue	P214 214 - VA Hospital-Pierce College	P214 214 - Lakewood
 2018-11-14 Wed	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St
+2018-11-16 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-11-20 Tue	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-11-21 Wed	P102 102 - Gig Harbor - Express-Purdy

@@ -43,3 +43,8 @@
 2018-11-12 Mon	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland
 2018-11-13 Tue	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-14 Wed	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	252 252 - Kingsgate Via SR-520
+2018-11-15 Thu	257 257   DOWNTOWN SEATTLE	255 255 - Kirkland Transit Center S Kirkland P&R	886 886 - Newport HS	255 255 - Brickyard P&R Kirkland
+2018-11-16 Fri	252 252 - Downtown Seattle Via SR-520	255 255 - Totem Lake Transit Center Kirkland
+2018-11-19 Mon	252 252 - Downtown Seattle Via SR-520	255 255 - Kirkland Transit Center S Kirkland P&R	252 252 - Kingsgate Via SR-520	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland
+2018-11-20 Tue	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
+2018-11-21 Wed	255 255 - Downtown Seattle	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland

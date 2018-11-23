@@ -29,3 +29,8 @@
 2018-11-12 Mon	240 240 - Renton	277 277 - Juanita Houghton P&R
 2018-11-13 Tue	240 240 - Renton	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-11-14 Wed	221 221 - Education Hill	221 221 - Redmond Transit Center	221 221 - Education Hill	221 221 - Redmond Transit Center	221 221 - Education Hill	221 221 - Redmond Transit Center	221 221 - Education Hill	221 221 - Eastgate P&R	221 221 - Education Hill	221 221 - Eastgate P&R	221 221 - Education Hill	221 221 - Eastgate P&R	221 221 - Education Hill	221 221 - Eastgate P&R
+2018-11-15 Thu	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	234 234 - Kenmore Kirkland
+2018-11-16 Fri	271 271 - Eastgate P&R Bellevue
+2018-11-19 Mon	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-20 Tue	232 232 - Bellevue Redmond	232 232 - Redmond	271 271 - Eastgate P&R Bellevue
+2018-11-21 Wed	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue

@@ -44,3 +44,8 @@
 2018-11-12 Mon	77 77 - Downtown Seattle Maple Leaf	77 77 - North City Maple Leaf
 2018-11-13 Tue	77 77 - Downtown Seattle Maple Leaf	55 55 - Admiral District Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-11-14 Wed	5 5 - Downtown Seattle - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-15 Thu	77 77   DOWNTOWN SEATTLE EXPRESS	55 55 - Admiral District Alaska Junction	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	124 124 - Downtown Seattle Georgetown	124 124 - Tukwila Link Station Georgetown
+2018-11-16 Fri	124 124 - Tukwila Link Station Georgetown	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
+2018-11-19 Mon	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-11-20 Tue	5 5 - Greenwood - Express
+2018-11-21 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	309 309 - Kenmore P&R Express

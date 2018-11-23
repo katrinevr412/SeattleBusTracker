@@ -13,3 +13,8 @@
 2018-11-05 Mon	5 5 - Downtown Seattle - Express	40 40 - Northgate Fremont	40 Route: 40 N/B	40 40 - Northgate Fremont	40 Route: 40 S/B	40 40 - Downtown Seattle Ballard
 2018-11-06 Tue	40 40 - Downtown Seattle Fremont	18 18 - North Beach
 2018-11-08 Thu	40 40 - Downtown Seattle Fremont
+2018-11-16 Fri	5 5 - Downtown Seattle - Express	18 18 - North Beach	55 55 - Admiral District Alaska Junction
+2018-11-17 Sat	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - International District Chinatown Station N Beacon Hill
+2018-11-19 Mon	55 55 - Downtown Seattle Alaska Junction	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-20 Tue	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-21 Wed	77 77 - Downtown Seattle Maple Leaf

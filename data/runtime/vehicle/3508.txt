@@ -33,3 +33,7 @@
 2018-11-12 Mon	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271   UNIVERSITY DISTRICT	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
 2018-11-13 Tue	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
 2018-11-14 Wed	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-11-16 Fri	232 232 - Bellevue Redmond	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-19 Mon	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-11-20 Tue	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-11-21 Wed	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads

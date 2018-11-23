@@ -12,3 +12,5 @@
 2018-10-22 Mon	P102 102 - Gig Harbor - Express-Purdy
 2018-10-26 Fri	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
 2018-10-31 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pacific Ave - Parkland
+2018-11-19 Mon	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan
+2018-11-20 Tue	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma

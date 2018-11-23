@@ -40,3 +40,9 @@
 2018-11-12 Mon	62 62 - Downtown Seattle Fremont	45 45 - Loyal Heights Greenwood	29 29 - Ballard Queen Anne
 2018-11-13 Tue	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	121 121 - Highline College Via SR-509
 2018-11-14 Wed	24 24 - Downtown Seattle	167 167 - S Renton P&R Via I-405
+2018-11-15 Thu	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-16 Fri	28 28 - Downtown Seattle	121 121 - Highline College Via SR-509
+2018-11-19 Mon	28 28 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-11-20 Tue	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
+2018-11-21 Wed	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
+2018-11-22 Thu	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia

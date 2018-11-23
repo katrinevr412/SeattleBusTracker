@@ -45,3 +45,4 @@
 2018-11-12 Mon	550 550 - Bellevue	550 550 - Seattle	550 550   BELLEVUE EXPRESS	550 550 - Seattle	550 550 - Bellevue
 2018-11-13 Tue	550 550 - Seattle	545 545 - Downtown Seattle	545 545 - Redmond
 2018-11-14 Wed	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-15 Thu	550 550 - Seattle

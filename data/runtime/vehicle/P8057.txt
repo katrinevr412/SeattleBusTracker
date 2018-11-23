@@ -11,3 +11,5 @@
 2018-11-06 Tue	P52 52 - TCC	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC
 2018-11-07 Wed	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
 2018-11-14 Wed	P497 497 - Lakeland Hills
+2018-11-16 Fri	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-11-19 Mon	P4 4 - Lakewood	P4 4 - Pierce college via Shill

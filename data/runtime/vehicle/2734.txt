@@ -46,3 +46,8 @@
 2018-11-12 Mon	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
 2018-11-13 Tue	18 18 - Downtown Seattle	56 56 - Alki Via SR-99	15 15 - Blue Ridge
 2018-11-14 Wed	21 21 - Downtown Seattle - Express	18 18 - North Beach	55 55 - Admiral District Alaska Junction
+2018-11-15 Thu	21 21   DOWNTOWN SEATTLE EXPRESS	17 17 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-16 Fri	55 55 - Downtown Seattle Alaska Junction	56 56 - Alki Via SR-99	57 57 - Alaska Junction Via SR-99
+2018-11-19 Mon	77 77 - Downtown Seattle Maple Leaf	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-11-20 Tue	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-21 Wed	5 5 - Downtown Seattle - Express	40 40 - Northgate Fremont

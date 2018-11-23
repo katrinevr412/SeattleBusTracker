@@ -41,3 +41,5 @@
 2018-11-07 Wed	113 113 - Downtown Seattle White Center	40 40 - Downtown Seattle Ballard	214 214   ISSAQUAH
 2018-11-08 Thu	57 57 - Downtown Seattle Via SR-99	18 18 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
 2018-11-09 Fri	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express
+2018-11-20 Tue	29 29 - Ballard Queen Anne
+2018-11-21 Wed	18 18 - Downtown Seattle	214 214 - Issaquah

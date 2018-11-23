@@ -33,3 +33,8 @@
 2018-11-12 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
 2018-11-13 Tue	372 372 - University District Lake City	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Bothell
 2018-11-14 Wed	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2018-11-15 Thu	355 355 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	41 41 - Northgate Northeast 125th Only
+2018-11-16 Fri	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2018-11-19 Mon	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-11-20 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-21 Wed	75 75 - University District Lake City	31 31 - Central Magnolia Fremont	31 31 - University District Fremont	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express

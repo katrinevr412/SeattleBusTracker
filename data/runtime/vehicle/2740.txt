@@ -33,3 +33,10 @@
 2018-11-12 Mon	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	309 309 - Kenmore P&R Express
 2018-11-13 Tue	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-11-14 Wed	5 5 - Downtown Seattle - Express	56 56 - Alki Via SR-99	15 15 - Blue Ridge
+2018-11-15 Thu	17 17 - Downtown Seattle	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-11-16 Fri	214 214 - Downtown Seattle	309 309 - Kenmore P&R Express
+2018-11-17 Sat	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-18 Sun	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-19 Mon	40 40 - Downtown Seattle Fremont	40 40 - Crown Hill Only Fremont
+2018-11-20 Tue	21 21 - Downtown Seattle - Express	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-11-21 Wed	214 214 - Downtown Seattle	18 18 - Downtown Seattle	77 77 - North City Maple Leaf

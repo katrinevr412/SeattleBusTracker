@@ -44,3 +44,9 @@
 2018-11-12 Mon	63 63 - First Hill South Lake Union	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood
 2018-11-13 Tue	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
 2018-11-14 Wed	62 62 - Downtown Seattle Fremont	37 37 - Alaska Junction Alki	28 28 - Broadview
+2018-11-15 Thu	62 62 - Downtown Seattle Fremont	123 123 - Gregory Heights Via SR-509	121 121 - Downtown Seattle Via SR-509
+2018-11-16 Fri	62 62 - Downtown Seattle Fremont	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-11-19 Mon	62 62 - Downtown Seattle Fremont	27 27 - Colman Park Yesler	63 63 - Northgate East Green Lake
+2018-11-20 Tue	132 132 - Downtown Seattle South Park	122 122 - Downtown Seattle Via SR-509	29 29 - Ballard Queen Anne
+2018-11-21 Wed	62 62 - Downtown Seattle Fremont	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-11-22 Thu	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia

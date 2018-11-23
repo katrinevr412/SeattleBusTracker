@@ -47,3 +47,6 @@
 2018-11-10 Sat	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District	48 48 - University District Central District	48 48 - Mount Baker Transit Center Central District
 2018-11-12 Mon	596 596 - Sounder Connector-Bonney
 2018-11-14 Wed	590 590 - Tac Dome
+2018-11-15 Thu	592 592 - Lakewood/Dupont
+2018-11-16 Fri	592 592 - Lakewood/Dupont
+2018-11-21 Wed	590 590 - Tac Dome

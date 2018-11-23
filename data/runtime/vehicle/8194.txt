@@ -40,3 +40,8 @@
 2018-11-12 Mon	522 522 - Downtown Seattle	311 311 - Woodinville Via SR-520
 2018-11-13 Tue	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
 2018-11-14 Wed	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	268 268 - Bear Creek P&R Via SR-520
+2018-11-15 Thu	219 219   DOWNTOWN SEATTLE	216 216 - Downtown Seattle Eastgate	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
+2018-11-16 Fri	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520
+2018-11-19 Mon	311 311 - Downtown Seattle Via SR-520	218 218 - Issaquah Highlands	252 252 - Kingsgate Via SR-520
+2018-11-20 Tue	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
+2018-11-21 Wed	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R

@@ -40,3 +40,8 @@
 2018-11-12 Mon	111 111 - Downtown Seattle	193 193 - Federal Way Express
 2018-11-13 Tue	157 157 - Downtown Seattle East Hill	111 111 - Lake Kathleen Via I-90
 2018-11-14 Wed	111 111 - Downtown Seattle	952 952 - Auburn Special
+2018-11-15 Thu	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-11-16 Fri	111 111 - Downtown Seattle	111 111 - Lake Kathleen Via I-90
+2018-11-19 Mon	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-20 Tue	952 952 - Everett Special	952 952 - Auburn Special
+2018-11-21 Wed	190 190 - Downtown Seattle Star Lake P&R	158 158 - Kent Via I-5

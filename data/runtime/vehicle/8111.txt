@@ -12,3 +12,8 @@
 2018-11-12 Mon	192 192 - Star Lake Military Road
 2018-11-13 Tue	111 111 - Downtown Seattle	116 116 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-14 Wed	952 952 - Everett Special	143 143 - Black Diamond Renton - Express	143 143 - Renton
+2018-11-15 Thu	197 197   UNIVERSITY DISTRICT	158 158 - Kent Via I-5
+2018-11-16 Fri	952 952 - Everett Special	193 193 - First Hill Express	157 157 - Lake Meridian East Hill
+2018-11-19 Mon	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-20 Tue	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-21 Wed	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center

@@ -48,3 +48,9 @@
 2018-11-12 Mon	15 15 - Downtown Seattle	214 214 - Issaquah
 2018-11-13 Tue	113 113 - Downtown Seattle White Center	40 40 - Downtown Seattle Ballard	57 57 - Alaska Junction Via SR-99	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Shoreline Greenwood	5 5 - Stadium Station Downtown Seattle
 2018-11-14 Wed	5 5 - Stadium Station Downtown Seattle	21 21 - Arbor Heights - Express
+2018-11-15 Thu	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction	15 15 - Blue Ridge
+2018-11-16 Fri	988 988 - Haller Lake Special	77 77 - North City Maple Leaf
+2018-11-17 Sat	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-19 Mon	40 40 - Downtown Seattle Fremont	15 15 - Blue Ridge
+2018-11-20 Tue	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle - Express	214 214 - Issaquah
+2018-11-21 Wed	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction

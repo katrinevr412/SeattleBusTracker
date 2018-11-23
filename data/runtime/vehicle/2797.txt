@@ -41,3 +41,9 @@
 2018-11-09 Fri	21 21 - Downtown Seattle - Express	57 57 - Alaska Junction Via SR-99
 2018-11-10 Sat	43 43 - To Route 43 Via Broadway	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	43 43 - Capitol Hill
 2018-11-12 Mon	5 5 - Downtown Seattle - Express	77 77 - North City Maple Leaf
+2018-11-15 Thu	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
+2018-11-16 Fri	15 15 - Downtown Seattle
+2018-11-19 Mon	77 77 - North City Maple Leaf
+2018-11-20 Tue	17 17 - Downtown Seattle	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-21 Wed	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	5 5 - Greenwood - Express
+2018-11-22 Thu	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood

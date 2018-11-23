@@ -46,3 +46,10 @@
 2018-11-12 Mon	21 21 - Downtown Seattle - Express	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
 2018-11-13 Tue	21 21 - Downtown Seattle - Express	18 18 - Downtown Seattle	17 17 - Sunset Hill
 2018-11-14 Wed	57 57 - Downtown Seattle Via SR-99	18 18 - Downtown Seattle	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-15 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	214 214 - Issaquah
+2018-11-16 Fri	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express	15 15 - Blue Ridge
+2018-11-17 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-18 Sun	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-19 Mon	18 18 - Downtown Seattle	214 214 - Issaquah
+2018-11-20 Tue	214 214 - Downtown Seattle	18 18 - Downtown Seattle	988 988 - Central District Madrona	18 18 - North Beach
+2018-11-21 Wed	21 21 - Downtown Seattle - Express	40 40 - Downtown Seattle Fremont	214 214 - Issaquah Transit Center Transit Center Only

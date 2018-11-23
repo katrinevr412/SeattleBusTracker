@@ -41,3 +41,9 @@
 2018-11-12 Mon	21 21 - Downtown Seattle - Express	17 17 - Downtown Seattle	214 214 - Issaquah
 2018-11-13 Tue	21 21 - Downtown Seattle - Express	40 40 - Downtown Seattle Fremont	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
 2018-11-14 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	214 214 - Issaquah
+2018-11-15 Thu	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	77 77 - North City Maple Leaf
+2018-11-16 Fri	214 214 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-11-17 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-19 Mon	55 55 - Downtown Seattle Alaska Junction	77 77 - North City Maple Leaf
+2018-11-20 Tue	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-21 Wed	55 55 - Downtown Seattle Alaska Junction	988 988 - Central District Madrona	18 18 - North Beach

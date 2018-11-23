@@ -50,3 +50,4 @@
 2018-11-12 Mon	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	56 56 - Alki Via SR-99
 2018-11-13 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	56 56 - Alki Via SR-99
 2018-11-14 Wed	77 77 - Downtown Seattle Maple Leaf
+2018-11-15 Thu	40 40 - Northgate Fremont

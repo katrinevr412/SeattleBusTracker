@@ -35,3 +35,8 @@
 2018-11-12 Mon	596 596 - Sounder Connector-Sumner Stat	566 566 - Auburn Stn Via Renton
 2018-11-13 Tue	590 590 - Seattle	566 566 - Kent Station
 2018-11-14 Wed	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-11-15 Thu	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-11-16 Fri	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-11-19 Mon	566 566 - Overlake TC via Renton	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma
+2018-11-20 Tue	577 577 - Seattle	567 567 - Kent St Via Renton
+2018-11-21 Wed	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton

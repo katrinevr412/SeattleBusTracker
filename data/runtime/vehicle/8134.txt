@@ -41,3 +41,8 @@
 2018-11-12 Mon	111 111 - Downtown Seattle	157 157 - Lake Meridian East Hill
 2018-11-13 Tue	111 111 - Downtown Seattle
 2018-11-14 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	190 190 - Redondo Heights P&R Star Lake P&R
+2018-11-15 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-16 Fri	143 143 - Downtown Seattle Renton - Express	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-19 Mon	157 157 - Downtown Seattle East Hill	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-20 Tue	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-21 Wed	111 111 - Downtown Seattle	193 193 - Federal Way Express

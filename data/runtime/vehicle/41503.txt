@@ -38,3 +38,8 @@
 2018-11-12 Mon	590 590 - Seattle	590 590 - Tac Dome	592 592 - Lakewood/Dupont
 2018-11-13 Tue	592 592 - Seattle -  Express	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	594 594 - Lakewood -  Tacoma
 2018-11-14 Wed	590 590 - Seattle - Tac Dome	590 590 - Tac Dome
+2018-11-15 Thu	590 590 - Commerce - Tac Dome
+2018-11-16 Fri	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
+2018-11-19 Mon	592 592 - Seattle -  Express	592 592 - Lakewood/Dupont
+2018-11-20 Tue	590 590 - Seattle	590 590 - Commerce - Tac Dome
+2018-11-21 Wed	590 590 - Seattle - Tac Dome	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome

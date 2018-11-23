@@ -40,3 +40,8 @@
 2018-11-09 Fri	312 312 - Downtown Seattle	74 74 - Sand Point Ravenna
 2018-11-13 Tue	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	74 74 - Sand Point Ravenna
 2018-11-14 Wed	41 41 - Downtown Seattle Northgate	312 312 - Downtown Seattle	301 301 - Aurora Village Shoreline P&R - Express
+2018-11-15 Thu	312 312 - Downtown Seattle	301 301 - Aurora Village Richmond Beach - Express
+2018-11-16 Fri	316 316 - Downtown Seattle Green Lake	41 41 - Northgate Northeast 125th Only
+2018-11-19 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-20 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	74 74 - Sand Point Ravenna	312 312 - Bothell
+2018-11-21 Wed	312 312 - Downtown Seattle	316 316 - Downtown Seattle Green Lake

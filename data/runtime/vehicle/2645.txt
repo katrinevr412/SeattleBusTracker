@@ -41,3 +41,9 @@
 2018-11-12 Mon	214 214 - Downtown Seattle	18 18 - North Beach
 2018-11-13 Tue	994 994 - Haller Lake Special	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express
 2018-11-14 Wed	21 21 - Downtown Seattle - Express	18 18 - Downtown Seattle	15 15 - Blue Ridge
+2018-11-15 Thu	77 77   DOWNTOWN SEATTLE EXPRESS	56 56 - Alki Via SR-99
+2018-11-16 Fri	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	18 18 - North Beach
+2018-11-17 Sat	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-19 Mon	214 214 - Issaquah
+2018-11-20 Tue	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express
+2018-11-21 Wed	21 21 - Downtown Seattle - Express	214 214 - Issaquah Transit Center Transit Center Only

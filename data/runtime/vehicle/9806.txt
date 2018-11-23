@@ -43,3 +43,9 @@
 2018-11-12 Mon	522 522 - Downtown Seattle	545 545 - Redmond	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
 2018-11-13 Tue	555 555 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
 2018-11-14 Wed	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-15 Thu	522 522 - Downtown Seattle	545 545 - Redmond	556 556 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-11-16 Fri	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	556 556 - Issaquah	545 545 - Redmond
+2018-11-17 Sat	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-18 Sun	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-20 Tue	522 522 - Downtown Seattle	545 545 - Redmond	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Sammamish Issaquah
+2018-11-21 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond

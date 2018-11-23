@@ -42,3 +42,8 @@
 2018-11-12 Mon	309 309 - First Hill Express	55 55 - Admiral District Alaska Junction
 2018-11-13 Tue	21 21 - Downtown Seattle - Express	15 15 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
 2018-11-14 Wed	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-15 Thu	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-11-16 Fri	40 40 - Downtown Seattle Fremont	17 17 - Sunset Hill
+2018-11-19 Mon	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-20 Tue	5 5 - Downtown Seattle - Express	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-11-21 Wed	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	77 77 - North City Maple Leaf

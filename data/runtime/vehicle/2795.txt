@@ -38,3 +38,7 @@
 2018-11-10 Sat	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview
 2018-11-12 Mon	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
 2018-11-13 Tue	15 15 - Blue Ridge
+2018-11-15 Thu	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-16 Fri	56 56 - Downtown Seattle Via SR-99	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-20 Tue	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-21 Wed	17 17 - Downtown Seattle	214 214 - Issaquah

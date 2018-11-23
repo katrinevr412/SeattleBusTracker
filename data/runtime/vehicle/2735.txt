@@ -49,3 +49,9 @@
 2018-11-12 Mon	40 40 - Downtown Seattle Fremont	5 5 - Greenwood - Express
 2018-11-13 Tue	40 40 - Downtown Seattle Ballard	5 5 - Greenwood - Express
 2018-11-14 Wed	17 17 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-15 Thu	17 17   DOWNTOWN SEATTLE EXPRESS	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-11-16 Fri	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-17 Sat	43 43 - To Route 43 Via Broadway	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford	44 44 - Ballard Wallingford	44 44 - University Of Washington Medical Center Wallingford
+2018-11-19 Mon	21 21 - Downtown Seattle - Express	17 17 - Downtown Seattle	55 55 - Admiral District Alaska Junction
+2018-11-20 Tue	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	15 15 - Blue Ridge	21 21 - Arbor Heights - Express
+2018-11-21 Wed	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	21 21 - Arbor Heights - Express

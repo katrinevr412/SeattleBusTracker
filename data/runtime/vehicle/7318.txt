@@ -1,1 +1,6 @@
 2018-11-14 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue
+2018-11-15 Thu	277 277 - University District Houghton P&R	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-16 Fri	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton
+2018-11-19 Mon	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-20 Tue	342 342 - Shoreline P&R Bellevue
+2018-11-21 Wed	240 240 - Renton	240 240 - Bellevue Transit Center

@@ -34,3 +34,7 @@
 2018-11-07 Wed	219 219 - Redmond Issaquah Highlands Park & Ride
 2018-11-08 Thu	522 522 - Woodinville
 2018-11-13 Tue	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-19 Mon	522 522 - Woodinville
+2018-11-20 Tue	545 545 - Downtown Seattle
+2018-11-21 Wed	554 554 - Downtown Seattle	554 554 - Issaquah	556 556 - Northgate	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2018-11-22 Thu	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle

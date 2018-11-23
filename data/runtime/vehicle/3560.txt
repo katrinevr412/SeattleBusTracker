@@ -42,3 +42,8 @@
 2018-11-12 Mon	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
 2018-11-13 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
 2018-11-14 Wed	889 889 - International School Sammamish HS	342 342 - Shoreline P&R Bellevue
+2018-11-15 Thu	277 277 - University District Houghton P&R	244 244 - Overlake Transit Center Kenmore P&R	277 277 - Juanita Houghton P&R
+2018-11-16 Fri	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-19 Mon	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special
+2018-11-20 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-21 Wed	271 271 - Issaquah Transit Center Bellevue	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center

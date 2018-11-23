@@ -49,3 +49,5 @@
 2018-11-12 Mon	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
 2018-11-13 Tue	114 114 - Downtown Seattle	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill
 2018-11-14 Wed	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-11-15 Thu	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill
+2018-11-21 Wed	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	114 114 - Renton Highlands

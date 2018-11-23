@@ -33,3 +33,6 @@
 2018-11-12 Mon	26 26 - Downtown Seattle	63 63 - Northgate East Green Lake
 2018-11-13 Tue	308 308 - Downtown Seattle Via I-5	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
 2018-11-14 Wed	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	122 122 - Highline College Via SR-509	121 121 - Highline College Via SR-509
+2018-11-15 Thu	64 64 - First Hill South Lake Union	63 63 - First Hill South Lake Union
+2018-11-20 Tue	64 64 - Jackson Park Wedgwood
+2018-11-21 Wed	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	26 26 - Downtown Seattle	167 167 - S Renton P&R Via I-405

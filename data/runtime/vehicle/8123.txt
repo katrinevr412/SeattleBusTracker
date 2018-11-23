@@ -35,3 +35,8 @@
 2018-11-12 Mon	179 179 - Downtown Seattle Federal Way Transit Center
 2018-11-13 Tue	179 179 - Downtown Seattle Federal Way Transit Center	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
 2018-11-14 Wed	952 952 - Everett Special	166 166 - Kent Highline College	166 166 - Burien Transit Center Highline College	166 166 - Kent Highline College	192 192 - Star Lake Military Road
+2018-11-15 Thu	143 143   DOWNTOWN SEATTLE EXPRESS	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-16 Fri	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-19 Mon	111 111 - Downtown Seattle	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-20 Tue	143 143 - Downtown Seattle Renton - Express	143 143 - Black Diamond Renton - Express	143 143 - Renton
+2018-11-21 Wed	193 193 - First Hill Express	952 952 - Kennydale Via I-405

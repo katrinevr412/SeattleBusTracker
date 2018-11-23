@@ -46,3 +46,10 @@
 2018-11-12 Mon	214 214 - Downtown Seattle	309 309 - Kenmore P&R Express
 2018-11-13 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	77 77 - North City Maple Leaf
 2018-11-14 Wed	21 21 - Downtown Seattle - Express	987 987 - Rainier Beach Special	17 17 - Sunset Hill
+2018-11-15 Thu	214 214 - Downtown Seattle	988 988 - Central District Madrona	18 18 - North Beach
+2018-11-16 Fri	21 21 - Downtown Seattle - Express	40 40 - Downtown Seattle Fremont	15 15 - Blue Ridge
+2018-11-17 Sat	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-11-18 Sun	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-19 Mon	214 214 - Downtown Seattle
+2018-11-20 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	55 55 - Alaska Junction	18 18 - North Beach
+2018-11-21 Wed	214 214 - Downtown Seattle	15 15 - Blue Ridge

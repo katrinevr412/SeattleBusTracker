@@ -28,3 +28,6 @@
 2018-10-27 Sat	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
 2018-10-29 Mon	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
 2018-10-30 Tue	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-11-19 Mon	596 596 - Sounder Connector-Bonney
+2018-11-20 Tue	590 590 - Seattle	566 566 - Kent Station
+2018-11-21 Wed	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport

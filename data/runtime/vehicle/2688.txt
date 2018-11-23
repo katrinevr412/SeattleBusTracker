@@ -50,3 +50,8 @@
 2018-11-12 Mon	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120   BURIEN TRANSIT CENTER	43 43 - NE 45th St and Brooklyn Ave NE
 2018-11-13 Tue	675 675 - Aurora Village Transit Center
 2018-11-14 Wed	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	675 675 - Aurora Village Transit Center
+2018-11-15 Thu	120 120 - Downtown Seattle Westwood Village	120 120   BURIEN TRANSIT CENTER	120 120 - Downtown Seattle Westwood Village	675 675 - Aurora Village Transit Center
+2018-11-16 Fri	123 123 - Gregory Heights Via SR-509
+2018-11-19 Mon	673 673 - South Lake Union Downtown Seattle	673 673 - West Seattle Alaska Junction	70 70 - University District Fairview	43 43 - NE 45th St and Brooklyn Ave NE
+2018-11-20 Tue	120 120 - Burien Transit Center Westwood Village
+2018-11-21 Wed	675 675 - Aurora Village Transit Center

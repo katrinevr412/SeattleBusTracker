@@ -41,3 +41,5 @@
 2018-11-12 Mon	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-13 Tue	952 952 - Everett Special	177 177 - Federal Way, 320th P&R Via I-5
 2018-11-14 Wed	111 111 - Downtown Seattle	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-20 Tue	159 159 - Timberlane Kent Station
+2018-11-21 Wed	177 177 - Downtown Seattle Via I-5	952 952 - Auburn Special	190 190 - Redondo Heights P&R Star Lake P&R

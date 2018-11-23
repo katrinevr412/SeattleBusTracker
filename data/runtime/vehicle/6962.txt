@@ -36,3 +36,6 @@
 2018-11-08 Thu	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore
 2018-11-13 Tue	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	312 312 - Kenmore
 2018-11-14 Wed	312 312 - Downtown Seattle	301 301 - Aurora Village Via I-5	301 301 - Downtown Seattle - Express	74 74 - Sand Point Ravenna
+2018-11-19 Mon	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-20 Tue	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-21 Wed	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only

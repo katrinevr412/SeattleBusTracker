@@ -39,3 +39,9 @@
 2018-11-12 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport
 2018-11-13 Tue	580 580 - Puyallup Station	590 590 - Commerce - Tac Dome
 2018-11-14 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	580 580 - Puyallup Station
+2018-11-15 Thu	580 580 - Puyallup Station	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	580 580 - Puyallup Station
+2018-11-16 Fri	580 580 - Puyallup Station	592 592 - Lakewood/Dupont
+2018-11-18 Sun	580 580 - Puyallup Station
+2018-11-19 Mon	580 580 - Puyallup Station	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	594 594 - Lakewood -  Tacoma
+2018-11-20 Tue	590 590 - Seattle - Tac Dome	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome	580 580 - Puyallup Station
+2018-11-21 Wed	580 580 - Puyallup Station	590 590 - Commerce - Tac Dome

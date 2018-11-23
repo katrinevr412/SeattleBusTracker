@@ -27,3 +27,9 @@
 2018-11-12 Mon	15 15 - Blue Ridge
 2018-11-13 Tue	17 17 - Downtown Seattle	18 18 - North Beach
 2018-11-14 Wed	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
+2018-11-15 Thu	77 77 - Downtown Seattle Maple Leaf	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-16 Fri	214 214 - Downtown Seattle	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-11-17 Sat	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-19 Mon	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	5 5 - Greenwood - Express
+2018-11-20 Tue	40 40 - Downtown Seattle Ballard	77 77 - North City Maple Leaf
+2018-11-21 Wed	15 15 - Downtown Seattle	77 77 - North City Maple Leaf

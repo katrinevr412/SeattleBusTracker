@@ -37,3 +37,7 @@
 2018-11-12 Mon	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	595 595 - Gig Harbor -  Narrows
 2018-11-13 Tue	590 590 - Seattle	595 595 - Gig Harbor -  Narrows
 2018-11-14 Wed	590 590 - Seattle	595 595 - Gig Harbor -  Narrows
+2018-11-15 Thu	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-19 Mon	567 567 - overlake Tc via bellevue	566 566 - Overlake TC via Renton	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-11-20 Tue	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	586 586 - Tacoma -  Express	592 592 - Seattle -  Express
+2018-11-21 Wed	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	592 592 - Lakewood/Dupont

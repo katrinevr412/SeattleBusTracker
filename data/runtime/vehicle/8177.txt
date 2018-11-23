@@ -41,3 +41,7 @@
 2018-11-12 Mon	522 522 - Woodinville
 2018-11-13 Tue	982 982 - Haller Lake Special	218 218 - Issaquah Highlands
 2018-11-14 Wed	986 986 - Haller Lake Special	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-15 Thu	257 257 - Downtown Seattle	212 212 - Eastgate P&R
+2018-11-16 Fri	212 212 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-11-19 Mon	257 257 - Downtown Seattle	212 212 - Eastgate P&R
+2018-11-21 Wed	252 252 - Downtown Seattle Via SR-520	252 252 - Kingsgate Via SR-520

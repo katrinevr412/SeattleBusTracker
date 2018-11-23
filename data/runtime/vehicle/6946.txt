@@ -41,3 +41,8 @@
 2018-11-12 Mon	342 342 - Renton Bellevue	167 167 - University District Via SR-520
 2018-11-13 Tue	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	301 301 - Aurora Village Shoreline P&R - Express	301 301 - Downtown Seattle	74 74 - Sand Point Ravenna
 2018-11-14 Wed	316 316 - Downtown Seattle Green Lake	41 41 - Northgate Northeast 125th Only
+2018-11-15 Thu	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-11-16 Fri	312 312 - Downtown Seattle	661 661 - South Downtown Seattle Interstate 5 and Northeast 45th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-11-19 Mon	355 355 - Downtown Seattle	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
+2018-11-20 Tue	355 355 - Downtown Seattle	355 355 - Shoreline CC
+2018-11-21 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore

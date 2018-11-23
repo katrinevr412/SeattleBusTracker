@@ -49,3 +49,10 @@
 2018-11-12 Mon	56 56 - Downtown Seattle Via SR-99	15 15 - Downtown Seattle	56 56 - Alki Via SR-99	57 57 - Alaska Junction Via SR-99
 2018-11-13 Tue	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	5 5 - Greenwood - Express	21 21 - Arbor Heights - Express
 2018-11-14 Wed	55 55 - Admiral District Alaska Junction
+2018-11-15 Thu	44 44   UNIVERSITY OF WASHINGTON MEDICAL CENTER	43 43   DOWNTOWN SEATTLE	18 18 - Downtown Seattle	56 56 - Alki Via SR-99	15 15 - Blue Ridge
+2018-11-16 Fri	77 77 - Downtown Seattle Maple Leaf	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-17 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - S Jackson St
+2018-11-18 Sun	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-11-19 Mon	5 5 - Downtown Seattle - Express	56 56 - Alki Via SR-99	57 57 - Alaska Junction Via SR-99
+2018-11-20 Tue	309 309 - First Hill Express	214 214 - Issaquah
+2018-11-21 Wed	55 55 - Downtown Seattle Alaska Junction	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont

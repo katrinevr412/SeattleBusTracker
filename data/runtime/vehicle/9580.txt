@@ -18,3 +18,9 @@
 2018-11-12 Mon	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-13 Tue	556 556 - Northgate	555 555 - Issaquah	522 522 - Bothell
 2018-11-14 Wed	522 522 - Downtown Seattle	545 545 - Redmond	522 522 - Bothell
+2018-11-15 Thu	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-16 Fri	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-17 Sat	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-19 Mon	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Bothell
+2018-11-20 Tue	522 522 - Downtown Seattle	545 545 - Redmond	556 556 - Issaquah	545 545 - Redmond
+2018-11-21 Wed	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle

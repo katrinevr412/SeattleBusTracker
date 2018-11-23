@@ -47,3 +47,7 @@
 2018-11-12 Mon	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
 2018-11-13 Tue	159 159 - Downtown Seattle Via I-5	177 177 - Downtown Seattle Via I-5	102 102 - S Renton P&R	158 158 - Kent Via I-5
 2018-11-14 Wed	179 179 - Downtown Seattle Federal Way Transit Center	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-15 Thu	179 179   DOWNTOWN SEATTLE	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-16 Fri	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
+2018-11-20 Tue	101 101 - Downtown Seattle	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-11-21 Wed	179 179 - Downtown Seattle Federal Way Transit Center	179 179 - Twin Lakes P&R Federal Way Transit Center

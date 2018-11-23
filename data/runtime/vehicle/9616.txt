@@ -42,3 +42,6 @@
 2018-11-12 Mon	550 550 - Seattle	522 522 - Downtown Seattle	550 550 - Bellevue
 2018-11-13 Tue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
 2018-11-14 Wed	268 268 - Bear Creek P&R Via SR-520
+2018-11-15 Thu	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-16 Fri	550 550 - Seattle	550 550 - Bellevue
+2018-11-20 Tue	550 550 - Bellevue	550 550 - Seattle	522 522 - Downtown Seattle	545 545 - Redmond

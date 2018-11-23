@@ -29,3 +29,6 @@
 2018-11-12 Mon	542 542 - Green Lake P&R University District	542 542 - Redmond	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
 2018-11-13 Tue	542 542 - Green Lake P&R University District	542 542 - Redmond	522 522 - Downtown Seattle	545 545 - Redmond
 2018-11-14 Wed	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-19 Mon	522 522 - Downtown Seattle	545 545 - Redmond	555 555 - Northgate	556 556 - Issaquah
+2018-11-20 Tue	555 555 - Issaquah	554 554 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-11-21 Wed	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond

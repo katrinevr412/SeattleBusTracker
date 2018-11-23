@@ -39,3 +39,8 @@
 2018-11-12 Mon	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520
 2018-11-13 Tue	257 257 - Downtown Seattle	311 311 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520
 2018-11-14 Wed	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R
+2018-11-15 Thu	252 252 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	545 545 - Redmond
+2018-11-16 Fri	268 268 - Downtown Seattle Via SR-520	893 893 - Forbes Creek	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-19 Mon	823 823 - International School Newport HS	212 212 - Downtown Seattle	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
+2018-11-20 Tue	218 218 - Downtown Seattle	268 268 - Bear Creek P&R Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-21 Wed	257 257 - Downtown Seattle	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520

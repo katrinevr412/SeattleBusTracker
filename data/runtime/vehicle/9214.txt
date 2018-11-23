@@ -32,3 +32,8 @@
 2018-11-12 Mon	567 567 - Kent St Via Renton
 2018-11-13 Tue	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
 2018-11-14 Wed	567 567 - overlake Tc via bellevue	578 578 - Puyallup via federal way	580 580 - Lakewood
+2018-11-15 Thu	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
+2018-11-16 Fri	567 567 - overlake Tc via bellevue	567 567 - Kent St Via Renton
+2018-11-19 Mon	592 592 - Seattle -  Express	596 596 - Sounder Connector-Bonney
+2018-11-20 Tue	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-11-21 Wed	567 567 - overlake Tc via bellevue

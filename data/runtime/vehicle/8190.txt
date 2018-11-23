@@ -35,3 +35,8 @@
 2018-11-12 Mon	218 218   ISSAQUAH HIGHLANDS	257 257 - Kingsgate
 2018-11-13 Tue	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	892 892 - N Mercer Island	268 268 - Bear Creek P&R Via SR-520
 2018-11-14 Wed	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-15 Thu	218 218 - Downtown Seattle	246 246 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-11-16 Fri	218 218 - Downtown Seattle	889 889 - Bridle Trails Sammamish HS	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-19 Mon	218 218 - Downtown Seattle	212 212 - Eastgate P&R	257 257 - Kingsgate
+2018-11-20 Tue	252 252 - Downtown Seattle Via SR-520	257 257 - Kingsgate
+2018-11-21 Wed	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride

@@ -47,3 +47,9 @@
 2018-11-12 Mon	122 122 - Downtown Seattle Via SR-509	123 123 - Gregory Heights Via SR-509
 2018-11-13 Tue	308 308 - Downtown Seattle Via I-5	28 28 - Downtown Seattle
 2018-11-14 Wed	63 63 - Northgate East Green Lake
+2018-11-15 Thu	121 121 - Downtown Seattle Via SR-509	121 121   BURIEN TRANSIT CENTER	121 121 - Downtown Seattle Via SR-509	121 121 - Highline College Via SR-509
+2018-11-16 Fri	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	308 308 - Horizon View
+2018-11-18 Sun	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler
+2018-11-19 Mon	63 63 - First Hill South Lake Union	33 33 - E Magnolia	33 33 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - West Magnolia	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	24 24 - Magnolia
+2018-11-20 Tue	37 37 - Downtown Seattle Alki - Express	308 308 - Horizon View	48 48 - Mount Baker Transit Center Central District
+2018-11-21 Wed	26 26 - Downtown Seattle	132 132 - Burien Transit Center South Park	132 132 - Downtown Seattle South Park	19 19 - West Magnolia

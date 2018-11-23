@@ -40,3 +40,5 @@
 2018-11-12 Mon	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	550 550 - Bellevue
 2018-11-13 Tue	556 556 - Northgate	555 555 - Bellevue Transit Center	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
 2018-11-14 Wed	550 550 - Bellevue	550 550 - Seattle	252 252 - Kingsgate Via SR-520
+2018-11-15 Thu	550 550   SEATTLE EXPRESS	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-11-16 Fri	550 550 - Seattle

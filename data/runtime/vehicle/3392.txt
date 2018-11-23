@@ -40,3 +40,8 @@
 2018-11-12 Mon	271 271 - University District Bellevue	271 271 - Eastgate Bellevue
 2018-11-13 Tue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
 2018-11-14 Wed	245 245 - Kirkland Crossroads
+2018-11-15 Thu	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-16 Fri	277 277 - University District Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-11-19 Mon	277 277 - Juanita Houghton P&R
+2018-11-20 Tue	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-21 Wed	277 277 - University District Houghton P&R	245 245 - Factoria Crossroads

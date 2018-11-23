@@ -41,3 +41,8 @@
 2018-11-12 Mon	116 116 - Fauntleroy
 2018-11-13 Tue	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride
 2018-11-14 Wed	192 192 - Seattle Military Road	193 193 - Federal Way Express
+2018-11-15 Thu	952 952 - Everett Special	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-16 Fri	179 179 - Downtown Seattle Federal Way Transit Center	143 143 - Black Diamond Renton - Express
+2018-11-19 Mon	143 143 - Downtown Seattle Renton - Express	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-20 Tue	197 197 - University District Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-11-21 Wed	197 197 - University District Federal Way Transit Center	143 143 - Black Diamond Renton - Express

@@ -31,3 +31,8 @@
 2018-11-12 Mon	988 988 - Central District Madrona	18 18 - North Beach
 2018-11-13 Tue	18 18 - Downtown Seattle	15 15 - Blue Ridge
 2018-11-14 Wed	15 15 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	21 21 - Arbor Heights - Express
+2018-11-15 Thu	56 56   DOWNTOWN SEATTLE	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express	15 15 - Blue Ridge
+2018-11-16 Fri	994 994 - Haller Lake Special	15 15 - Downtown Seattle	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-11-19 Mon	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-20 Tue	40 40 - Downtown Seattle Fremont	77 77 - North City Maple Leaf
+2018-11-21 Wed	40 40 - Downtown Seattle Ballard	56 56 - Alki Via SR-99

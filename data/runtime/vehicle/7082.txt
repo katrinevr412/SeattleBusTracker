@@ -47,3 +47,8 @@
 2018-11-12 Mon	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60   WESTWOOD VILLAGE	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill
 2018-11-13 Tue	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
 2018-11-14 Wed	55 55 - Downtown Seattle Alaska Junction	17 17 - Downtown Seattle	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60   WESTWOOD VILLAGE
+2018-11-15 Thu	57 57 - Downtown Seattle Via SR-99	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill	60 60 - Broadway First Hill	60 60 - Westwood Village N Beacon Hill
+2018-11-16 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Crown Hill Only Fremont
+2018-11-19 Mon	113 113 - Downtown Seattle White Center	128 128 - Admiral District White Center	128 128 - Southcenter White Center	125 125 - Downtown Seattle South Seattle College
+2018-11-20 Tue	125 125 - Downtown Seattle South Seattle College
+2018-11-21 Wed	56 56 - Downtown Seattle Via SR-99	5 5 - Downtown Seattle - Express	113 113 - Shorewood White Center

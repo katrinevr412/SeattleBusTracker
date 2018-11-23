@@ -35,3 +35,8 @@
 2018-11-12 Mon	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
 2018-11-13 Tue	889 889 - International School Sammamish HS
 2018-11-14 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-15 Thu	277 277   UNIVERSITY DISTRICT	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-16 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-19 Mon	893 893 - Lake Washington High School
+2018-11-20 Tue	889 889 - International School Sammamish HS	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-21 Wed	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	342 342 - Shoreline P&R Bellevue

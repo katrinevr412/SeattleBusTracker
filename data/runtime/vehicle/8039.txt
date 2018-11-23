@@ -34,3 +34,6 @@
 2018-11-11 Sun	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center	8 8 - Seattle Center	8 8 - Mount Baker Transit Center
 2018-11-12 Mon	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	29 29 - Ballard Queen Anne
 2018-11-14 Wed	63 63 - Northgate East Green Lake
+2018-11-15 Thu	121 121   DOWNTOWN SEATTLE	123 123 - Downtown Seattle Via SR-509	64 64 - Jackson Park Wedgwood	48 48 - Mount Baker Transit Center Central District
+2018-11-16 Fri	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	123 123 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	64 64 - Jackson Park Wedgwood	48 48 - Mount Baker Transit Center Central District
+2018-11-17 Sat	8 8 - Seattle Center

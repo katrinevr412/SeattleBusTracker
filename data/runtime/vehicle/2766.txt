@@ -51,3 +51,10 @@
 2018-11-12 Mon	5 5 - Downtown Seattle - Express	57 57 - Alaska Junction Via SR-99	21 21 - Arbor Heights - Express
 2018-11-13 Tue	214 214 - Downtown Seattle	214 214 - Issaquah Transit Center Transit Center Only
 2018-11-14 Wed	5 5 - Downtown Seattle - Express	17 17 - Sunset Hill	56 56 - Alki Via SR-99
+2018-11-15 Thu	214 214   DOWNTOWN SEATTLE	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont
+2018-11-16 Fri	55 55 - Downtown Seattle Alaska Junction	57 57 - Alaska Junction Via SR-99
+2018-11-17 Sat	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-11-18 Sun	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	49 49 - University District Broadway	49 49 - Downtown Seattle Broadway	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-11-19 Mon	77 77 - Downtown Seattle Maple Leaf
+2018-11-20 Tue	113 113 - Downtown Seattle White Center	40 40 - Downtown Seattle Ballard	17 17 - Sunset Hill	55 55 - Admiral District Alaska Junction
+2018-11-21 Wed	994 994 - Haller Lake Special	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express

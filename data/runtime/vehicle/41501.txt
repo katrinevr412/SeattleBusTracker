@@ -37,3 +37,8 @@
 2018-11-12 Mon	567 567 - Kent St Via Renton	590 590 - Commerce - Tac Dome
 2018-11-13 Tue	580 580 - Puyallup Station	567 567 - overlake Tc via bellevue	580 580 - Puyallup Station
 2018-11-14 Wed	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-11-15 Thu	580 580 - Puyallup Station	590 590 - Tac Dome	594 594 - Seattle - Tacoma
+2018-11-16 Fri	580 580 - Puyallup Station	580 580 - Lakewood	590 590 - Tac Dome
+2018-11-19 Mon	560 560 - Bellevue Via Sea-Tac Airport
+2018-11-20 Tue	580 580 - Puyallup Station	567 567 - Kent St Via Renton
+2018-11-21 Wed	580 580 - Puyallup Station	580 580 - Lakewood	567 567 - Kent St Via Renton

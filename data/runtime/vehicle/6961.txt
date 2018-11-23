@@ -38,3 +38,8 @@
 2018-11-12 Mon	312 312 - Bothell	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf
 2018-11-13 Tue	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	73 73 - Jackson Park Maple Leaf	73 73 - University District Maple Leaf	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
 2018-11-14 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-15 Thu	342 342 - Renton Bellevue	167 167 - University District Via SR-520	41 41 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Kenmore
+2018-11-16 Fri	304 304 - Downtown Seattle	74 74 - Downtown Seattle	75 75 - Northgate Lake City	41 41 - Northgate Northeast 125th Only
+2018-11-19 Mon	316 316 - Downtown Seattle Green Lake	41 41 - Northgate Northeast 125th Only	312 312 - Kenmore
+2018-11-20 Tue	312 312 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	74 74 - Sand Point Ravenna
+2018-11-21 Wed	355 355 - Downtown Seattle	316 316 - Downtown Seattle Green Lake	41 41 - Northgate Northeast 125th Only	312 312 - Bothell

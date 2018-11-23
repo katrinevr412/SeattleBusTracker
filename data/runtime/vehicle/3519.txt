@@ -38,3 +38,7 @@
 2018-11-09 Fri	240 240 - Renton	240 240 - Bellevue Transit Center
 2018-11-10 Sat	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish	269 269 - Bear Creek Sammamish	269 269   ISSAQUAH HIGHLANDS	269 269 - Bear Creek Sammamish	269 269 - Issaquah Highlands Sammamish
 2018-11-12 Mon	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-15 Thu	232 232 - Bellevue Redmond	232 232 - Redmond	245 245 - Factoria Crossroads
+2018-11-16 Fri	271 271 - University District Bellevue	271 271 - Eastgate Bellevue
+2018-11-19 Mon	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-21 Wed	271 271 - University District Bellevue	271 271 - Eastgate Bellevue	342 342 - Shoreline P&R Bellevue	981 981 - Mercer Island Special

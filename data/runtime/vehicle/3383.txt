@@ -41,3 +41,7 @@
 2018-11-12 Mon	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
 2018-11-13 Tue	232 232 - Bellevue Redmond	232 232 - Redmond	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
 2018-11-14 Wed	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	245 245 - Factoria Crossroads
+2018-11-15 Thu	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-19 Mon	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-11-20 Tue	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-21 Wed	887 887 - International School	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue

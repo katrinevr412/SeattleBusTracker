@@ -7,3 +7,8 @@
 2018-11-12 Mon	271 271 - University District Bellevue	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
 2018-11-13 Tue	232 232 - Bellevue Redmond	245 245 - Factoria Crossroads
 2018-11-14 Wed	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-15 Thu	271 271 - Eastgate Bellevue	271 271 - University District Bellevue
+2018-11-16 Fri	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-19 Mon	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria
+2018-11-20 Tue	887 887 - International School	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads
+2018-11-21 Wed	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads

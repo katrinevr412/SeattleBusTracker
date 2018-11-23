@@ -49,3 +49,10 @@
 2018-11-12 Mon	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	121 121   HIGHLINE COLLEGE
 2018-11-13 Tue	121 121 - Downtown Seattle Via SR-509	121 121 - Burien Transit Center Via SR-509	121 121 - Downtown Seattle Via SR-509	122 122 - Highline College Via SR-509
 2018-11-14 Wed	29 29 - Ballard Queen Anne
+2018-11-15 Thu	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-16 Fri	37 37 - Downtown Seattle Alki - Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-17 Sat	33 33 - E Magnolia	27 27   DOWNTOWN SEATTLE	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	27 27 - Colman Park Yesler
+2018-11-19 Mon	28 28 - Downtown Seattle	121 121 - Highline College Via SR-509
+2018-11-20 Tue	45 45 - University District East Green Lake	45 45 - Loyal Heights Greenwood	45 45 - University District East Green Lake	19 19 - West Magnolia	122 122 - Highline College Via SR-509
+2018-11-21 Wed	308 308 - Downtown Seattle Via I-5	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express	9 9 - Broadway Express	9 9 - Rainier Beach Station Express
+2018-11-22 Thu	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia	33 33 - Downtown Seattle	27 27 - Colman Park Yesler	27 27 - Downtown Seattle Yesler	33 33 - E Magnolia

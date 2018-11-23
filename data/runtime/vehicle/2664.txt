@@ -41,3 +41,8 @@
 2018-11-09 Fri	301 301 - Downtown Seattle - Express	316 316 - Meridian Park Green Lake
 2018-11-13 Tue	41 41 - Downtown Seattle	312 312 - Bothell
 2018-11-14 Wed	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-11-15 Thu	312 312 - Downtown Seattle	312 312 - Bothell
+2018-11-16 Fri	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	304 304 - Richmond Beach
+2018-11-19 Mon	355 355 - Downtown Seattle	373 373 - University District Jackson Park	373 373 - Aurora Village Jackson Park
+2018-11-20 Tue	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	74 74 - Sand Point Ravenna	312 312 - Kenmore
+2018-11-21 Wed	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake

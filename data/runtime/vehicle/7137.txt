@@ -27,3 +27,4 @@
 2018-11-12 Mon	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	9 9 - Broadway Express	121 121 - Downtown Seattle Via SR-509
 2018-11-13 Tue	24 24 - Downtown Seattle	124 124 - Tukwila Link Station Georgetown	124 124 - Downtown Seattle Georgetown	45 45 - Loyal Heights Greenwood
 2018-11-14 Wed	24 24 - Downtown Seattle	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake	62 62 - Downtown Seattle Fremont	62 62 - Sand Point East Green Lake
+2018-11-15 Thu	62 62 - Downtown Seattle Fremont

@@ -38,3 +38,4 @@
 2018-11-07 Wed	311 311 - Downtown Seattle Via SR-520
 2018-11-08 Thu	218 218 - Issaquah Highlands	212 212 - Eastgate P&R
 2018-11-09 Fri	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Kirkland Transit Center S Kirkland P&R	255 255 - Brickyard P&R Kirkland
+2018-11-21 Wed	255 255 - Brickyard P&R Kirkland

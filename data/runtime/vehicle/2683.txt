@@ -46,3 +46,10 @@
 2018-11-12 Mon	994 994 - Haller Lake Special	15 15 - Downtown Seattle	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
 2018-11-13 Tue	214 214 - Downtown Seattle	18 18 - North Beach	55 55 - Admiral District Alaska Junction
 2018-11-14 Wed	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	5 5 - Greenwood - Express
+2018-11-15 Thu	55 55 - Downtown Seattle Alaska Junction	214 214 - Issaquah Transit Center Transit Center Only
+2018-11-16 Fri	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	21 21 - Arbor Heights - Express
+2018-11-17 Sat	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - Downtown Seattle N Beacon Hill	36 36 - Othello Station N Beacon Hill	36 36 - International District Chinatown Station N Beacon Hill
+2018-11-18 Sun	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Prentice St Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S	7 7 - Rainier Beach Via Rainier Ave S	7 7 - Downtown Seattle Via Rainier Ave S
+2018-11-19 Mon	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle - Express	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-11-20 Tue	21 21 - Downtown Seattle - Express	17 17 - Downtown Seattle	77 77 - North City Maple Leaf
+2018-11-21 Wed	214 214 - Downtown Seattle	987 987 - Rainier Beach Special	17 17 - Sunset Hill

@@ -29,3 +29,8 @@
 2018-11-01 Thu	116 116 - Fauntleroy
 2018-11-02 Fri	193 193 - First Hill Express	177 177   FEDERAL WAY
 2018-11-14 Wed	143 143 - Black Diamond	143 143 - Downtown Seattle Renton - Express	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-11-15 Thu	157 157 - Downtown Seattle East Hill	952 952 - Auburn Special
+2018-11-16 Fri	952 952 - Everett Special	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-19 Mon	111 111 - Downtown Seattle	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-20 Tue	111 111 - Downtown Seattle	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard	671 671 - Tukwila Link Station International Boulevard	671 671 - Federal Way Transit Center International Boulevard
+2018-11-21 Wed	143 143 - Downtown Seattle Renton - Express	179 179 - Twin Lakes P&R Federal Way Transit Center
