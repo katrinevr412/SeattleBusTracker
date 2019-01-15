@@ -1,0 +1,6 @@
+2019-01-04 Fri	268 268 - Bear Creek P&R Via SR-520
+2019-01-07 Mon	218 218 - Issaquah Highlands	257 257 - Kingsgate
+2019-01-08 Tue	218 218 - Downtown Seattle	218 218 - Issaquah Highlands
+2019-01-09 Wed	268 268 - Downtown Seattle Via SR-520	219 219 - Redmond Issaquah Highlands Park & Ride
+2019-01-10 Thu	212 212 - Downtown Seattle	217 217 - N Issaquah Eastgate	311 311 - Woodinville Via SR-520
+2019-01-14 Mon	522 522 - Bothell

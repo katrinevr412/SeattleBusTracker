@@ -46,3 +46,27 @@
 2018-11-19 Mon	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
 2018-11-20 Tue	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
 2018-11-21 Wed	271 271 - Eastgate Bellevue	277 277 - Juanita Houghton P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-11-23 Fri	277 277 - University District Houghton P&R	271 271 - Issaquah Transit Center Bellevue	277 277 - Juanita Houghton P&R
+2018-11-26 Mon	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	226 226 - Bellevue Transit Center Crossroads	241 241 - Eastgate P&R Factoria	241 241 - Bellevue Transit Center Factoria	226 226 - Eastgate P&R Crossroads	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-27 Tue	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	234 234 - Kenmore Kirkland
+2018-11-28 Wed	232 232 - Bellevue Redmond	232 232 - Redmond	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue
+2018-11-29 Thu	232 232 - Bellevue Redmond	232 232 - Redmond	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-30 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-12-03 Mon	886 886 - International School Bellevue HS	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-12-04 Tue	240 240 - Renton	240 240 - Bellevue Transit Center	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-12-05 Wed	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-12-06 Thu	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center	269 269 - Overlake	269 269 - Issaquah Transit Center
+2018-12-07 Fri	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland
+2018-12-10 Mon	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234 - Kenmore Kirkland	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234   KENMORE	234 234 - Bellevue Transit Center Kirkland	235 235 - Kingsgate P&R Kirkland	235 235 - Bellevue Transit Center Kirkland	234 234   KENMORE	234 234 - Bellevue Transit Center Kirkland	235 235   KINGSGATE P&R
+2018-12-11 Tue	886 886 - International School Bellevue HS	271 271 - Eastgate P&R Bellevue
+2018-12-12 Wed	236 236 - Kirkland Totem Lake	238 238 - Woodinville UW Bothell/Cascadia College	236 236 - Kirkland Totem Lake	238 238 - Woodinville UW Bothell/Cascadia College	238 238 - Kirkland Totem Lake	236 236   WOODINVILLE	236 236 - Kirkland Totem Lake	238 238   WOODINVILLE	238 238 - Kirkland Totem Lake	236 236   WOODINVILLE
+2018-12-13 Thu	277 277 - University District Houghton P&R	244 244   OVERLAKE TRANSIT CENTER	277 277 - Juanita Houghton P&R	244 244 - Kenmore Kingsgate P&R
+2018-12-14 Fri	232 232 - Bellevue Redmond	232 232 - Redmond	271 271   ISSAQUAH TRANSIT CENTER	271 271 - University District Bellevue
+2018-12-17 Mon	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	240 240 - Renton	240 240   BELLEVUE TRANSIT CENTER
+2018-12-19 Wed	232 232 - Bellevue Via SR-520	232 232 - Duvall Redmond
+2018-12-20 Thu	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-12-21 Fri	249 249 - S Bellevue	249 249 - Overlake Transit Center S Kirkland P&R	249 249 - S Bellevue S Kirkland P&R	249 249 - Overlake Transit Center S Kirkland P&R	249 249 - S Bellevue S Kirkland P&R	249 249 - Overlake Transit Center S Kirkland P&R	249 249 - S Bellevue S Kirkland P&R	249 249 - Overlake Transit Center S Kirkland P&R	249 249 - S Bellevue S Kirkland P&R	249 249 - Overlake Transit Center S Kirkland P&R
+2019-01-09 Wed	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2019-01-10 Thu	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2019-01-11 Fri	240 240 - Renton	240 240 - Bellevue Transit Center	221 221 - Eastgate P&R	221 221 - Education Hill
+2019-01-14 Mon	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue

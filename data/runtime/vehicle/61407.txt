@@ -32,3 +32,21 @@
 2018-11-19 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
 2018-11-20 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
 2018-11-21 Wed	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-23 Fri	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-26 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-27 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-28 Wed	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-11-29 Thu	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-11-30 Fri	577 577 - Seattle	577 577 - Federal Way TC	574 574 - SeaTac Airport via Tacoma Via Fedway
+2018-12-01 Sat	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma
+2018-12-03 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-04 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-05 Wed	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-06 Thu	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-07 Fri	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-10 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-11 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-12-12 Wed	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-13 Thu	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2018-12-14 Fri	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2018-12-17 Mon	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma

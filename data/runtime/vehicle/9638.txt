@@ -1,0 +1,14 @@
+2018-12-24 Mon	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-12-25 Tue	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle
+2018-12-26 Wed	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle
+2018-12-27 Thu	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle
+2018-12-28 Fri	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2018-12-31 Mon	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2019-01-02 Wed	556 556 - Northgate	555 555 - Bellevue Transit Center	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2019-01-03 Thu	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2019-01-04 Fri	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2019-01-09 Wed	522 522 - Woodinville
+2019-01-11 Fri	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue
+2019-01-12 Sat	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	550 550 - Bellevue	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	550 550 - Bellevue	550 550   SEATTLE EXPRESS
+2019-01-13 Sun	550 550   SEATTLE EXPRESS	554 554   DOWNTOWN SEATTLE EXPRESS	550 550   BELLEVUE EXPRESS	550 550 - Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah
+2019-01-14 Mon	555 555 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	555 555 - Northgate

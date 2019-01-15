@@ -1,0 +1,10 @@
+2019-01-03 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2019-01-04 Fri	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2019-01-07 Mon	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2019-01-08 Tue	982 982 - Haller Lake Special	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2019-01-09 Wed	545 545 - Redmond	545 545 - Downtown Seattle	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2019-01-10 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2019-01-11 Fri	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2019-01-12 Sat	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2019-01-13 Sun	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2019-01-14 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle

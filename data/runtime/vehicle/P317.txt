@@ -1,0 +1,16 @@
+2018-12-24 Mon	P63 63 - NE Tacoma Downtown
+2018-12-26 Wed	P102 102 - Gig Harbor - Express-Purdy
+2018-12-27 Thu	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P102 102 - Gig Harbor - Express-Purdy
+2018-12-31 Mon	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
+2019-01-02 Wed	P63 63 - Downtown Tacoma	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2019-01-03 Thu	P102 102 - Gig Harbor - Express-Purdy
+2019-01-04 Fri	P102 102 - Gig Harbor - Express-Purdy
+2019-01-05 Sat	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2019-01-06 Sun	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2019-01-07 Mon	P63 63 - Downtown Tacoma
+2019-01-08 Tue	P63 63 - Downtown Tacoma	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2019-01-09 Wed	P28 28 - S 12th St
+2019-01-10 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy
+2019-01-11 Fri	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
+2019-01-13 Sun	P10 10 - Pearl St	P28 28 - S 12th St	P10 10 - Pearl St	P28 28 - S 12th St	P10 10 - Pearl St	P28 28 - S 12th St	P10 10 - Pearl St
+2019-01-14 Mon	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy

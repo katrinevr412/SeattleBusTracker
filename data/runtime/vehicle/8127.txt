@@ -43,3 +43,37 @@
 2018-11-14 Wed	111 111 - Downtown Seattle	177 177 - Federal Way, 320th P&R Via I-5
 2018-11-20 Tue	159 159 - Timberlane Kent Station
 2018-11-21 Wed	177 177 - Downtown Seattle Via I-5	952 952 - Auburn Special	190 190 - Redondo Heights P&R Star Lake P&R
+2018-11-23 Fri	177 177 - Downtown Seattle Via I-5	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-11-26 Mon	193 193 - First Hill Express	158 158 - Kent Via I-5
+2018-11-27 Tue	159 159 - Timberlane Kent Station
+2018-11-28 Wed	197 197 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-11-29 Thu	952 952 - Everett Special	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-11-30 Fri	143 143 - Downtown Seattle Renton - Express	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-12-03 Mon	197 197 - University District Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-12-04 Tue	952 952 - Everett Special
+2018-12-05 Wed	143 143 - Downtown Seattle Renton - Express	116 116 - Fauntleroy
+2018-12-06 Thu	197 197 - University District Federal Way Transit Center	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-12-07 Fri	193 193 - First Hill Express	177 177 - Federal Way, 320th P&R Via I-5
+2018-12-10 Mon	143 143 - Downtown Seattle Renton - Express	952 952 - Auburn Special
+2018-12-11 Tue	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-12-12 Wed	178 178 - Downtown Seattle Federal Way Park and Ride	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-12-13 Thu	179 179 - Downtown Seattle Federal Way Transit Center	177 177 - Federal Way, 320th P&R Via I-5	178 178 - S Federal Way Federal Way Park and Ride
+2018-12-14 Fri	197 197   TWIN LAKES P&R	143 143 - Black Diamond Renton - Express
+2018-12-17 Mon	197 197 - University District Federal Way Transit Center	193 193 - Federal Way Express
+2018-12-18 Tue	179 179 - Downtown Seattle Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2018-12-19 Wed	143 143 - Downtown Seattle Renton - Express	111 111 - Lake Kathleen Via I-90	190 190 - Redondo Heights P&R Star Lake P&R
+2018-12-20 Thu	143 143 - Downtown Seattle Renton - Express
+2018-12-21 Fri	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-12-24 Mon	143 143 - Downtown Seattle Renton - Express	197 197 - Twin Lakes P&R Federal Way Transit Center
+2018-12-26 Wed	177 177 - Downtown Seattle Via I-5	159 159 - Timberlane Kent Station
+2018-12-27 Thu	159 159 - Timberlane Kent Station
+2018-12-28 Fri	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport	178 178 - S Federal Way Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2018-12-31 Mon	177 177 - Downtown Seattle Via I-5	197 197 - Twin Lakes P&R Federal Way Transit Center
+2019-01-02 Wed	111 111 - Downtown Seattle	116 116 - Downtown Seattle
+2019-01-03 Thu	178 178 - Downtown Seattle Federal Way Park and Ride	177 177 - Federal Way, 320th P&R Via I-5
+2019-01-04 Fri	158 158 - Kent Via I-5
+2019-01-07 Mon	111 111 - Downtown Seattle	180 180 - Burien Transit Center Seattle Tacoma International Airport
+2019-01-08 Tue	193 193 - First Hill Express
+2019-01-10 Thu	157 157 - Downtown Seattle East Hill	179 179 - Twin Lakes P&R Federal Way Transit Center	111 111 - Lake Kathleen Via I-90
+2019-01-11 Fri	143 143 - Downtown Seattle Renton - Express
+2019-01-14 Mon	177 177 - Federal Way, 320th P&R Via I-5

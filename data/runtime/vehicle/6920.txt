@@ -10,3 +10,15 @@
 2018-11-16 Fri	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
 2018-11-19 Mon	301 301 - Downtown Seattle - Express	373 373 - University District Jackson Park	32 32 - University District Fremont	75 75 - Northgate Lake City	74 74 - Sand Point Ravenna
 2018-11-20 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-12-18 Tue	372 372   UNIVERSITY DISTRICT EXPRESS	372 372 - UW Bothell/Cascadia College Kenmore
+2018-12-19 Wed	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - Kenmore P&R Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-12-20 Thu	41 41 - Downtown Seattle	41 41 - Lake City Northgate	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-12-21 Fri	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-12-22 Sat	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-12-23 Sun	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2018-12-24 Mon	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore	372 372 - University District Lake City	372 372 - UW Bothell/Cascadia College Kenmore
+2018-12-26 Wed	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only
+2018-12-27 Thu	312 312 - Downtown Seattle
+2018-12-31 Mon	74 74 - Downtown Seattle	312 312 - Bothell
+2019-01-02 Wed	74 74 - Downtown Seattle	74 74 - Sand Point Ravenna
+2019-01-03 Thu	301 301 - Downtown Seattle - Express	312 312 - Downtown Seattle

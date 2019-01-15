@@ -38,3 +38,39 @@
 2018-11-20 Tue	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
 2018-11-21 Wed	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
 2018-11-22 Thu	P10 10 - Pearl St	P28 28 - S 12th St	P10 10 - Pearl St
+2018-11-23 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-11-26 Mon	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th
+2018-11-27 Tue	P102 102 - Gig Harbor - Express-Purdy
+2018-11-28 Wed	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P63 63 - NE Tacoma Downtown
+2018-11-29 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P63 63 - NE Tacoma Downtown
+2018-11-30 Fri	P63 63 - Downtown Tacoma	P102 102 - Gig Harbor - Express-Purdy
+2018-12-02 Sun	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-03 Mon	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P497 497 - Lakeland Hills
+2018-12-04 Tue	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-05 Wed	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-06 Thu	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th
+2018-12-07 Fri	P63 63 - Downtown Tacoma	P102 102 - Gig Harbor - Express-Purdy
+2018-12-10 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-12-13 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-14 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-12-16 Sun	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC
+2018-12-17 Mon	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-18 Tue	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill
+2018-12-19 Wed	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P202 202 - Lakewood	P63 63 - NE Tacoma Downtown
+2018-12-21 Fri	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2018-12-22 Sat	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-24 Mon	P63 63 - Downtown Tacoma	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-26 Wed	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2018-12-27 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy
+2018-12-28 Fri	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2018-12-31 Mon	P102 102 - Gig Harbor - Express-Purdy
+2019-01-01 Tue	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station	P409 409 - 72nd St TC	P409 409 - Puyallup Station
+2019-01-02 Wed	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy
+2019-01-04 Fri	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
+2019-01-07 Mon	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy
+2019-01-08 Tue	P28 28 - S 12th St
+2019-01-09 Wed	P63 63 - Downtown Tacoma	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2019-01-10 Thu	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - 72nd St TC	P54 54 - 72nd TC	P202 202 - Lakewood
+2019-01-11 Fri	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th	P13 13 - Proctor via N.30th	P13 13 - Tacoma Dome via N.30th
+2019-01-12 Sat	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC
+2019-01-14 Mon	P55 55 - Tacoma Mall	P53 53 - TCC via Tacoma Mall	P53 53 - Tacoma Mall	P55 55 - Tacoma Mall	P53 53 - TCC via Tacoma Mall	P53 53 - Tacoma Mall	P55 55 - Parkland	P53 53 - TCC via Tacoma Mall	P53 53 - Tacoma Mall	P55 55 - Parkland	P55 55 - Tacoma Mall	P53 53 - TCC via Tacoma Mall	P53 53 - Tacoma Mall	P55 55 - Parkland	P55 55 - Tacoma Mall	P53 53 - Tacoma Mall	P55 55 - Tacoma Mall

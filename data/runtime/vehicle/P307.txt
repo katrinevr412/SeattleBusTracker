@@ -1,0 +1,3 @@
+2018-12-18 Tue	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy
+2018-12-19 Wed	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P102 102 - Gig Harbor - Express-Purdy
+2018-12-20 Thu	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P100 100 - TCC	P100 100 - Gig Harbor - Purdy	P102 102 - Gig Harbor - Express-Purdy

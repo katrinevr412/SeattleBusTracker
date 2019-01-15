@@ -20,3 +20,9 @@
 2018-11-02 Fri	P425 425 - Puyallup Connector-Downtown
 2018-11-14 Wed	P425 425 - Puyallup Connecto-South Hill
 2018-11-20 Tue	P425 425 - Puyallup Connector-Downtown
+2018-11-23 Fri	P425 425 - Puyallup Connector-Downtown
+2018-12-03 Mon	P425 425 - Puyallup Connector-Downtown
+2018-12-18 Tue	P425 425 - Puyallup Connecto-South Hill
+2018-12-24 Mon	P425 425 - Puyallup Connector-Downtown
+2019-01-02 Wed	P425 425 - Puyallup Connector-Downtown
+2019-01-04 Fri	P425 425 - Puyallup Connecto-South Hill

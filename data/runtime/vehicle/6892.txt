@@ -38,3 +38,7 @@
 2018-11-13 Tue	179 179 - Downtown Seattle Federal Way Transit Center	192 192 - Seattle Military Road	150 150 - Kent Southcenter
 2018-11-14 Wed	179 179 - Downtown Seattle Federal Way Transit Center
 2018-11-18 Sun	101 101 - Downtown Seattle
+2018-11-23 Fri	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
+2018-11-24 Sat	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-11-25 Sun	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-11-26 Mon	158 158 - Downtown Seattle Via I-5	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter

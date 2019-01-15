@@ -14,3 +14,12 @@
 2018-10-31 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pacific Ave - Parkland
 2018-11-19 Mon	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan
 2018-11-20 Tue	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-11-30 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-12-03 Mon	P497 497 - Lakeland Hills
+2018-12-04 Tue	P497 497 - Lakeland Hills
+2018-12-10 Mon	P212 212 - Pierce College	P214 214 - Lakewood-VA Hospital	P214 214 - VA Hospital-Pierce College	P214 214 - Lakewood
+2018-12-11 Tue	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
+2018-12-12 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
+2018-12-17 Mon	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
+2018-12-18 Tue	P102 102 - Gig Harbor - Express-Purdy
+2018-12-19 Wed	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P500 500 - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma

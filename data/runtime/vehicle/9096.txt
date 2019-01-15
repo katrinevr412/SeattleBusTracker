@@ -36,3 +36,26 @@
 2018-11-19 Mon	577 577 - Seattle	567 567 - Kent St Via Renton	566 566 - Kent Station
 2018-11-20 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
 2018-11-21 Wed	592 592 - Seattle -  Express	566 566 - Kent Station
+2018-11-23 Fri	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-11-26 Mon	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-11-27 Tue	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-11-28 Wed	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	566 566 - Auburn Stn Via Renton
+2018-11-29 Thu	590 590 - Seattle	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	578 578 - Puyallup via federal way	578 578 - Seattle via Federal way	590 590 - Commerce - Tac Dome
+2018-11-30 Fri	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	590 590 - Commerce - Tac Dome
+2018-12-03 Mon	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-12-04 Tue	567 567 - overlake Tc via bellevue	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma	574 574 - SeaTac Airport via Tacoma Via Fedway	574 574 - Lakewood via Federal Way via Tacoma
+2018-12-05 Wed	592 592 - Seattle -  Express	590 590 - Tac Dome
+2018-12-06 Thu	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
+2018-12-07 Fri	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton
+2018-12-20 Thu	590 590 - Tac Dome	590 590 - Seattle
+2018-12-21 Fri	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-12-24 Mon	592 592 - Seattle -  Express	590 590 - Seattle	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	590 590 - Commerce - Tac Dome
+2018-12-26 Wed	566 566 - Overlake TC via Renton	567 567 - Kent St Via Renton	566 566 - Kent Station
+2018-12-27 Thu	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	590 590 - Tac Dome
+2018-12-28 Fri	586 586 - U District -  Express
+2018-12-31 Mon	566 566 - Auburn Stn Via Renton
+2019-01-03 Thu	578 578 - Seattle via Federal way	590 590 - Tac Dome
+2019-01-04 Fri	592 592 - Seattle -  Express	566 566 - Auburn Stn Via Renton
+2019-01-07 Mon	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2019-01-08 Tue	590 590 - Seattle - Tac Dome	590 590 - Commerce - Tac Dome	590 590 - Seattle - Tac Dome	590 590 - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2019-01-09 Wed	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont

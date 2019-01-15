@@ -37,3 +37,25 @@
 2018-11-15 Thu	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	143 143 - Black Diamond Renton - Express
 2018-11-16 Fri	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
 2018-11-19 Mon	101 101 - Downtown Seattle
+2018-11-30 Fri	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2018-12-03 Mon	159 159 - Downtown Seattle Via I-5	952 952 - Auburn Special
+2018-12-21 Fri	102 102 - Fairwood S Renton P&R	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2018-12-22 Sat	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-12-24 Mon	190 190 - Downtown Seattle Star Lake P&R	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2018-12-26 Wed	102 102 - Downtown Seattle S Renton P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	179 179 - Twin Lakes P&R Federal Way Transit Center
+2018-12-27 Thu	157 157 - Downtown Seattle East Hill	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle
+2018-12-28 Fri	101 101 - Downtown Seattle	159 159 - Timberlane Kent Station
+2018-12-31 Mon	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2019-01-02 Wed	102 102 - Downtown Seattle S Renton P&R	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2019-01-03 Thu	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
+2019-01-04 Fri	102 102 - Downtown Seattle S Renton P&R	102 102 - S Renton P&R	158 158 - Kent Via I-5
+2019-01-05 Sat	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2019-01-06 Sun	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter
+2019-01-07 Mon	102 102 - Downtown Seattle S Renton P&R	102 102 - S Renton P&R	102 102 - Fairwood S Renton P&R
+2019-01-08 Tue	158 158 - Downtown Seattle Via I-5	190 190 - Redondo Heights P&R Star Lake P&R	179 179 - Twin Lakes P&R Federal Way Transit Center
+2019-01-09 Wed	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R
+2019-01-10 Thu	158 158 - Downtown Seattle Via I-5	190 190 - Downtown Seattle Star Lake P&R	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter
+2019-01-11 Fri	102 102 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	102 102 - S Renton P&R	150 150 - Kent Southcenter
+2019-01-12 Sat	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter
+2019-01-13 Sun	101 101 - S Renton P&R	101 101 - Downtown Seattle	150 150 - Kent Southcenter	150 150 - Downtown Seattle Southcenter	150 150 - Kent Southcenter	180 180 - Seattle Tacoma International Airport Kent Station
+2019-01-14 Mon	190 190 - Downtown Seattle Star Lake P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R	101 101 - Downtown Seattle	101 101 - S Renton P&R

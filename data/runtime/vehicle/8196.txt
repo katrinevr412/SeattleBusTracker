@@ -44,3 +44,38 @@
 2018-11-19 Mon	257 257 - Downtown Seattle	824 824 - Newcastle Newport HS	311 311 - Woodinville Via SR-520
 2018-11-20 Tue	212 212 - Downtown Seattle
 2018-11-21 Wed	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle
+2018-11-23 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-11-26 Mon	268 268 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-11-27 Tue	218 218 - Downtown Seattle	212 212 - Eastgate P&R
+2018-11-28 Wed	982 982 - Haller Lake Special	823 823 - Cougar Mountain Newport HS	268 268 - Bear Creek P&R Via SR-520
+2018-11-29 Thu	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2018-11-30 Fri	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	893 893 - Forbes Creek	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-12-03 Mon	212 212 - Downtown Seattle
+2018-12-04 Tue	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-05 Wed	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-12-06 Thu	888 888 - International School Interlake HS	212 212 - Downtown Seattle	895 895 - Ardmore Park	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-07 Fri	311 311 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-10 Mon	311 311   DOWNTOWN SEATTLE	212 212   EASTGATE P&R	252 252 - Kingsgate Via SR-520
+2018-12-11 Tue	982 982 - Haller Lake Special	212 212 - Eastgate P&R
+2018-12-12 Wed	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	216 216   BEAR CREEK P&R
+2018-12-13 Thu	257 257 - Downtown Seattle	986 986 - Houghton P&R Special	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-12-14 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	212 212   EASTGATE P&R	257 257   KINGSGATE
+2018-12-17 Mon	257 257 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219   REDMOND
+2018-12-18 Tue	216 216 - Downtown Seattle Eastgate	982 982 - Bear Creek P&R Special	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-19 Wed	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-12-20 Thu	252 252 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-21 Fri	986 986 - Haller Lake Special	989 989 - Factoria Special	311 311 - Woodinville Via SR-520
+2018-12-24 Mon	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-12-26 Wed	219 219 - Downtown Seattle Eastgate	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2018-12-27 Thu	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-12-28 Fri	311 311 - Woodinville Via SR-520
+2018-12-31 Mon	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2019-01-02 Wed	257 257 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2019-01-03 Thu	212 212 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2019-01-04 Fri	212 212 - Downtown Seattle	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2019-01-07 Mon	218 218 - Downtown Seattle	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2019-01-08 Tue	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	212 212 - Eastgate P&R
+2019-01-09 Wed	212 212 - Downtown Seattle	218 218 - Downtown Seattle
+2019-01-10 Thu	257 257 - Downtown Seattle	219 219 - Redmond Issaquah Highlands Park & Ride
+2019-01-11 Fri	216 216 - Downtown Seattle Eastgate	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
+2019-01-14 Mon	212 212 - Downtown Seattle	212 212 - Eastgate P&R

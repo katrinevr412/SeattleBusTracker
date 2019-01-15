@@ -24,3 +24,19 @@
 2018-11-16 Fri	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P400 400 - S.Hill TC via Puyallup Station
 2018-11-19 Mon	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - SouthHill	P4 4 - Lakewood
 2018-11-20 Tue	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS	P402 402 - 176th and Meridian Via South Hill	P402 402 - Federal Way via Puyallup TS
+2018-11-26 Mon	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-11-27 Tue	P400 400 - Tacoma via Puyallup Station	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P501 501 - Milton/Federal Way -  via 20th St	P3 3 - Lakewood
+2018-11-29 Thu	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC
+2018-12-03 Mon	P102 102 - Gig Harbor - Express-Purdy
+2018-12-04 Tue	P400 400 - Tacoma via Puyallup Station	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P501 501 - Milton/Federal Way -  via 20th St	P3 3 - Lakewood
+2018-12-05 Wed	P102 102 - Gig Harbor - Express-Purdy
+2018-12-10 Mon	P3 3 - Downtown - Tacoma	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-12-11 Tue	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
+2018-12-18 Tue	P497 497 - Lakeland Hills
+2018-12-19 Wed	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7	P1 1 - Pacific Ave/6th Ave - Dwtn/TCC	P1 1 - 6th/Pac Ave - 8th Ave/SR7
+2018-12-20 Thu	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall	P52 52 - TCC	P10 10 - Pearl St	P52 52 - Tacoma Mall
+2018-12-21 Fri	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - SouthHill
+2018-12-24 Mon	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2018-12-26 Wed	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P3 3 - Lakewood	P3 3 - Downtown - Tacoma
+2019-01-10 Thu	P400 400 - Tacoma via Puyallup Station	P3 3 - Lakewood	P3 3 - Downtown - Tacoma	P501 501 - Milton/Federal Way -  via 20th St	P3 3 - Lakewood
+2019-01-11 Fri	P102 102 - Gig Harbor - Express-Purdy

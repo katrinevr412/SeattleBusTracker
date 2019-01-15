@@ -37,3 +37,28 @@
 2018-11-19 Mon	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-11-20 Tue	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-11-21 Wed	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-11-23 Fri	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-11-26 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-11-27 Tue	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-11-28 Wed	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-11-29 Thu	541 541 - Overlake	541 541 - University District University Of Washington Station
+2018-11-30 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-03 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-12-04 Tue	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-05 Wed	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-06 Thu	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-07 Fri	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-10 Mon	540 540   KIRKLAND EXPRESS	540 540 - University District	540 540   KIRKLAND EXPRESS	540 540 - University District	540 540   KIRKLAND EXPRESS
+2018-12-11 Tue	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541   OVERLAKE EXPRESS
+2018-12-12 Wed	541 541 - University District University Of Washington Station	541 541   OVERLAKE EXPRESS	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-13 Thu	542 542   REDMOND EXPRESS	542 542   GREEN LAKE P&R EXPRESS	542 542 - Redmond	541 541   OVERLAKE EXPRESS	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-14 Fri	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541   UNIVERSITY DISTRICT EXPRESS
+2018-12-17 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-19 Wed	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-21 Fri	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-12-24 Mon	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-26 Wed	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-27 Thu	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland
+2018-12-28 Fri	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2018-12-31 Mon	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	541 541 - Overlake
+2019-01-02 Wed	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland

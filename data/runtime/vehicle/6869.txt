@@ -1,1 +1,22 @@
 2018-09-18 Tue	41 41   DOWNTOWN SEATTLE	312 312   KENMORE EXPRESS
+2018-12-13 Thu	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt
+2018-12-14 Fri	304 304 - Downtown Seattle	31 31 - University District Fremont	75 75 - Northgate Lake City	41 41 - Lake City Northgate	41 41   DOWNTOWN SEATTLE	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41   LAKE CITY	41 41 - Downtown Seattle Northgate	41 41   LAKE CITY
+2018-12-17 Mon	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-12-18 Tue	372 372 - University District Lake City	74 74   DOWNTOWN SEATTLE	41 41 - Northgate Northeast 125th Only
+2018-12-19 Wed	304 304 - Downtown Seattle	661 661 - Interstate 5 and Northeast 145th Street	301 301 - Aurora Village Shoreline P&R - Express
+2018-12-20 Thu	301 301 - Downtown Seattle - Express	372 372 - University District Lake City
+2018-12-21 Fri	41 41 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only
+2018-12-24 Mon	41 41 - Downtown Seattle Northgate	41 41 - Northgate Northeast 125th Only	301 301 - Aurora Village Shoreline P&R - Express
+2018-12-26 Wed	312 312 - Downtown Seattle	312 312 - Bothell
+2018-12-28 Fri	41 41 - Northgate Northeast 125th Only	312 312 - Bothell
+2018-12-31 Mon	312 312 - Downtown Seattle	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate
+2019-01-01 Tue	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle	41 41 - Lake City Northgate
+2019-01-02 Wed	76 76 - Downtown Seattle Via I-5/NE 65 St	41 41 - Northgate Northeast 125th Only
+2019-01-03 Thu	312 312 - Downtown Seattle	372 372 - University District Lake City	74 74 - Sand Point Ravenna	312 312 - Kenmore
+2019-01-04 Fri	316 316 - Downtown Seattle Green Lake	301 301 - Downtown Seattle - Express	74 74 - Sand Point Ravenna
+2019-01-07 Mon	316 316 - Downtown Seattle Green Lake	316 316 - Meridian Park Green Lake
+2019-01-08 Tue	301 301 - Downtown Seattle - Express	74 74 - Downtown Seattle	41 41 - Northgate Northeast 125th Only	312 312 - Bothell
+2019-01-09 Wed	312 312 - Downtown Seattle	316 316 - Meridian Park Green Lake
+2019-01-10 Thu	312 312 - Downtown Seattle	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt	67 67 - University District Roosevelt	65 65 - Jackson Park Wedgwood	65 65 - University District Wedgwood	67 67 - Northgate Roosevelt
+2019-01-11 Fri	316 316 - Downtown Seattle Green Lake
+2019-01-14 Mon	41 41 - Downtown Seattle Northgate	41 41 - Lake City Northgate	41 41 - Downtown Seattle Northgate	74 74 - Sand Point Ravenna

@@ -55,3 +55,39 @@
 2018-11-20 Tue	214 214 - Downtown Seattle	77 77 - North City Maple Leaf
 2018-11-21 Wed	309 309 - First Hill Express	214 214 - Issaquah	5 5 - Greenwood - Express
 2018-11-22 Thu	5 5 - Shoreline Greenwood	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-11-23 Fri	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-11-24 Sat	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-11-25 Sun	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview	70 70 - University District Fairview	70 70 - Downtown Seattle Fairview
+2018-11-26 Mon	214 214 - Downtown Seattle	5 5 - Greenwood - Express
+2018-11-28 Wed	113 113 - Downtown Seattle White Center	40 40 - Downtown Seattle Ballard	994 994 - Downtown Seattle Special	40 40 - Crown Hill Only Fremont
+2018-11-29 Thu	988 988 - Haller Lake Special	21 21 - Arbor Heights - Express	5 5 - Greenwood - Express
+2018-11-30 Fri	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	15 15 - Blue Ridge
+2018-12-01 Sat	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood
+2018-12-02 Sun	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village	120 120 - Downtown Seattle Westwood Village	120 120 - Burien Transit Center Westwood Village
+2018-12-03 Mon	17 17 - Sunset Hill	56 56 - Alki Via SR-99
+2018-12-04 Tue	18 18 - Downtown Seattle	18 18   NORTH BEACH EXPRESS	55 55 - Admiral District Alaska Junction
+2018-12-05 Wed	15 15 - Downtown Seattle	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-12-06 Thu	214 214 - Downtown Seattle	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-12-07 Fri	214 214 - Downtown Seattle	57 57 - Alaska Junction Via SR-99	5 5 - Greenwood - Express
+2018-12-10 Mon	21 21   DOWNTOWN SEATTLE EXPRESS	214 214 - Issaquah
+2018-12-11 Tue	18 18 - Downtown Seattle	55 55 - Downtown Seattle Alaska Junction	56 56 - Alki Via SR-99
+2018-12-12 Wed	17 17 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	21 21   ARBOR HEIGHTS EXPRESS	17 17 - Sunset Hill
+2018-12-13 Thu	214 214 - Downtown Seattle	21 21 - Arbor Heights - Express	17 17 - Sunset Hill
+2018-12-14 Fri	40 40 - Crown Hill Only Fremont	40 40 - Northgate Fremont
+2018-12-15 Sat	5 5   DOWNTOWN SEATTLE	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood
+2018-12-16 Sun	40 40 - Northgate Fremont	40 40 - Downtown Seattle Ballard
+2018-12-17 Mon	214 214   DOWNTOWN SEATTLE	21 21 - Arbor Heights - Express	5 5   GREENWOOD EXPRESS
+2018-12-18 Tue	309 309   FIRST HILL EXPRESS	77 77   NORTH CITY EXPRESS
+2018-12-19 Wed	57 57 - Downtown Seattle Via SR-99	15 15 - Blue Ridge	984 984 - Downtown Seattle Special
+2018-12-20 Thu	5 5 - Downtown Seattle - Express	214 214 - Issaquah Transit Center Transit Center Only
+2018-12-30 Sun	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW	21 21 - Downtown Seattle Via 35th Ave SW	5 5 - Shoreline Greenwood	5 5 - Downtown Seattle Greenwood	21 21 - Westwood Village Via 35th Ave SW
+2018-12-31 Mon	77 77 - Downtown Seattle Maple Leaf	21 21 - Arbor Heights - Express	15 15 - Blue Ridge
+2019-01-02 Wed	57 57 - Downtown Seattle Via SR-99	17 17 - Downtown Seattle	40 40 - Crown Hill Only Fremont
+2019-01-03 Thu	40 40 - Northgate Fremont	40 40 - Downtown Seattle Fremont	57 57 - Alaska Junction Via SR-99
+2019-01-04 Fri	5 5 - Downtown Seattle - Express	77 77 - North City Maple Leaf
+2019-01-07 Mon	5 5 - Downtown Seattle - Express	55 55 - Admiral District Alaska Junction	15 15 - Blue Ridge	55 55 - Admiral District Alaska Junction
+2019-01-08 Tue	21 21 - Downtown Seattle - Express	5 5 - Greenwood - Express
+2019-01-09 Wed	44 44 - University Of Washington Medical Center Wallingford	43 43 - Downtown Seattle Capitol Hill	18 18 - Downtown Seattle	77 77 - North City Maple Leaf
+2019-01-10 Thu	77 77 - North City Maple Leaf
+2019-01-11 Fri	55 55 - Downtown Seattle Alaska Junction	214 214 - Issaquah	5 5 - Greenwood - Express
+2019-01-14 Mon	15 15 - Downtown Seattle	56 56 - Downtown Seattle Via SR-99	18 18 - North Beach	56 56 - Alki Via SR-99

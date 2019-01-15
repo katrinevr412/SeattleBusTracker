@@ -49,3 +49,4 @@
 2018-11-15 Thu	186 186   AUBURN	186 186   ENUMCLAW	186 186 - Auburn	186 186 - Enumclaw	186 186 - Auburn	192 192 - Star Lake Military Road
 2018-11-20 Tue	190 190 - Downtown Seattle Star Lake P&R	180 180 - Auburn Station	181 181 - Twin Lakes P&R Auburn Station
 2018-11-21 Wed	197 197 - University District Federal Way Transit Center	192 192 - Star Lake Military Road
+2018-11-23 Fri	168 168 - Kent Via SE 256th St

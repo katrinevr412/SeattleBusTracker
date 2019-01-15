@@ -12,3 +12,15 @@
 2018-11-19 Mon	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance	P11 11 - Dtwn Tacoma	P41 41 - Tacoma Mall via 56th St	P41 41 - Dwntn Tac Via 56th St	P11 11 - PT Defiance
 2018-11-20 Tue	P214 214 - Lakewood-VA Hospital	P214 214 - VA Hospital-Pierce College
 2018-11-21 Wed	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-11-28 Wed	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-12-07 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-12-10 Mon	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
+2018-12-11 Tue	P400 400 - Tacoma via Puyallup Station	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC
+2018-12-12 Wed	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - Pierce college via Shill	P4 4 - Lakewood	P4 4 - SouthHill	P4 4 - Lakewood
+2018-12-14 Fri	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P16 16 - DWTN via Proctor District	P48 48 - South M St - Sheridian St	P16 16 - TCC via Proctor District	P48 48 - South M St - Sheridian St	P206 206 - Madigan	P206 206 - Lakewood	P206 206 - Madigan
+2018-12-17 Mon	P202 202 - 72nd St TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 72nd St TC	P202 202 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC
+2018-12-18 Tue	P212 212 - Steilacoom - Pierce College
+2018-12-24 Mon	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P54 54 - Tacoma Mall	P54 54 - 72nd TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P409 409 - 29th St & th Ave Ne via Puyallup Sta	P409 409 - 72nd St TC	P202 202 - Lakewood	P202 202 - 72nd St TC	P202 202 - Lakewood	P206 206 - Tillicum
+2018-12-31 Mon	P2 2 - Bridgeport/S 19th -  Tacoma via TCC
+2019-01-10 Thu	P497 497 - Lakeland Hills
+2019-01-11 Fri	P45 45 - Parkland via Yakima	P45 45 - Downtown via Yakima	P45 45 - Parkland via Yakima

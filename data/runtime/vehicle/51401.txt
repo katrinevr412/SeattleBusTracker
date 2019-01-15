@@ -1,0 +1,7 @@
+2019-01-04 Fri	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma
+2019-01-07 Mon	577 577 - Seattle	577 577 - Federal Way TC
+2019-01-08 Tue	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2019-01-09 Wed	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2019-01-10 Thu	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2019-01-11 Fri	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	577 577 - Federal Way TC
+2019-01-14 Mon	577 577 - Seattle	577 577 - Federal Way TC	577 577 - Seattle	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma	594 594 - Seattle - Tacoma	594 594 - Lakewood -  Tacoma

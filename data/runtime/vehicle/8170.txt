@@ -44,3 +44,35 @@
 2018-11-19 Mon	888 888 - International School Interlake HS	212 212 - Downtown Seattle	887 887 - Newport Hills Newport HS	257 257 - Kingsgate
 2018-11-20 Tue	268 268 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
 2018-11-21 Wed	212 212 - Downtown Seattle	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-11-23 Fri	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-11-26 Mon	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	311 311 - Woodinville Via SR-520
+2018-11-27 Tue	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2018-11-28 Wed	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-11-29 Thu	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate
+2018-12-05 Wed	219 219 - Redmond Issaquah Highlands Park & Ride
+2018-12-06 Thu	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria	212 212 - Downtown Seattle	893 893 - Forbes Creek	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2018-12-07 Fri	311 311 - Downtown Seattle Via SR-520	889 889 - Bridle Trails Sammamish HS	219 219   REDMOND
+2018-12-10 Mon	252 252   DOWNTOWN SEATTLE	311 311 - Woodinville Via SR-520	212 212 - Eastgate P&R
+2018-12-11 Tue	311 311 - Downtown Seattle Via SR-520	218 218 - Downtown Seattle	212 212 - Eastgate P&R
+2018-12-12 Wed	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	218 218 - Issaquah Highlands	257 257 - Kingsgate
+2018-12-13 Thu	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	311 311   WOODINVILLE
+2018-12-14 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	252 252   KINGSGATE
+2018-12-17 Mon	219 219 - Downtown Seattle Eastgate	212 212 - Eastgate P&R	212 212 - Downtown Seattle Factoria	212 212 - Eastgate P&R
+2018-12-18 Tue	986 986 - Haller Lake Special	212 212 - Eastgate P&R
+2018-12-19 Wed	212 212 - Downtown Seattle	212 212 - Eastgate P&R	311 311 - Woodinville Via SR-520
+2018-12-20 Thu	823 823 - International School Newport HS	212 212 - Downtown Seattle	212 212 - Eastgate P&R
+2018-12-21 Fri	989 989 - Haller Lake Special	311 311 - Woodinville Via SR-520
+2018-12-24 Mon	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	217 217 - Downtown Seattle Eastgate
+2018-12-26 Wed	216 216 - Downtown Seattle Eastgate	212 212 - Eastgate Factoria
+2018-12-27 Thu	212 212 - Downtown Seattle	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
+2018-12-28 Fri	218 218   DOWNTOWN SEATTLE	217 217 - N Issaquah Eastgate	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2018-12-31 Mon	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2019-01-02 Wed	252 252 - Downtown Seattle Via SR-520	212 212 - Eastgate P&R	252 252 - Kingsgate Via SR-520
+2019-01-03 Thu	218 218 - Downtown Seattle	311 311 - Woodinville Via SR-520
+2019-01-04 Fri	218 218 - Downtown Seattle	212 212 - Downtown Seattle	212 212 - Eastgate P&R	257 257 - Kingsgate
+2019-01-07 Mon	218 218 - Downtown Seattle	217 217 - N Issaquah Eastgate	888 888 - Vasa Park Interlake HS	252 252 - Kingsgate Via SR-520
+2019-01-08 Tue	219 219 - Downtown Seattle Eastgate	216 216 - Downtown Seattle Eastgate	893 893 - Forbes Creek	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride
+2019-01-09 Wed	252 252 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	895 895 - Ardmore Park	212 212 - Eastgate P&R
+2019-01-10 Thu	218 218 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate	212 212 - Eastgate P&R
+2019-01-11 Fri	311 311 - Downtown Seattle Via SR-520	212 212 - Downtown Seattle	218 218 - Issaquah Highlands	217 217 - Downtown Seattle Eastgate
+2019-01-14 Mon	268 268 - Downtown Seattle Via SR-520	311 311 - Downtown Seattle Via SR-520	216 216 - Bear Creek P&R Issaquah Highlands Park & Ride	219 219 - Redmond Issaquah Highlands Park & Ride

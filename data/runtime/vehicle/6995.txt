@@ -34,3 +34,7 @@
 2018-11-16 Fri	311 311 - Downtown Seattle Via SR-520	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-11-19 Mon	311 311 - Downtown Seattle Via SR-520	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland
 2018-11-20 Tue	257 257 - Downtown Seattle	255 255 - Downtown Seattle Kirkland
+2018-11-27 Tue	268 268 - Downtown Seattle Via SR-520
+2018-12-10 Mon	257 257 - Downtown Seattle	218 218   ISSAQUAH HIGHLANDS
+2019-01-11 Fri	268 268 - Bear Creek P&R Via SR-520
+2019-01-14 Mon	311 311 - Downtown Seattle Via SR-520	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Brickyard P&R Kirkland	255 255 - Downtown Seattle Kirkland	255 255 - Totem Lake Transit Center Kirkland	255 255 - Downtown Seattle Kirkland

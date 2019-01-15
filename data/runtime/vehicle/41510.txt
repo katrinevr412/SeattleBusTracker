@@ -42,3 +42,24 @@
 2018-11-19 Mon	590 590 - Seattle - Tac Dome	567 567 - Kent St Via Renton
 2018-11-20 Tue	580 580 - Puyallup Station	580 580 - Lakewood	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way
 2018-11-21 Wed	580 580 - Puyallup Station	580 580 - Lakewood	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2018-12-13 Thu	590 590 - Tac Dome
+2018-12-14 Fri	590 590 - Seattle	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton
+2018-12-17 Mon	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2018-12-18 Tue	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	590 590 - Tac Dome
+2018-12-19 Wed	590 590 - Seattle - Tac Dome	592 592 - Lakewood/Dupont
+2018-12-20 Thu	596 596 - Sounder Connector-Sumner Stat	590 590 - Tac Dome
+2018-12-21 Fri	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton	590 590 - Commerce - Tac Dome	594 594 - Seattle - Tacoma	578 578 - Puyallup via federal way
+2018-12-24 Mon	590 590 - Seattle	592 592 - Lakewood/Dupont
+2018-12-26 Wed	590 590 - Seattle - Tac Dome	580 580 - Lakewood	580 580 - Puyallup Station
+2018-12-27 Thu	566 566 - Kent Station
+2018-12-28 Fri	592 592 - Seattle -  Express	595 595 - Gig Harbor -  Narrows
+2018-12-31 Mon	590 590 - Commerce - Tac Dome
+2019-01-02 Wed	590 590 - Commerce - Tac Dome
+2019-01-03 Thu	590 590 - Seattle	590 590 - Tac Dome	592 592 - Lakewood/Dupont
+2019-01-04 Fri	580 580 - Puyallup Station	580 580 - Lakewood	590 590 - Commerce - Tac Dome
+2019-01-07 Mon	590 590 - Seattle	590 590 - Commerce - Tac Dome
+2019-01-08 Tue	580 580 - Puyallup Station	580 580 - Lakewood	592 592 - Lakewood/Dupont
+2019-01-09 Wed	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport	560 560 - Bellevue Via Sea-Tac Airport	560 560 - Westwood Village Via Sea-Tac Airport
+2019-01-10 Thu	590 590 - Tac Dome	592 592 - Lakewood/Dupont
+2019-01-11 Fri	580 580 - Puyallup Station	580 580 - Lakewood	580 580 - Puyallup Station	580 580 - Lakewood
+2019-01-14 Mon	566 566 - Overlake TC via Renton	566 566 - Auburn Stn Via Renton	566 566 - Overlake TC via Renton

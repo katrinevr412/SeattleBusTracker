@@ -46,3 +46,19 @@
 2018-11-19 Mon	891 891 - Mercer Island HS	240 240 - Renton	240 240 - Bellevue Transit Center
 2018-11-20 Tue	891 891 - Mercer Island HS	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
 2018-11-21 Wed	342 342 - Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads	245 245 - Kirkland Crossroads	245 245 - Factoria Crossroads
+2018-11-23 Fri	240 240 - Renton	271 271 - Eastgate P&R Bellevue
+2018-11-26 Mon	893 893 - Lake Washington High School	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-11-27 Tue	277 277 - University District Houghton P&R	271 271 - Eastgate Bellevue	271 271 - University District Bellevue	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-28 Wed	240 240 - Renton	240 240 - Bellevue Transit Center	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-11-29 Thu	221 221 - Education Hill	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Issaquah Transit Center Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-11-30 Fri	221 221 - Education Hill	221 221 - Redmond Transit Center	221 221 - Education Hill	221 221 - Redmond Transit Center	221 221 - Education Hill	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-12-03 Mon	277 277 - University District Houghton P&R	245 245 - Factoria Crossroads
+2018-12-04 Tue	243 243 - Kenmore P&R	244 244 - Overlake Transit Center Kenmore P&R	244 244 - Kenmore Kingsgate P&R	243 243 - Overlake Transit Center
+2018-12-05 Wed	240 240 - Renton	240 240 - Bellevue Transit Center
+2018-12-07 Fri	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-12-10 Mon	887 887 - International School	271 271 - University District Bellevue	271 271 - Issaquah Bellevue
+2018-12-11 Tue	277 277   UNIVERSITY DISTRICT	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue
+2018-12-12 Wed	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake	238 238   KIRKLAND	236 236 - Woodinville Totem Lake	236 236 - Kirkland Totem Lake	238 238   WOODINVILLE	238 238 - Kirkland Totem Lake	236 236 - Woodinville Totem Lake	236 236   KIRKLAND	238 238 - Woodinville UW Bothell/Cascadia College	236 236 - Kirkland Totem Lake	238 238 - Woodinville UW Bothell/Cascadia College
+2018-12-13 Thu	237 237 - Bellevue Via I-405	271 271 - University District Bellevue	271 271 - Eastgate P&R Bellevue	271 271 - University District Bellevue
+2018-12-14 Fri	236 236 - Kirkland Totem Lake	238 238 - Woodinville UW Bothell/Cascadia College	277 277 - Juanita Houghton P&R	244 244   KENMORE
+2018-12-17 Mon	277 277   UNIVERSITY DISTRICT	271 271 - Issaquah Transit Center Bellevue

@@ -42,3 +42,40 @@
 2018-11-19 Mon	556 556 - Northgate	555 555 - Bellevue Transit Center	545 545 - Redmond	545 545 - Downtown Seattle
 2018-11-20 Tue	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - University District	542 542 - Redmond	542 542 - Green Lake P&R University District
 2018-11-21 Wed	545 545 - Downtown Seattle	545 545 - Redmond	522 522 - Woodinville	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville
+2018-11-23 Fri	522 522 - Downtown Seattle	545 545 - Redmond	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-11-25 Sun	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-11-26 Mon	556 556 - Northgate	555 555 - Issaquah	555 555 - Northgate	556 556 - Issaquah	555 555 - Northgate
+2018-11-27 Tue	555 555 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-11-28 Wed	522 522 - Bothell
+2018-11-29 Thu	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541 - University District University Of Washington Station	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	545 545 - Redmond
+2018-11-30 Fri	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-12-01 Sat	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2018-12-02 Sun	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-12-03 Mon	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-04 Tue	542 542 - Green Lake P&R University District	542 542 - Redmond	522 522 - Bothell
+2018-12-05 Wed	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-06 Thu	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-07 Fri	522 522 - Downtown Seattle	545 545 - Downtown Seattle	545 545 - Redmond
+2018-12-10 Mon	522 522 - Woodinville	522 522   BOTHELL EXPRESS
+2018-12-11 Tue	554 554 - Downtown Seattle	554 554 - Issaquah	556 556 - Northgate	522 522 - Woodinville
+2018-12-12 Wed	542 542 - Green Lake P&R University District	522 522 - Downtown Seattle	545 545 - Downtown Seattle	545 545 - Redmond	522 522 - Woodinville
+2018-12-13 Thu	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	554 554   ISSAQUAH EXPRESS	522 522   WOODINVILLE EXPRESS
+2018-12-14 Fri	554 554   DOWNTOWN SEATTLE EXPRESS	554 554 - Issaquah	554 554 - Downtown Seattle	541 541 - University District University Of Washington Station	541 541 - Overlake	541 541   UNIVERSITY DISTRICT EXPRESS	541 541   OVERLAKE EXPRESS
+2018-12-17 Mon	545 545 - Downtown Seattle	545 545   REDMOND EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle
+2018-12-18 Tue	545 545 - Downtown Seattle	545 545   REDMOND EXPRESS	545 545   DOWNTOWN SEATTLE EXPRESS	522 522 - Downtown Seattle	545 545 - Redmond
+2018-12-19 Wed	556 556 - Northgate	556 556 - Issaquah	555 555 - Northgate	556 556 - Issaquah
+2018-12-20 Thu	522 522 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle
+2018-12-21 Fri	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	522 522 - Woodinville
+2018-12-24 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	545 545 - Redmond
+2018-12-26 Wed	545 545 - Downtown Seattle	545 545 - Redmond	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle
+2018-12-27 Thu	522 522 - Downtown Seattle	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2018-12-28 Fri	540 540 - University District	540 540 - Kirkland	540 540 - University District	540 540 - Kirkland	540 540 - University District	522 522 - Woodinville
+2019-01-02 Wed	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	522 522 - Woodinville
+2019-01-03 Thu	545 545 - Downtown Seattle	545 545 - Redmond	522 522 - Woodinville	522 522 - Downtown Seattle
+2019-01-04 Fri	556 556 - Issaquah	555 555 - Northgate
+2019-01-07 Mon	522 522 - Downtown Seattle	522 522 - Woodinville	522 522 - Downtown Seattle	556 556 - Issaquah	545 545 - Redmond
+2019-01-08 Tue	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	555 555 - Northgate	556 556 - Issaquah
+2019-01-09 Wed	554 554 - Downtown Seattle	554 554 - Issaquah	554 554 - Downtown Seattle	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2019-01-10 Thu	522 522 - Downtown Seattle	542 542 - Redmond	542 542 - Green Lake P&R University District	542 542 - Redmond	542 542 - Green Lake P&R University District
+2019-01-11 Fri	522 522 - Downtown Seattle	545 545 - Redmond
+2019-01-14 Mon	545 545 - Downtown Seattle	545 545 - Redmond	545 545 - Downtown Seattle	522 522 - Woodinville	522 522 - Bothell

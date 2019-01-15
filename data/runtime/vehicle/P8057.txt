@@ -13,3 +13,5 @@
 2018-11-14 Wed	P497 497 - Lakeland Hills
 2018-11-16 Fri	P501 501 - Milton/Federal Way -  via 20th St	P500 500 - Tacoma	P500 500 - Federal Way	P501 501 - Milton/Tacoma - via A 20th St E	P42 42 - 72nd TC via Mckinley Ave	P42 42 - Dwntn Tac via McKinley Ave
 2018-11-19 Mon	P4 4 - Lakewood	P4 4 - Pierce college via Shill
+2018-11-23 Fri	P102 102 - Gig Harbor - Express-Purdy
+2018-11-30 Fri	P400 400 - Tacoma via Puyallup Station	P2 2 - S 19th/Bridgeport - Lakewood via TCC	P2 2 - Bridgeport/S 19th -  Tacoma via TCC	P2 2 - S 19th/Bridgeport - Lakewood via TCC
